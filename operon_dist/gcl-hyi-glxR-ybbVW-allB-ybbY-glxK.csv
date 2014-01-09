@@ -1,0 +1,11 @@
+Organism,Bordetella_bronchiseptica,Bordetella_parapertussis,Bradyrhizobium_japonicum,Escherichia_coli,Mesorhizobium_loti,Pseudomonas_aeruginosa,Pseudomonas_putida,Ralstonia_solanacearum,Salmonella_enterica,Shigella_flexneri
+Bordetella_bronchiseptica,0,7.0,6.5,4.0,6.0,7.0,6.5,6.0,5.0,6.5
+Bordetella_parapertussis,7.0,0,6.5,4.0,6.0,7.0,6.5,6.0,5.0,6.5
+Bradyrhizobium_japonicum,6.5,6.5,0,3.5,5.5,6.5,6.0,5.5,4.5,6.0
+Escherichia_coli,4.0,4.0,3.5,0,3.0,4.0,3.5,3.0,2.0,3.5
+Mesorhizobium_loti,6.0,6.0,5.5,3.0,0,6.0,5.5,5.0,4.0,5.5
+Pseudomonas_aeruginosa,7.0,7.0,6.5,4.0,6.0,0,6.5,6.0,5.0,6.5
+Pseudomonas_putida,6.5,6.5,6.0,3.5,5.5,6.5,0,5.5,4.5,6.0
+Ralstonia_solanacearum,6.0,6.0,5.5,3.0,5.0,6.0,5.5,0,4.0,5.5
+Salmonella_enterica,5.0,5.0,4.5,2.0,4.0,5.0,4.5,4.0,0,4.5
+Shigella_flexneri,6.5,6.5,6.0,3.5,5.5,6.5,6.0,5.5,4.5,0

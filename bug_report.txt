@@ -1,0 +1,6 @@
+This file will record known bugs that have occurred in my program as i locate the errors.  i will fix them as i get time.  I will state teh error, and what i have done to correct it in either the short term or long term.
+
+Shewanella_oneidensis_MR-1 in nuo operon is totally fucked!!!!!  i need to remove this, or manually fix the rest....  for now it is fixed, enough to move on.
+
+removed ydgK-rsxABCDGE-nth.txt because nth gene kinda fucks up my quick parser... need to reload.  i will have to find a way to overcome this issue though....  fuck nth.  right now i am removing the operon from consideration.
+

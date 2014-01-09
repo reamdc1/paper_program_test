@@ -1,0 +1,153 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+-mdtD -mdtA |
+-mdtC |
+-baeS -baeR -mdtB |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+baeR baeS |
+-mdtC -mdtB -mdtA |
+-mdtD |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+mdtA mdtB mdtC mdtD baeS baeR |
+>Brucella_suis_1330|NC_004310
+-baeS -mdtA |
+C md C mt C mA C mB |
+baeR |
+-mdtD |
+mdtB |
+mdtC |
+>Neisseria_meningitidis_MC58|NC_003112
+baeS baeR |
+-mdtC -mdtA |
+-mdtB |
+-mdtD |
+>Pseudomonas_putida_KT2440|NC_002947
+-mdtC -mdtA |
+-baeS -baeR |
+B <m B <d B <t B <D B <A |
+mdtB |
+mdtD |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+-baeR -baeS |
+-mdtD -mdtA |
+mdtB mdtC |
+>Vibrio_cholerae_MJ-1236|NC_012668
+mdtA mdtB |
+baeR baeS |
+-mdtC |
+mdtD |
+>Vibrio_vulnificus_CMCP6|NC_004459
+-baeS -baeR |
+-mdtB -mdtA |
+-mdtC |
+mdtD |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+-mdtB -mdtA |
+-baeS -baeR |
+-mdtC |
+-mdtD |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+-mdtC -mdtA |
+-baeS -baeR |
+-mdtB |
+mdtD |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+mdtA mdtB mdtC mdtD baeS baeR |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+-mdtB -mdtA |
+-baeS -baeR |
+-mdtD |
+-mdtC |
+>Sinorhizobium_meliloti_1021|NC_003047
+-baeS -baeR |
+-mdtB -mdtA |
+-mdtC |
+-mdtD |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+-mdtB -mdtA |
+baeR baeS |
+mdtC |
+mdtD |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+baeS baeR mdtD |
+mdtA mdtB mdtC |
+>Shewanella_oneidensis_MR-1|NC_004347
+-baeR -baeS |
+mdtA mdtC |
+mdtB mdtD |
+|
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+-baeS -baeR |
+-mdtD -mdtA |
+mdtB mdtC |
+>Bordetella_parapertussis_12822|NC_002928
+-baeS -baeR |
+-mdtC -mdtB -mdtA |
+-mdtD |
+>Bordetella_pertussis_Tohama_I|NC_002929
+baeR baeS |
+> md > mt > mA > mD |
+-mdtC -mdtB -mdtA |
+mdtD |
+>Xylella_fastidiosa_9a5c|NC_002488
+baeR baeS |
+mdtA mdtB mdtC |
+-mdtD |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-baeS -baeR |
+-mdtD -mdtA |
+-mdtC -mdtB |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+baeS baeR mdtD |
+> md > mt > mA > mB > mC |
+mdtA |
+mdtB |
+mdtC |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+mdtA mdtB mdtC mdtD baeS baeR |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+-baeS -baeR -mdtC |
+mdtA mdtB |
+-mdtD |
+>Yersinia_pestis_CO92|NC_003143
+-baeS -baeR |
+mdtA mdtB mdtC mdtD |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+baeR baeS |
+-mdtC |
+-mdtB |
+-mdtA |
+-mdtD |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-baeS -baeR -mdtB -mdtA |
+-mdtC |
+-mdtD |
+>Caulobacter_crescentus_CB15|NC_002696
+baeR baeS |
+-mdtC -mdtA |
+mdtB |
+mdtD |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+-baeS -baeR |
+-mdtC -mdtA |
+mdtB |
+-mdtD |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+baeR baeS |
+mdtA mdtC |
+mdtB |
+-mdtD |
+>Brucella_melitensis_ATCC_23457|NC_012441
+-baeS -mdtA |
+C md C mt C mA C mB |
+baeR |
+-mdtD |
+mdtB |
+mdtC |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+mdtA mdtB |
+-mdtD |
+-baeS -baeR |
+mdtC |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+-mdtB -mdtA |
+mdtC mdtD baeS baeR |

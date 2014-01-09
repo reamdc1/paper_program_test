@@ -1,0 +1,137 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+fabD fabG acpP fabF |
+plsX fabH |
+-rpmF |
+yceD |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+fabH |
+-fabF -acpP -fabG -fabD -plsX -rpmF -yceD |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+yceD rpmF plsX fabH fabD fabG acpP fabF |
+>Brucella_suis_1330|NC_004310
+fabD fabG acpP fabF |
+plsX fabH |
+-rpmF |
+yceD |
+>Neisseria_meningitidis_MC58|NC_003112
+-fabF -acpP |
+fabG |
+yceD rpmF |
+fabD |
+fabH |
+plsX |
+>Pseudomonas_putida_KT2440|NC_002947
+yceD rpmF plsX fabD fabG acpP fabF |
+-fabH |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+-fabF -acpP -fabG -fabD -fabH -plsX -rpmF -yceD |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+yceD rpmF plsX fabH fabD fabG acpP fabF |
+>Vibrio_cholerae_MJ-1236|NC_012668
+yceD rpmF plsX fabH fabD fabG acpP fabF |
+>Vibrio_vulnificus_CMCP6|NC_004459
+fabF fabG |
+-acpP -fabD -fabH -plsX -rpmF -yceD |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+plsX fabH |
+-fabF -acpP |
+fabD |
+-fabG |
+rpmF |
+yceD |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+-fabH -plsX |
+acpP fabF |
+fabD |
+fabG |
+rpmF |
+yceD |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+yceD rpmF plsX fabH fabD fabG acpP fabF |
+>Sinorhizobium_meliloti_1021|NC_003047
+fabD fabG acpP fabF |
+plsX fabH |
+-rpmF |
+yceD |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+-fabF -acpP -fabG -fabD -fabH -plsX -rpmF -yceD |
+>Bordetella_pertussis_Tohama_I|NC_002929
+-fabF -acpP -fabG -fabD -fabH -plsX -rpmF -yceD |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+rpmF fabH |
+fabD fabG acpP fabF |
+plsX |
+yceD |
+>Shewanella_oneidensis_MR-1|NC_004347
+-fabF -acpP -fabG -fabD -fabH -plsX -rpmF -yceD |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+fabD fabG acpP fabF |
+-fabH -plsX |
+rpmF |
+yceD |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+-acpP -fabG -fabD |
+-fabH -rpmF -yceD |
+-fabF |
+plsX |
+>Bordetella_parapertussis_12822|NC_002928
+-fabF -acpP -fabG -fabD -fabH -plsX -rpmF -yceD |
+>Xylella_fastidiosa_9a5c|NC_002488
+fabD fabG acpP fabF |
+yceD rpmF fabH |
+plsX |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-fabF -acpP -fabG -fabD -fabH -plsX -rpmF -yceD |
+>Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|NC_011833
+fabG acpP |
+fabF |
+rpmF |
+fabD |
+fabH |
+plsX |
+yceD |
+>Candidatus_Blochmannia_floridanus|NC_005061
+-acpP -fabG -fabD -fabH -plsX -rpmF |
+-fabF |
+yceD |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+-fabF -acpP -fabG -fabD |
+-fabH -rpmF -yceD |
+plsX |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+yceD rpmF plsX fabH fabD fabG acpP fabF |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+yceD rpmF plsX fabH fabD fabG acpP fabF |
+>Yersinia_pestis_CO92|NC_003143
+yceD rpmF plsX fabH fabD fabG acpP fabF |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+yceD rpmF plsX fabH fabD fabG acpP |
+fabF |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-fabF -acpP -fabG -fabD -plsX -rpmF -yceD |
+fabH |
+>Caulobacter_crescentus_CB15|NC_002696
+plsX fabH |
+fabD fabG |
+acpP fabF |
+rpmF |
+yceD |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+fabD fabG acpP fabF |
+plsX fabH |
+rpmF |
+yceD |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+-fabF -acpP -fabG |
+-fabH -plsX |
+fabD |
+rpmF |
+yceD |
+>Brucella_melitensis_ATCC_23457|NC_012441
+fabD fabG acpP |
+fabF |
+plsX fabH |
+-rpmF |
+yceD |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+yceD rpmF plsX fabH fabD fabG acpP fabF |

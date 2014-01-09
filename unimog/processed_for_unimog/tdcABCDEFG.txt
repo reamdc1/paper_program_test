@@ -1,0 +1,103 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+-tdcF |
+tdcD |
+-tdcG |
+-tdcA |
+-tdcB |
+tdcC |
+tdcE |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+tdcA tdcF |
+A> < A> t A> d A> c A> D |
+-tdcG |
+-tdcB |
+tdcC |
+tdcD |
+tdcE |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-tdcC -tdcG -tdcE -tdcD -tdcB -tdcA |
+-tdcF |
+>Pseudomonas_putida_KT2440|NC_002947
+tdcA |
+> td > tc > tG |
+tdcF |
+-tdcC |
+-tdcB |
+tdcD |
+tdcE |
+tdcG |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+-tdcG -tdcC |
+tdcE |
+-tdcD |
+tdcF |
+tdcA |
+-tdcB |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+tdcG |
+-tdcA |
+-tdcB |
+tdcC |
+tdcD |
+tdcE |
+tdcF |
+>Vibrio_cholerae_MJ-1236|NC_012668
+tdcC tdcG |
+-tdcE |
+tdcD |
+-tdcF |
+-tdcA |
+-tdcB |
+>Vibrio_vulnificus_CMCP6|NC_004459
+-tdcG -tdcC |
+tdcE |
+-tdcD |
+-tdcF |
+-tdcA |
+-tdcB |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+-tdcG -tdcC |
+tdcD |
+tdcF |
+-tdcB |
+tdcA |
+tdcE |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+tdcC tdcG |
+-tdcE -tdcD |
+-tdcB -tdcA |
+-tdcF |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+tdcC tdcG |
+-tdcF |
+|
+-tdcE |
+tdcD |
+tdcA |
+tdcB |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-tdcC -tdcG -tdcF -tdcE -tdcD -tdcB -tdcA |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+-tdcG -tdcC |
+-tdcE |
+tdcD |
+tdcF |
+-tdcA |
+-tdcB |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-tdcA |
+tdcD |
+-tdcG |
+-tdcF |
+tdcC |
+-tdcB |
+tdcE |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+-tdcG -tdcC |
+-tdcE |
+-tdcD |
+tdcF |
+-tdcA |
+tdcB |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+-tdcC -tdcG -tdcF -tdcE -tdcD -tdcB -tdcA |

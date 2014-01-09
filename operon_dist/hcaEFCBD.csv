@@ -1,0 +1,16 @@
+Organism,Bordetella_bronchiseptica,Bordetella_parapertussis,Bordetella_pertussis,Bradyrhizobium_japonicum,Caulobacter_crescentus,Escherichia_coli,Mesorhizobium_loti,Pseudomonas_aeruginosa,Pseudomonas_putida,Pseudomonas_syringae,Ralstonia_solanacearum,Shigella_flexneri,Sinorhizobium_meliloti,Xanthomonas_axonopodis,Xanthomonas_campestris
+Bordetella_bronchiseptica,0,5.5,6.0,5.5,4.0,2.5,5.5,4.5,5.5,6.0,4.0,3.0,5.0,6.0,4.5
+Bordetella_parapertussis,5.5,0,6.5,6.0,4.5,3.0,6.0,5.0,6.0,6.5,4.5,3.5,5.5,6.5,5.0
+Bordetella_pertussis,6.0,6.5,0,6.5,5.0,3.5,6.5,5.5,6.5,7.0,5.0,4.0,6.0,7.0,5.5
+Bradyrhizobium_japonicum,5.5,6.0,6.5,0,4.5,3.0,6.0,5.0,6.0,6.5,4.5,3.5,5.5,6.5,5.0
+Caulobacter_crescentus,4.0,4.5,5.0,4.5,0,1.5,4.5,3.5,4.5,5.0,3.0,2.0,4.0,5.0,3.5
+Escherichia_coli,2.5,3.0,3.5,3.0,1.5,0,3.0,2.0,3.0,3.5,1.5,0.5,2.5,3.5,2.0
+Mesorhizobium_loti,5.5,6.0,6.5,6.0,4.5,3.0,0,5.0,6.0,6.5,4.5,3.5,5.5,6.5,5.0
+Pseudomonas_aeruginosa,4.5,5.0,5.5,5.0,3.5,2.0,5.0,0,5.0,5.5,3.5,2.5,4.5,5.5,4.0
+Pseudomonas_putida,5.5,6.0,6.5,6.0,4.5,3.0,6.0,5.0,0,6.5,4.5,3.5,5.5,6.5,5.0
+Pseudomonas_syringae,6.0,6.5,7.0,6.5,5.0,3.5,6.5,5.5,6.5,0,5.0,4.0,6.0,7.0,5.5
+Ralstonia_solanacearum,4.0,4.5,5.0,4.5,3.0,1.5,4.5,3.5,4.5,5.0,0,2.0,4.0,5.0,3.5
+Shigella_flexneri,3.0,3.5,4.0,3.5,2.0,0.5,3.5,2.5,3.5,4.0,2.0,0,3.0,4.0,2.5
+Sinorhizobium_meliloti,5.0,5.5,6.0,5.5,4.0,2.5,5.5,4.5,5.5,6.0,4.0,3.0,0,6.0,4.5
+Xanthomonas_axonopodis,6.0,6.5,7.0,6.5,5.0,3.5,6.5,5.5,6.5,7.0,5.0,4.0,6.0,0,5.5
+Xanthomonas_campestris,4.5,5.0,5.5,5.0,3.5,2.0,5.0,4.0,5.0,5.5,3.5,2.5,4.5,5.5,0

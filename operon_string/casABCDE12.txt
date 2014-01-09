@@ -1,0 +1,3 @@
+NC_000913	Escherichia_coli	*cas21EDCBA
+NC_003198	Salmonella_enterica	*cas21EDC*casA
+NC_003197	Salmonella_enterica	*cas21EDC*casA

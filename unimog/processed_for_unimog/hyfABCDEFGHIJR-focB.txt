@@ -1,0 +1,297 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+-hyfF -hyfB -hyfD |
+-hyfG -hyfI |
+-hyfR |
+-hyfA |
+-hyfH |
+focB |
+hyfC |
+hyfE |
+hyfJ |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+hyfI hyfG |
+hyfC hyfH |
+hyfD hyfF |
+hyfB |
+hyfA |
+hyfR |
+focB |
+hyfE |
+hyfJ |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-hyfF -hyfD |
+-hyfJ -hyfI -hyfH -hyfG -hyfC -hyfB -hyfA |
+-hyfR |
+-focB |
+hyfE |
+>Brucella_suis_1330|NC_004310
+hyfI hyfG |
+hyfC hyfH |
+hyfF hyfB |
+-hyfR |
+-hyfA |
+hyfD |
+focB |
+hyfE |
+hyfJ |
+>Neisseria_meningitidis_MC58|NC_003112
+hyfB hyfD hyfF |
+hyfR |
+hyfI |
+hyfH |
+hyfG |
+focB |
+hyfA |
+hyfC |
+hyfE |
+hyfJ |
+>Pseudomonas_putida_KT2440|NC_002947
+hyfI hyfG |
+hyfC hyfH |
+hyfD hyfB |
+-hyfR |
+hyfA |
+-hyfF |
+focB |
+hyfE |
+hyfJ |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+hyfI hyfG |
+hyfD hyfF |
+hyfB |
+focB |
+hyfH |
+hyfA |
+hyfR |
+hyfC |
+hyfE |
+hyfJ |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+-hyfF -hyfD |
+-hyfH -hyfC |
+-hyfB |
+-hyfA |
+-hyfG |
+-hyfI |
+hyfR |
+focB |
+hyfE |
+hyfJ |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+-hyfF -hyfB -hyfD |
+-hyfH -hyfC |
+-hyfG -hyfI |
+hyfR |
+-hyfA |
+focB |
+hyfE |
+hyfJ |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+-hyfF -hyfB -hyfD |
+-hyfH -hyfC |
+-hyfG -hyfI |
+-hyfR |
+-hyfA |
+focB |
+hyfE |
+hyfJ |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-hyfF -hyfD |
+-hyfJ -hyfI -hyfH -hyfG -hyfC -hyfB -hyfA |
+-hyfR |
+-focB |
+hyfE |
+>Sinorhizobium_meliloti_1021|NC_003047
+hyfI hyfG |
+hyfD hyfB |
+-hyfR |
+-hyfA |
+hyfH |
+hyfF |
+focB |
+hyfC |
+hyfE |
+hyfJ |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+-hyfF -hyfD -hyfB |
+-hyfC |
+-hyfR |
+-hyfA |
+-hyfG |
+-hyfI |
+focB |
+hyfE |
+hyfH |
+hyfJ |
+>Shewanella_oneidensis_MR-1|NC_004347
+-hyfF -hyfD |
+-hyfH -hyfC |
+-hyfG -hyfI |
+-hyfB |
+-focB |
+hyfA |
+-hyfR |
+hyfE |
+hyfJ |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+-hyfF -hyfD |
+-hyfG -hyfI |
+hyfB hyfC |
+hyfR |
+-focB |
+-hyfH |
+hyfA |
+hyfE |
+hyfJ |
+>Bordetella_parapertussis_12822|NC_002928
+-hyfB -hyfD |
+-hyfF |
+-hyfH -hyfC |
+-hyfG -hyfI |
+-hyfR |
+hyfA |
+focB |
+hyfE |
+hyfJ |
+>Bordetella_pertussis_Tohama_I|NC_002929
+hyfI hyfG |
+hyfC hyfH |
+hyfD hyfF |
+hyfB |
+hyfR |
+hyfA |
+focB |
+hyfE |
+hyfJ |
+>Xylella_fastidiosa_9a5c|NC_002488
+hyfB hyfD hyfF |
+hyfC |
+-hyfR |
+hyfI |
+hyfG |
+hyfA |
+focB |
+hyfE |
+hyfH |
+hyfJ |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-hyfR |
+|
+-hyfB -hyfD |
+-hyfF |
+-hyfH -hyfC |
+hyfA |
+-hyfG |
+-hyfI |
+focB |
+hyfE |
+hyfJ |
+>Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|NC_011833
+hyfI hyfG |
+hyfC hyfH |
+hyfD hyfF |
+hyfB |
+focB |
+hyfA |
+hyfE |
+hyfJ |
+hyfR |
+>Candidatus_Blochmannia_floridanus|NC_005061
+-hyfF -hyfD |
+-hyfH -hyfC |
+-hyfG -hyfI |
+-hyfB |
+focB |
+hyfA |
+hyfE |
+hyfJ |
+hyfR |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+-hyfD -hyfB |
+hyfI |
+hyfC |
+hyfR |
+hyfA |
+hyfG |
+-hyfF |
+focB |
+hyfE |
+hyfH |
+hyfJ |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+hyfA hyfB hyfC hyfD hyfE hyfF hyfG hyfH hyfI hyfJ hyfR focB |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+-hyfF -hyfD |
+hyfB |
+-hyfI |
+-hyfH |
+hyfR |
+focB |
+-hyfG |
+hyfA |
+hyfC |
+hyfE |
+hyfJ |
+>Yersinia_pestis_CO92|NC_003143
+hyfA |
+-hyfF -hyfD |
+-hyfH -hyfC |
+-hyfG -hyfI |
+-hyfB |
+-focB |
+-hyfR |
+hyfE |
+hyfJ |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+hyfR |
+hyfI hyfG |
+hyfC hyfH |
+hyfD hyfB hyfF |
+focB |
+hyfA |
+hyfE |
+hyfJ |
+>Caulobacter_crescentus_CB15|NC_002696
+-hyfD -hyfB |
+-hyfH -hyfC |
+-hyfG -hyfI |
+hyfR |
+-hyfF |
+focB |
+hyfA |
+hyfE |
+hyfJ |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+hyfI hyfG |
+hyfD hyfB hyfF |
+hyfR |
+hyfH |
+focB |
+hyfA |
+hyfC |
+hyfE |
+hyfJ |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+hyfD hyfB hyfF |
+-hyfI -hyfH -hyfG -hyfE -hyfC -hyfA |
+hyfR |
+focB |
+hyfJ |
+>Brucella_melitensis_ATCC_23457|NC_012441
+hyfI hyfG |
+hyfC hyfH |
+hyfB |
+-hyfR |
+-hyfA |
+hyfF |
+hyfD |
+focB |
+hyfE |
+hyfJ |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+hyfC hyfD hyfE hyfF |
+hyfH hyfI |
+-hyfG -hyfB -hyfA |
+hyfJ |
+-focB |
+-hyfR |

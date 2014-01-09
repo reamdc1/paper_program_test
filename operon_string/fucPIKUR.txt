@@ -1,0 +1,11 @@
+NC_002516	Pseudomonas_aeruginosa	*fucKR
+NC_003197	Salmonella_enterica	*fucIKUR*fucP
+NC_002947	Pseudomonas_putida	*fucRK
+NC_004459	Vibrio_vulnificus	*fucRK
+NC_003198	Salmonella_enterica	*fucPIKUR
+NC_003047	Sinorhizobium_meliloti	*fucKK*fucU*fucR
+NC_004603	Vibrio_parahaemolyticus	*fucKR
+NC_000913	Escherichia_coli	*fucPIKUR
+NC_004578	Pseudomonas_syringae	*fucKR
+NC_000907	Haemophilus_influenzae	*fucUKIR*fucP
+NC_004741	Shigella_flexneri	*fucPI*fucUR*fucK

@@ -1,0 +1,157 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+-fecE -fecD |
+-fecC |
+fecA |
+fecB |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+-fecE |
+fecC fecD |
+fecA |
+fecB |
+>Brucella_suis_1330|NC_004310
+-fecE -fecC |
+-fecD |
+-fecA |
+fecB |
+>Pseudomonas_putida_KT2440|NC_002947
+-fecE -fecD |
+-fecA -fecB |
+-fecC |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+-fecE -fecD -fecC |
+-fecB |
+fecA |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+-fecE -fecC -fecA |
+-fecD |
+fecB |
+>Vibrio_cholerae_MJ-1236|NC_012668
+-fecC -fecB -fecE -fecA |
+|
+-fecD |
+>Vibrio_vulnificus_CMCP6|NC_004459
+-fecE -fecD |
+-fecC |
+fecA |
+fecB |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+-fecE |
+fecA |
+fecB |
+fecC |
+fecD |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+fecA fecC fecE fecB |
+fecD |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-fecE -fecD -fecC |
+-fecB |
+-fecA |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+fecA fecE |
+-fecD -fecC |
+-fecB |
+>Sinorhizobium_meliloti_1021|NC_003047
+fecD fecE |
+fecC |
+fecA |
+fecB |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+fecD fecE |
+fecC |
+-fecA |
+fecB |
+>Bordetella_pertussis_Tohama_I|NC_002929
+-fecE -fecD |
+fecA |
+-fecC |
+fecB |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+-fecE |
+fecA |
+fecB |
+fecC |
+fecD |
+>Shewanella_oneidensis_MR-1|NC_004347
+fecE fecD |
+fecC |
+fecA |
+fecB |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+fecD fecE |
+fecC |
+-fecA |
+fecB |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+-fecE -fecD |
+-fecC |
+-fecA |
+fecB |
+>Bordetella_parapertussis_12822|NC_002928
+fecD fecE |
+fecC |
+fecA |
+fecB |
+>Xylella_fastidiosa_9a5c|NC_002488
+-fecE -fecA |
+fecB |
+fecC |
+fecD |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-fecA |
+fecD fecE |
+fecC |
+fecB |
+>Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|NC_011833
+fecE |
+fecA |
+fecB |
+fecC |
+fecD |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+-fecA |
+-fecE |
+fecB |
+fecC |
+fecD |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-fecE -fecD -fecC -fecB -fecA |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+-fecA |
+-fecE |
+fecB |
+fecC |
+fecD |
+>Yersinia_pestis_CO92|NC_003143
+fecD fecE fecA |
+-fecC -fecB |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+-fecE -fecD -fecC -fecB |
+fecA |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-fecE -fecD -fecC -fecB |
+fecA |
+|
+>Caulobacter_crescentus_CB15|NC_002696
+fecD fecE |
+-fecA |
+|
+fecC |
+fecB |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+fecB fecD fecC fecE |
+fecA |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+fecD fecE |
+fecC |
+-fecA |
+fecB |
+>Brucella_melitensis_ATCC_23457|NC_012441
+-fecE -fecC |
+-fecD |
+-fecA |
+fecB |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+fecA fecE |
+-fecD -fecC |
+-fecB |

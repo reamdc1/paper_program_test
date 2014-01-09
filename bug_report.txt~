@@ -1,0 +1,4 @@
+Shewanella_oneidensis_MR-1 in nuo operon is totally fucked!!!!!  i need to remove this, or manually fix the rest....  for now it si fixed, enough to move on.
+
+removed ydgK-rsxABCDGE-nth.txt because nth gene kinda fucks up my quick parser... need to reload
+

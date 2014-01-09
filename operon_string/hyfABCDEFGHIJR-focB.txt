@@ -1,0 +1,31 @@
+NC_002678	Mesorhizobium_loti	hyfFBD hyfGGI hyfR hyfA hyfH
+NC_002516	Pseudomonas_aeruginosa	hyfIG hyfCH hyfDDF hyfB hyfA hyfR
+NC_003197	Salmonella_enterica	hyfFDD hyfJIHGCBA hyfR focB
+NC_004310	Brucella_suis	hyfIGG hyfCH hyfFBF hyfR hyfA hyfD
+NC_003112	Neisseria_meningitidis	hyfBDF hyfR hyfI hyfH hyfG
+NC_002947	Pseudomonas_putida	hyfIG hyfCH hyfDDB hyfR hyfA hyfF
+NC_005085	Chromobacterium_violaceum	hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR
+NC_003295	Ralstonia_solanacearum	hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR
+NC_004917	Helicobacter_hepaticus	hyfFBD hyfHC hyfGGI hyfR hyfA
+NC_002163	Campylobacter_jejuni	hyfFBD hyfHC hyfGGI hyfR hyfA
+NC_003198	Salmonella_enterica	hyfFDD hyfJIHGCBA hyfR focB
+NC_003047	Sinorhizobium_meliloti	hyfIGG hyfDB hyfR hyfA hyfH hyfF
+NC_003919	Xanthomonas_axonopodis	hyfFDB hyfC hyfR hyfA hyfG hyfI
+NC_004347	Shewanella_oneidensis	hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR
+NC_004463	Bradyrhizobium_japonicum	hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA
+NC_002928	Bordetella_parapertussis	hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA
+NC_002929	Bordetella_pertussis	hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA
+NC_002488	Xylella_fastidiosa	hyfBDF hyfC hyfR hyfI hyfG hyfA
+NC_002927	Bordetella_bronchiseptica	hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI
+NC_011833	Buchnera_aphidicola	hyfIG hyfCH hyfDFF hyfB
+NC_005061	Candidatus_Blochmannia	hyfFFD hyfHC hyfGI hyfB
+NC_007086	Xanthomonas_campestris	hyfDB hyfI hyfC hyfR hyfA hyfG hyfF
+NC_000913	Escherichia_coli	hyfABCDEFGHIJR-focB
+NC_004757	Nitrosomonas_europaea	hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA
+NC_003143	Yersinia_pestis	hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR
+NC_004578	Pseudomonas_syringae	hyfRR hyfIG hyfCH hyfDBF
+NC_002696	Caulobacter_crescentus	hyfDBD hyfHC hyfGGI hyfR hyfF
+NC_003062	Agrobacterium_tumefaciens	hyfIGG hyfDBF hyfR hyfH
+NC_005090	Wolinella_succinogenes	hyfDBF hyfIHGFECBA hyfR
+NC_012441	Brucella_melitensis	hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD
+NC_004741	Shigella_flexneri	hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR

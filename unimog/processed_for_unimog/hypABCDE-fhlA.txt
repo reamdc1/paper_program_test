@@ -1,0 +1,46 @@
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+hypA hypB hypC hypD hypE fhlA |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+-hypC -hypB |
+-hypE |
+-hypD |
+fhlA |
+hypA |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+hypB hypD hypE hypA |
+-fhlA |
+hypC |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+hypA hypB hypC hypD hypE fhlA |
+>Shewanella_oneidensis_MR-1|NC_004347
+-hypA -hypE -hypD -hypC -hypB |
+-fhlA |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+hypC hypD hypE |
+-hypB -hypA |
+fhlA |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-fhlA |
+|
+-hypB |
+hypA |
+hypC |
+hypD |
+hypE |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+hypA hypB hypC hypD hypE fhlA |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+fhlA |
+-hypB |
+hypA |
+hypC |
+hypD |
+hypE |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+hypB hypD |
+hypE |
+fhlA |
+hypA |
+hypC |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+hypA hypB hypC hypD hypE fhlA |

@@ -1,0 +1,227 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+-hycC |
+-hycF -hycD |
+-hycE -hycG |
+-hycB |
+hycA |
+hycH |
+hycI |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+hycG hycE |
+hycD hycF |
+hycC |
+-hycB |
+hycA |
+hycH |
+hycI |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-hycI -hycH -hycG -hycF -hycE -hycD -hycC -hycB -hycA |
+>Brucella_suis_1330|NC_004310
+hycG hycE |
+hycD hycF |
+hycC |
+hycA |
+hycB |
+hycH |
+hycI |
+>Neisseria_meningitidis_MC58|NC_003112
+hycD hycF |
+hycC |
+hycE |
+hycG |
+hycA |
+hycB |
+hycH |
+hycI |
+>Pseudomonas_putida_KT2440|NC_002947
+hycG hycE |
+hycD hycF |
+hycC |
+hycB |
+hycA |
+hycH |
+hycI |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+hycG hycE |
+hycD hycF |
+hycC |
+-hycB |
+hycA |
+hycH |
+hycI |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+-hycC |
+-hycF -hycD |
+-hycE -hycG |
+-hycB |
+hycA |
+hycH |
+hycI |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+-hycC |
+-hycF -hycD |
+-hycE -hycG |
+hycI |
+-hycB |
+hycA |
+hycH |
+>Bordetella_parapertussis_12822|NC_002928
+-hycF -hycD |
+-hycE -hycG |
+-hycB |
+-hycC |
+hycA |
+hycH |
+hycI |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+-hycC |
+-hycF -hycD |
+-hycE -hycG |
+-hycB |
+hycA |
+hycH |
+hycI |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-hycI -hycH -hycG -hycF -hycE -hycD -hycC -hycB -hycA |
+>Sinorhizobium_meliloti_1021|NC_003047
+hycG hycE |
+hycD hycF |
+hycC |
+hycA |
+hycB |
+hycH |
+hycI |
+>Shewanella_oneidensis_MR-1|NC_004347
+-hycC |
+-hycF -hycD |
+-hycE -hycG |
+hycB |
+hycA |
+hycH |
+hycI |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+-hycF -hycD |
+hycC hycE hycG |
+-hycB |
+hycA |
+hycH |
+hycI |
+>Bordetella_pertussis_Tohama_I|NC_002929
+hycG hycE |
+hycD hycF |
+hycC |
+hycA |
+hycB |
+hycH |
+hycI |
+>Xylella_fastidiosa_9a5c|NC_002488
+hycD hycF |
+hycC |
+hycE |
+hycG |
+hycA |
+hycB |
+hycH |
+hycI |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-hycF -hycD |
+-hycE -hycG |
+-hycB |
+-hycC |
+hycA |
+hycH |
+hycI |
+>Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|NC_011833
+hycG hycE |
+hycD hycF |
+hycB |
+hycC |
+hycA |
+hycH |
+hycI |
+>Candidatus_Blochmannia_floridanus|NC_005061
+-hycF -hycD |
+-hycE -hycG |
+-hycC |
+hycA |
+hycB |
+hycH |
+hycI |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+hycD hycF |
+hycC |
+hycE |
+hycG |
+hycA |
+hycB |
+hycH |
+hycI |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-hycI -hycH -hycG -hycF -hycE -hycD -hycC -hycB -hycA |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+-hycC |
+-hycF -hycD |
+-hycE |
+-hycG |
+hycA |
+hycB |
+hycH |
+hycI |
+>Yersinia_pestis_CO92|NC_003143
+hycB |
+-hycC |
+-hycF -hycD |
+-hycE -hycG |
+hycA |
+hycH |
+hycI |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+hycG hycE |
+hycD hycF |
+hycC |
+hycA |
+hycB |
+hycH |
+hycI |
+>Caulobacter_crescentus_CB15|NC_002696
+-hycC |
+-hycF -hycD |
+-hycE -hycG |
+hycA |
+hycB |
+hycH |
+hycI |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+hycG hycE |
+hycD hycF |
+hycC |
+hycA |
+hycB |
+hycH |
+hycI |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+-hycI -hycG -hycF -hycE -hycC |
+-hycD -hycB |
+hycA |
+hycH |
+>Brucella_melitensis_ATCC_23457|NC_012441
+hycG hycE |
+hycD hycF |
+hycC |
+hycA |
+hycB |
+hycH |
+hycI |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+-hycC |
+-hycF -hycD |
+-hycE |
+-hycG |
+hycA |
+hycB |
+hycH |
+hycI |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+hycF hycG hycH |
+-hycE -hycD -hycC -hycB -hycA |
+hycI |

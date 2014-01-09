@@ -1,0 +1,4 @@
+Organism,Escherichia_coli,Salmonella_enterica,Shigella_flexneri
+Escherichia_coli,0,1.0,0.5
+Salmonella_enterica,1.0,0,1.5
+Shigella_flexneri,0.5,1.5,0

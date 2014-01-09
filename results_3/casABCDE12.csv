@@ -1,0 +1,4 @@
+NC_Number,Common,Distance,Splitting,Migration,Duplicates,Deletions,Splits,Longest_Group,Total_Fusions,Group_Fusions,Inversions
+NC_000913,Escherichia coli,0.00,0.00,1.00,0,0,0,7,0,0
+NC_003198,Salmonella enterica,1.35,0.14,0.71,0,1,1,5,0,0
+NC_003197,Salmonella enterica,1.35,0.14,0.71,0,1,1,5,0,0

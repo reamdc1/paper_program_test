@@ -1,0 +1,32 @@
+NC_002678	Mesorhizobium_loti	uhpAB ilvB
+NC_002516	Pseudomonas_aeruginosa	uhpCB A ilvNB
+NC_003197	Salmonella_enterica	ilvBN uhpCCBA
+NC_002947	Pseudomonas_putida	uhpBA ilvNB uhpC
+NC_005085	Chromobacterium_violaceum	ilvBN uhpC uhpA
+NC_012668	Vibrio_cholerae	ilvBN uhpAB
+NC_004459	Vibrio_vulnificus	ilvNB uhpBA
+NC_004917	Helicobacter_hepaticus	ilvNB uhpC uhpA
+NC_003198	Salmonella_enterica	ilvBN uhpABCC
+NC_003295	Ralstonia_solanacearum	uhpBA ilvNB uhpC
+NC_003047	Sinorhizobium_meliloti	ilvNB uhpA
+NC_004603	Vibrio_parahaemolyticus	ilvBN uhpAB uhpC
+NC_003919	Xanthomonas_axonopodis	uhpBA uhpC ilvB
+NC_004347	Shewanella_oneidensis	uhpAB ilvNB
+NC_004463	Bradyrhizobium_japonicum	uhpBA  ilvBB uhpC ilvN
+NC_002928	Bordetella_parapertussis	ilvNB uhpC uhpB uhpA
+NC_002929	Bordetella_pertussis	ilvBN uhpA
+NC_002488	Xylella_fastidiosa	uhpAA ilvB
+NC_002927	Bordetella_bronchiseptica	ilvNB uhpC uhpB uhpA
+NC_011833	Buchnera_aphidicola	ilvNB
+NC_007086	Xanthomonas_campestris	uhpBA uhpC ilvB
+NC_000913	Escherichia_coli	uhpCCBA-ilvNB-ivbL
+NC_004757	Nitrosomonas_europaea	ilvNB uhpB uhpA
+NC_003143	Yersinia_pestis	ilvBN uhpC uhpB uhpA
+NC_002663	Pasteurella_multocida	ilvNB uhpCBAC
+NC_004578	Pseudomonas_syringae	uhpBA ilvBN uhpC
+NC_002696	Caulobacter_crescentus	uhpAA ilvBN uhpC
+NC_003062	Agrobacterium_tumefaciens	ilvNB uhpC uhpA
+NC_005090	Wolinella_succinogenes	ilvNB uhpA
+NC_012441	Brucella_melitensis	uhpBA uhpC ilvB
+NC_000907	Haemophilus_influenzae	ilvNB uhpC uhpA
+NC_004741	Shigella_flexneri	uhpCCBA-ilvNB-ivbL

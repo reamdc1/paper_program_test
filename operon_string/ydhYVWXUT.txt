@@ -1,0 +1,6 @@
+NC_003197	Salmonella_enterica	ydhUX ydhY
+NC_003198	Salmonella_enterica	ydhUX ydhY
+NC_000913	Escherichia_coli	ydhTUXWVY
+NC_003143	Yersinia_pestis	ydhXX ydhY
+NC_005090	Wolinella_succinogenes	ydhYV  ydhX
+NC_004741	Shigella_flexneri	ydhTUXW ydhY

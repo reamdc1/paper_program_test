@@ -1,0 +1,28 @@
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-pspE -pspD -pspC -pspB -pspA |
+>Vibrio_cholerae_MJ-1236|NC_012668
+pspA pspB pspC |
+pspD |
+pspE |
+>Vibrio_vulnificus_CMCP6|NC_004459
+-pspC -pspB -pspA |
+pspD |
+pspE |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+pspA pspB pspC pspD pspE |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+pspA pspB pspC |
+pspD |
+pspE |
+>Shewanella_oneidensis_MR-1|NC_004347
+pspA pspB pspC |
+pspE |
+pspD |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+pspA pspB pspC pspD pspE |
+>Yersinia_pestis_CO92|NC_003143
+-pspC -pspB -pspA |
+-pspE |
+pspD |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+pspA pspB pspC pspD pspE |

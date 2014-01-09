@@ -1,0 +1,17 @@
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+ulaA ulaB ulaC ulaD ulaE ulaF |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+ulaA ulaB ulaC ulaD ulaE ulaF |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+ulaA ulaC ulaD |
+-ulaF -ulaE |
+ulaB |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+ulaA ulaB ulaC ulaD ulaE ulaF |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+-ulaD -ulaF -ulaE |
+ulaA |
+ulaB |
+ulaC |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+ulaA ulaB ulaC ulaD ulaE ulaF |

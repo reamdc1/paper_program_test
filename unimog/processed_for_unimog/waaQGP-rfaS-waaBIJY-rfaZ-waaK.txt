@@ -1,0 +1,115 @@
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+-waaP -waaG -waaQ |
+-waaB |
+rfaS |
+rfaZ |
+waaI |
+waaJ |
+waaK |
+waaY |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-rfaZ -waaY -waaJ -waaI -waaB -waaP -waaG -waaQ |
+rfaS |
+waaK |
+>Pseudomonas_putida_KT2440|NC_002947
+waaQ waaG waaP |
+rfaZ |
+rfaS |
+waaB |
+waaI |
+waaJ |
+waaK |
+waaY |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+-waaB -waaQ |
+-waaG |
+rfaS |
+rfaZ |
+waaI |
+waaJ |
+waaK |
+waaP |
+waaY |
+>Vibrio_vulnificus_CMCP6|NC_004459
+waaB waaG |
+waaQ |
+rfaS |
+rfaZ |
+waaI |
+waaJ |
+waaK |
+waaP |
+waaY |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+waaQ waaG waaP |
+waaB waaI waaJ waaY rfaZ |
+rfaS |
+waaK |
+>Sinorhizobium_meliloti_1021|NC_003047
+waaB waaG |
+rfaS |
+rfaZ |
+waaI |
+waaJ |
+waaK |
+waaP |
+waaQ |
+waaY |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+-waaG -waaB |
+-waaQ |
+rfaS |
+rfaZ |
+waaI |
+waaJ |
+waaK |
+waaP |
+waaY |
+>Shewanella_oneidensis_MR-1|NC_004347
+waaQ waaB |
+-waaG |
+rfaS |
+rfaZ |
+waaI |
+waaJ |
+waaK |
+waaP |
+waaY |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-waaK -rfaZ -waaY -waaJ -waaI -waaB -rfaS -waaP -waaG -waaQ |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+waaB waaJ |
+> wa > wK |
+-waaI |
+-waaQ |
+rfaS |
+rfaZ |
+waaG |
+waaK |
+waaP |
+waaY |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-waaP -waaG -waaQ |
+-rfaZ |
+rfaS |
+waaB |
+waaI |
+waaJ |
+waaK |
+waaY |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+-waaQ -waaG |
+-waaB |
+rfaS |
+rfaZ |
+waaI |
+waaJ |
+waaK |
+waaP |
+waaY |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+waaQ waaG waaP waaI waaY waaJ |
+rfaS |
+rfaZ |
+waaB |
+waaK |

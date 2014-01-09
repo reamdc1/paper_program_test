@@ -1,0 +1,16 @@
+Mesorhizobium_loti_MAFF303099	<tdcFF> tdcD <tdcG> <tdcA> <tdcB>
+Pseudomonas_aeruginosa_PAO1	tdcAF A> <tdcD> <tdcG> <tdcB>
+Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	<tdcCGEDCBA> <tdcF>
+Pseudomonas_putida_KT2440	tdcAA > tdcG tdcF <tdcC> <tdcB>
+Chromobacterium_violaceum_ATCC_12472	<tdcGC> tdcE <tdcD> tdcF tdcA <tdcB>
+Ralstonia_solanacearum_GMI1000	tdcGG <tdcA> <tdcB>
+Vibrio_cholerae_MJ-1236	tdcCG <tdcE> tdcD <tdcF> <tdcA> <tdcB>
+Vibrio_vulnificus_CMCP6	<tdcGC> tdcE <tdcD> <tdcF> <tdcA> <tdcB>
+Campylobacter_jejuni_subsp._jejuni_NCTC_11168	<tdcGC> tdcD tdcF <tdcB>
+Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	tdcCG <tdcGED> <tdcBA> <tdcF>
+Vibrio_parahaemolyticus_RIMD_2210633	tdcCG <tdcFC>  <tdcE> tdcD tdcA tdcB
+Escherichia_coli_str._K-12_substr._MG1655	<tdcCGFEDCBA>
+Pasteurella_multocida_subsp._multocida_str._Pm70	<tdcGC> <tdcE> tdcD tdcF <tdcA> <tdcB>
+Pseudomonas_syringae_pv._tomato_str._DC3000	<tdcAA> tdcD <tdcG> <tdcF> tdcC <tdcB>
+Haemophilus_influenzae_Rd_KW20	<tdcGC> <tdcE> <tdcD> tdcF <tdcA> tdcB
+Shigella_flexneri_2a_str._2457T	<tdcCGFEDCBA>

@@ -1,0 +1,6 @@
+NC_003197	Salmonella_enterica	*ulaABCDEF
+NC_003198	Salmonella_enterica	*ulaABCDEF
+NC_002663	Pasteurella_multocida	*ulaACD*ulaFED*ulaB
+NC_000913	Escherichia_coli	*ulaABCDEF
+NC_000907	Haemophilus_influenzae	*ulaDFE
+NC_004741	Shigella_flexneri	*ulaABCDEF

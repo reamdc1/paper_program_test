@@ -1,0 +1,119 @@
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+-yjfJ -yjfI |
+-rlmB |
+nsrR |
+rnr |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+nsrR rlmB yjfI yjfJ |
+rnr |
+>Pseudomonas_putida_KT2440|NC_002947
+-rlmB |
+nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Vibrio_cholerae_MJ-1236|NC_012668
+rlmB |
+-nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Vibrio_vulnificus_CMCP6|NC_004459
+rlmB |
+nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+nsrR rlmB yjfI |
+rnr |
+yjfJ |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+rlmB |
+-nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+-rlmB -nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Bordetella_pertussis_Tohama_I|NC_002929
+rlmB |
+-nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+-yjfJ -yjfI |
+|
+rlmB |
+nsrR |
+rnr |
+>Shewanella_oneidensis_MR-1|NC_004347
+-rlmB |
+yjfJ |
+nsrR |
+rnr |
+yjfI |
+>Bordetella_parapertussis_12822|NC_002928
+rlmB |
+nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Bordetella_bronchiseptica_RB50|NC_002927
+rlmB |
+-nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+yjfI yjfJ |
+|
+-nsrR |
+-rlmB |
+rnr |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+nsrR rlmB yjfI yjfJ |
+rnr |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+rlmB |
+nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Yersinia_pestis_CO92|NC_003143
+nsrR rlmB |
+rnr |
+yjfI |
+yjfJ |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+-rlmB |
+nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-yjfJ -yjfI |
+-rlmB |
+nsrR |
+rnr |
+>Caulobacter_crescentus_CB15|NC_002696
+-yjfJ -yjfI |
+|
+nsrR |
+-rlmB |
+rnr |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+-rlmB |
+nsrR |
+rnr |
+yjfI |
+yjfJ |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+nsrR rlmB |
+rnr |
+yjfI |
+yjfJ |

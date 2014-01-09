@@ -1,0 +1,31 @@
+Mesorhizobium_loti_MAFF303099	<nuoNMLJIHG> <nuoFECCBA>
+Pseudomonas_aeruginosa_PAO1	nuoABCEFGHIJKLMN
+Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	<nuoNMLKJIHGFECBA>
+Brucella_suis_1330	nuoABCCEFGHI nuoKLMN
+Neisseria_meningitidis_MC58	nuoABCCEF nuoGHI nuoLMN nuoK
+Pseudomonas_putida_KT2440	nuoABCEFGHIJKLMN
+Chromobacterium_violaceum_ATCC_12472	nuoABCCEFGHIJKLMN
+Ralstonia_solanacearum_GMI1000	<nuoNMLKJIHGFECCBA>
+Helicobacter_hepaticus_ATCC_51449	<nuoNMLKJIHG> <nuoCCB>
+Bordetella_parapertussis_12822	<nuoNMLK> <nuoIHGFECCBA>
+Campylobacter_jejuni_subsp._jejuni_NCTC_11168	<nuoNMLJIHG> <nuoCCBA>
+Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	<nuoNMLKJIHGFECBA>
+Sinorhizobium_meliloti_1021	nuoABCCEF nuoGHI nuoLMN
+Shewanella_oneidensis_MR-1	<nuoNM> nuoML KJIHGF> nuoFE CBA>
+Bradyrhizobium_japonicum_USDA_110	<nuoNMLJIHGFE> <nuoCCBA>
+Bordetella_pertussis_Tohama_I	nuoABCCEFGHIJKLMN
+Xylella_fastidiosa_9a5c	nuoABCCEFGHI nuoLMN
+Bordetella_bronchiseptica_RB50	<nuoNMLK> <nuoIHGFECCBA>
+Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	nuoABCEFGHIJKLMN
+Candidatus_Blochmannia_floridanus	<nuoNMLKJIHGFECBA>
+Xanthomonas_campestris_pv._campestris_str._8004	nuoABCCEFGHIJLMN
+Escherichia_coli_str._K-12_substr._MG1655	<nuoNMLKJIHGFECBA>
+Nitrosomonas_europaea_ATCC_19718	<nuoNMLKJIHGFECCBA>
+Yersinia_pestis_CO92	<nuoNMLKJIHGFECBA>
+Pseudomonas_syringae_pv._tomato_str._DC3000	nuoABCEFGHIJKLMN
+Caulobacter_crescentus_CB15	<nuoNMLK> <nuoIHGFECCBA>
+Agrobacterium_tumefaciens_str._C58	nuoABCCEFGHIJLMN
+Wolinella_succinogenes_DSM_1740	nuoABCC nuoGG nuoHIJKLMN
+Brucella_melitensis_ATCC_23457	nuoABCCEFGHI nuoKLMN
+Xanthomonas_axonopodis_pv._citri_str._306	<nuoNML> <nuoIHGFECCBA>
+Shigella_flexneri_2a_str._2457T	<nuoNMLKJIHGFECBA>

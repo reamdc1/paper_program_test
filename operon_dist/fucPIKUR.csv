@@ -1,0 +1,11 @@
+Organism,Escherichia_coli,Haemophilus_influenzae,Pseudomonas_aeruginosa,Pseudomonas_putida,Pseudomonas_syringae,Salmonella_enterica,Shigella_flexneri,Sinorhizobium_meliloti,Vibrio_parahaemolyticus,Vibrio_vulnificus
+Escherichia_coli,0,0.5,1.5,1.5,1.5,0.0,1.0,3.5,1.5,1.5
+Haemophilus_influenzae,0.5,0,2.0,2.0,2.0,0.5,1.5,4.0,2.0,2.0
+Pseudomonas_aeruginosa,1.5,2.0,0,3.0,3.0,1.5,2.5,5.0,3.0,3.0
+Pseudomonas_putida,1.5,2.0,3.0,0,3.0,1.5,2.5,5.0,3.0,3.0
+Pseudomonas_syringae,1.5,2.0,3.0,3.0,0,1.5,2.5,5.0,3.0,3.0
+Salmonella_enterica,0.0,0.5,1.5,1.5,1.5,0,1.0,3.5,1.5,1.5
+Shigella_flexneri,1.0,1.5,2.5,2.5,2.5,1.0,0,4.5,2.5,2.5
+Sinorhizobium_meliloti,3.5,4.0,5.0,5.0,5.0,3.5,4.5,0,5.0,5.0
+Vibrio_parahaemolyticus,1.5,2.0,3.0,3.0,3.0,1.5,2.5,5.0,0,3.0
+Vibrio_vulnificus,1.5,2.0,3.0,3.0,3.0,1.5,2.5,5.0,3.0,0

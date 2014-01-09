@@ -1,0 +1,151 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+sucC sucD |
+-sdhB -sdhA -sdhC |
+-sucB -sucA |
+sdhD |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+sdhC sdhD sdhA sdhB sucA sucB |
+sucC sucD |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+sdhC sdhD sdhA sdhB |
+sucA sucB sucC sucD |
+>Brucella_suis_1330|NC_004310
+-sdhB -sdhA -sdhC |
+-sucB -sucA -sucD -sucC |
+sdhD |
+>Neisseria_meningitidis_MC58|NC_003112
+sdhC sdhD sdhA sdhB |
+sucA sucB |
+sucC sucD |
+>Pseudomonas_putida_KT2440|NC_002947
+-sucD -sucC |
+-sucB -sucA -sdhB -sdhA -sdhD -sdhC |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+sdhC sdhD sdhA sdhB |
+sucA sucB |
+sucC sucD |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+sucC sucD |
+sucA sucB |
+-sdhB -sdhA -sdhD -sdhC |
+>Vibrio_cholerae_MJ-1236|NC_012668
+sdhC sdhD sdhA sdhB sucA sucB sucC sucD |
+>Vibrio_vulnificus_CMCP6|NC_004459
+-sucD -sucC -sucB -sucA -sdhB -sdhA -sdhD -sdhC |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+sdhA sdhB |
+sdhC |
+sdhD |
+sucA |
+sucB |
+sucC |
+sucD |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+sdhA sdhB |
+sucC sucD |
+sdhC |
+sdhD |
+sucA |
+sucB |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+sdhC sdhD sdhA sdhB |
+sucA sucB sucC sucD |
+>Sinorhizobium_meliloti_1021|NC_003047
+-sucB -sucA -sucD -sucC |
+-sdhB -sdhA -sdhC |
+sdhD |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+sdhC sdhD sdhA sdhB sucA sucB sucC sucD |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+-sucB -sucA |
+sdhC sdhA sdhB |
+-sucD -sucC |
+sdhD |
+>Shewanella_oneidensis_MR-1|NC_004347
+sdhC sdhD sdhA sdhB sucA sucB sucC sucD |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+-sucB -sucA -sucD |
+sdhC sdhA sdhB |
+-sucC |
+sdhD |
+>Bordetella_parapertussis_12822|NC_002928
+sucC sucD |
+-sucB -sucA |
+-sdhB -sdhA -sdhD -sdhC |
+>Bordetella_pertussis_Tohama_I|NC_002929
+sucA sucB |
+-sdhB -sdhA -sdhD -sdhC |
+-sucD -sucC |
+>Xylella_fastidiosa_9a5c|NC_002488
+sdhC sdhA sdhB |
+-sucB -sucA |
+sucC sucD |
+sdhD |
+>Bordetella_bronchiseptica_RB50|NC_002927
+sucC sucD |
+-sucB -sucA |
+-sdhB -sdhA -sdhD -sdhC |
+>Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|NC_011833
+sucA sucB |
+sdhA |
+sdhB |
+sdhC |
+sdhD |
+sucC |
+sucD |
+>Candidatus_Blochmannia_floridanus|NC_005061
+sdhC sdhD sdhA sdhB sucA sucB sucC sucD |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+sucC sucD |
+sdhC sdhA sdhB |
+sucA sucB |
+sdhD |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+sdhC sdhD sdhA sdhB sucA sucB sucC sucD |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+sucC sucD |
+sdhC sdhD sdhA |
+sucA sucB |
+sdhB |
+>Yersinia_pestis_CO92|NC_003143
+sdhC sdhD sdhA sdhB sucA sucB sucC sucD |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+-sdhB -sdhA |
+sucA sucB |
+sucC sucD |
+sdhC |
+sdhD |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+sdhC sdhD sdhA sdhB sucA sucB |
+sucC sucD |
+>Caulobacter_crescentus_CB15|NC_002696
+sucC sucD sucA sucB |
+-sdhB -sdhA -sdhC |
+sdhD |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+-sucB -sucA -sucD -sucC |
+-sdhB -sdhA -sdhC |
+sdhD |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+-sdhB -sdhA |
+sucC sucD |
+sdhC |
+sdhD |
+sucA |
+sucB |
+>Brucella_melitensis_ATCC_23457|NC_012441
+-sdhB -sdhA -sdhC |
+-sucB -sucA -sucD -sucC |
+sdhD |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+-sdhB -sdhA |
+sucC sucD |
+-sucB -sucA |
+sdhC |
+sdhD |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+sucD |
+sdhB sdhA sdhD sdhC |
+sucA |
+sucB |
+sucC |

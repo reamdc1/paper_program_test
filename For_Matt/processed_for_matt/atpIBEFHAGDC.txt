@@ -1,0 +1,36 @@
+Mesorhizobium_loti_MAFF303099	<atpCDGA> atpB
+Pseudomonas_aeruginosa_PAO1	<atpCDGAHFEB>
+Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	<atpCDGAHFEBI>
+Brucella_suis_1330	<atpCDGAH> atpB
+Neisseria_meningitidis_MC58	<atpCDGAHFEB>
+Pseudomonas_putida_KT2440	<atpCDGAHFEB>
+Chromobacterium_violaceum_ATCC_12472	atpBEFHAGDC
+Ralstonia_solanacearum_GMI1000	<atpCDGAHFEB>
+Vibrio_cholerae_MJ-1236	<atpCDGAHFEB>
+Vibrio_vulnificus_CMCP6	atpIBEFHAGDC
+Helicobacter_hepaticus_ATCC_51449	atpAGDC atpB
+Campylobacter_jejuni_subsp._jejuni_NCTC_11168	atpAGDC <atpB>
+Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	atpIBEFHAGDC
+Sinorhizobium_meliloti_1021	<atpCDGA> atpB
+Vibrio_parahaemolyticus_RIMD_2210633	<atpCDGAHFEBI>
+Bordetella_pertussis_Tohama_I	atpBEFHAGDC
+Xanthomonas_axonopodis_pv._citri_str._306	<atpCDGAHFEB>
+Shewanella_oneidensis_MR-1	<atpCDGAHFEBI>
+Bradyrhizobium_japonicum_USDA_110	<atpCDGAH> <atpB>
+Bordetella_parapertussis_12822	<atpCDGAHFEB>
+Xylella_fastidiosa_9a5c	<atpCDGAHFEB>
+Bordetella_bronchiseptica_RB50	<atpCDGAHFEB>
+Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	atpBEFHAGDC
+Candidatus_Blochmannia_floridanus	atpBEFHAGDC
+Xanthomonas_campestris_pv._campestris_str._8004	<atpCDGAHFEB>
+Escherichia_coli_str._K-12_substr._MG1655	<atpCDGAHFEBI>
+Nitrosomonas_europaea_ATCC_19718	atpBEFHAGDC
+Yersinia_pestis_CO92	<atpCDGAHFEBI>
+Pasteurella_multocida_subsp._multocida_str._Pm70	atpBEFHAGDC
+Pseudomonas_syringae_pv._tomato_str._DC3000	<atpCDGAHFEB>
+Caulobacter_crescentus_CB15	<atpCDGAH> <atpB>
+Agrobacterium_tumefaciens_str._C58	<atpCDGA> atpB
+Wolinella_succinogenes_DSM_1740	atpAGDC atpB
+Brucella_melitensis_ATCC_23457	<atpCDGAH> atpB
+Haemophilus_influenzae_Rd_KW20	<atpCDGAHFEB>
+Shigella_flexneri_2a_str._2457T	atpIBEFHAGDC

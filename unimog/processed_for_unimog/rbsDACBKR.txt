@@ -1,0 +1,148 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+-rbsB -rbsA |
+C <r C <b C <s C <K C <R |
+rbsC |
+rbsD |
+rbsK |
+rbsR |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+rbsB rbsA rbsC rbsR rbsK |
+rbsD |
+>Brucella_suis_1330|NC_004310
+rbsA rbsC rbsB |
+-rbsK |
+-rbsR |
+rbsD |
+>Pseudomonas_putida_KT2440|NC_002947
+rbsB rbsA rbsC rbsR rbsK rbsD |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+-rbsR -rbsB -rbsC -rbsA -rbsD -rbsK |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+-rbsK -rbsR -rbsC -rbsA -rbsB |
+rbsD |
+>Vibrio_cholerae_MJ-1236|NC_012668
+-rbsC -rbsA |
+-rbsR |
+-rbsB |
+rbsD |
+rbsK |
+>Vibrio_vulnificus_CMCP6|NC_004459
+-rbsA |
+-rbsR |
+-rbsB |
+rbsC |
+rbsD |
+rbsK |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+-rbsA |
+-rbsK |
+rbsB |
+rbsC |
+rbsD |
+rbsR |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+-rbsA |
+-rbsC |
+-rbsK |
+rbsB |
+rbsD |
+rbsR |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-rbsR -rbsK -rbsB -rbsC -rbsA -rbsD |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+rbsD rbsA rbsC rbsB rbsK rbsR |
+>Sinorhizobium_meliloti_1021|NC_003047
+rbsB rbsA rbsC |
+-rbsK |
+-rbsR |
+rbsD |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+rbsA |
+-rbsR |
+rbsB |
+rbsC |
+rbsD |
+rbsK |
+>Bordetella_pertussis_Tohama_I|NC_002929
+-rbsR -rbsA |
+-rbsC |
+rbsB |
+rbsD |
+rbsK |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+-rbsA |
+-rbsK |
+rbsB |
+rbsR |
+rbsC |
+rbsD |
+>Shewanella_oneidensis_MR-1|NC_004347
+-rbsA |
+-rbsK |
+rbsB |
+rbsR |
+rbsC |
+rbsD |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+rbsA rbsC rbsB |
+-rbsK |
+-rbsR |
+rbsD |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+rbsD rbsA rbsC rbsB rbsK rbsR |
+>Bordetella_parapertussis_12822|NC_002928
+rbsA rbsR |
+rbsC rbsB |
+-rbsK |
+rbsD |
+>Bordetella_bronchiseptica_RB50|NC_002927
+rbsA rbsR |
+-rbsB -rbsC |
+-rbsK |
+rbsD |
+>Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|NC_011833
+rbsA |
+rbsB |
+rbsC |
+rbsD |
+rbsK |
+rbsR |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+rbsD rbsA rbsC rbsB rbsK rbsR |
+>Yersinia_pestis_CO92|NC_003143
+rbsD rbsK |
+rbsR rbsC |
+|
+rbsA |
+rbsB |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+-rbsR -rbsK -rbsB -rbsC -rbsA -rbsD |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+rbsB rbsA rbsC rbsR rbsK rbsD |
+>Caulobacter_crescentus_CB15|NC_002696
+rbsB rbsA rbsC |
+-rbsK |
+-rbsR |
+rbsD |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+rbsB rbsC rbsA |
+rbsK |
+-rbsR |
+rbsD |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+-rbsA |
+rbsK |
+rbsB |
+rbsC |
+rbsD |
+rbsR |
+>Brucella_melitensis_ATCC_23457|NC_012441
+-rbsA -rbsC -rbsB |
+-rbsK |
+rbsR |
+rbsD |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+-rbsC -rbsA |
+-rbsR -rbsK |
+-rbsB |
+-rbsD |

@@ -1,0 +1,22 @@
+NC_Number,Common,Distance,Splitting,Migration,Duplicates,Deletions,Splits,Longest_Group,Total_Fusions,Group_Fusions,Inversions
+NC_002516,Pseudomonas aeruginosa,30.34,0.40,0.40,0,0,2,2,0,0
+NC_003197,Salmonella enterica,1.35,0.00,1.00,0,0,0,5,0,0
+NC_002947,Pseudomonas putida,32.41,0.20,0.40,0,2,1,2,0,0
+NC_004459,Vibrio vulnificus,16.31,0.20,0.40,0,2,1,2,0,0
+NC_003198,Salmonella enterica,1.35,0.00,0.80,0,1,0,4,0,0
+NC_003295,Ralstonia solanacearum,41.09,0.20,0.40,0,2,1,2,0,0
+NC_004603,Vibrio parahaemolyticus,16.58,0.00,0.60,0,2,0,3,0,0
+NC_002929,Bordetella pertussis,42.91,0.20,0.40,0,2,1,2,0,0
+NC_003919,Xanthomonas axonopodis,36.49,0.40,0.40,0,1,2,2,0,0
+NC_004347,Shewanella oneidensis,21.85,0.40,0.40,0,1,2,2,0,0
+NC_002928,Bordetella parapertussis,43.15,0.20,0.40,0,2,1,2,0,0
+NC_002927,Bordetella bronchiseptica,42.91,0.20,0.40,0,2,1,2,0,0
+NC_007086,Xanthomonas campestris,36.60,0.60,0.40,0,0,3,2,0,0
+NC_000913,Escherichia coli,0.00,0.00,1.00,0,0,0,5,0,0
+NC_004757,Nitrosomonas europaea,40.71,0.20,0.40,0,2,1,2,0,0
+NC_003143,Yersinia pestis,5.52,0.00,0.60,0,2,0,3,0,0
+NC_002663,Pasteurella multocida,14.82,0.00,0.40,0,3,0,2,0,0
+NC_004578,Pseudomonas syringae,32.52,0.40,0.40,0,0,2,2,0,0
+NC_002696,Caulobacter crescentus,53.20,0.60,0.40,0,0,3,2,0,0
+NC_000907,Haemophilus influenzae,18.45,0.00,0.40,0,3,0,2,0,0
+NC_004741,Shigella flexneri,0.00,0.00,0.60,0,2,0,3,0,0

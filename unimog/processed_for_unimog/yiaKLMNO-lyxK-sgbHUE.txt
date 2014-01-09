@@ -1,0 +1,172 @@
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+yiaO yiaM yiaN |
+sgbE |
+lyxK |
+yiaK |
+sgbH |
+sgbU |
+yiaL |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-yiaL -yiaK |
+yiaM yiaN yiaO lyxK sgbH sgbU sgbE |
+>Brucella_suis_1330|NC_004310
+yiaN yiaO |
+-lyxK |
+sgbE |
+sgbH |
+sgbU |
+yiaK |
+yiaL |
+yiaM |
+>Pseudomonas_putida_KT2440|NC_002947
+-yiaN -yiaM -yiaO |
+-lyxK |
+-yiaK |
+sgbE |
+sgbH |
+sgbU |
+yiaL |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+-yiaN -yiaM -yiaO |
+lyxK |
+sgbE |
+sgbH |
+sgbU |
+yiaK |
+yiaL |
+>Vibrio_cholerae_MJ-1236|NC_012668
+yiaO yiaM yiaN |
+yiaL |
+lyxK |
+sgbE |
+sgbH |
+sgbU |
+yiaK |
+>Vibrio_vulnificus_CMCP6|NC_004459
+-yiaN -yiaM -yiaO |
+-lyxK |
+yiaL |
+sgbE |
+sgbH |
+sgbU |
+yiaK |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+yiaO yiaM yiaN |
+lyxK |
+sgbE |
+sgbH |
+sgbU |
+yiaK |
+yiaL |
+>Bordetella_parapertussis_12822|NC_002928
+-yiaN -yiaM |
+sgbE yiaO |
+lyxK |
+yiaK |
+sgbH |
+sgbU |
+yiaL |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-sgbE -sgbU -sgbH -lyxK |
+-yiaN -yiaM |
+-yiaL -yiaK |
+yiaO |
+>Sinorhizobium_meliloti_1021|NC_003047
+-yiaO -yiaN |
+lyxK |
+-sgbE |
+-yiaK |
+-yiaM |
+sgbH |
+sgbU |
+yiaL |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+yiaO yiaM yiaN |
+lyxK |
+sgbE |
+sgbH |
+sgbU |
+yiaK |
+yiaL |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+-yiaO -yiaN -yiaM |
+sgbE |
+-lyxK |
+sgbH |
+-yiaK |
+sgbU |
+yiaL |
+>Bordetella_pertussis_Tohama_I|NC_002929
+-yiaO -sgbE |
+yiaM yiaN |
+lyxK |
+-yiaK |
+sgbH |
+sgbU |
+yiaL |
+>Bordetella_bronchiseptica_RB50|NC_002927
+yiaO yiaM yiaN |
+-sgbE |
+yiaK |
+lyxK |
+sgbH |
+sgbU |
+yiaL |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+yiaK yiaL yiaM yiaN yiaO lyxK sgbH sgbU sgbE |
+>Yersinia_pestis_CO92|NC_003143
+sgbU lyxK |
+sgbE |
+yiaL |
+-yiaO |
+-yiaN |
+sgbH |
+yiaK |
+yiaM |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+-sgbE -sgbU -sgbH -lyxK |
+-yiaO -yiaN -yiaM -yiaL -yiaK |
+>Caulobacter_crescentus_CB15|NC_002696
+yiaO yiaN |
+sgbU |
+lyxK |
+sgbE |
+sgbH |
+yiaK |
+yiaL |
+yiaM |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+yiaM yiaN yiaO |
+lyxK |
+yiaK |
+sgbE |
+sgbH |
+sgbU |
+yiaL |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+yiaO yiaM yiaN |
+yiaL |
+lyxK |
+sgbE |
+sgbH |
+sgbU |
+yiaK |
+>Brucella_melitensis_ATCC_23457|NC_012441
+yiaN yiaO |
+-lyxK |
+sgbE |
+sgbH |
+sgbU |
+yiaK |
+yiaL |
+yiaM |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+-sgbH -sgbE -sgbU -lyxK -yiaO -yiaN -yiaM -yiaK |
+-yiaL |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+yiaO yiaM |
+sgbH sgbU sgbE |
+lyxK |
+-yiaN |
+-yiaK |
+-yiaL |

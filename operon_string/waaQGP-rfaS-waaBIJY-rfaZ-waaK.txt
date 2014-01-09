@@ -1,0 +1,14 @@
+NC_002516	Pseudomonas_aeruginosa	*waaPGQ*waaB
+NC_003197	Salmonella_enterica	*rfaZ-waaYJIBPGQ
+NC_002947	Pseudomonas_putida	*waaQQGP*rfaZ
+NC_005085	Chromobacterium_violaceum	*waaBQ*waaG
+NC_004459	Vibrio_vulnificus	*waaBG*waaQ
+NC_003198	Salmonella_enterica	*waaQGP*waaBIJY-rfaZ
+NC_003047	Sinorhizobium_meliloti	*waaBG
+NC_004603	Vibrio_parahaemolyticus	*waaGB*waaQ
+NC_004347	Shewanella_oneidensis	*waaQB*waaG
+NC_000913	Escherichia_coli	*waaK-rfaZ-waaYJIB-rfaS-waaPGQ
+NC_002663	Pasteurella_multocida	*waaBJ**waaK*waaI*waaQ
+NC_004578	Pseudomonas_syringae	*waaPGQ*rfaZ
+NC_005090	Wolinella_succinogenes	*waaQG*waaB
+NC_004741	Shigella_flexneri	*waaQGPIYJG

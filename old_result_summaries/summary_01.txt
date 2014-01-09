@@ -1,0 +1,415 @@
+Tag   Operon  Attribute   r-val   p-val   Significant
+##	astCADBE	Splitting	-0.4295201714	0.0752592812477	No
+##	astCADBE	Migration	-0.321237569178	0.193659545146	No
+##	astCADBE	Duplicates	0.0128984842592	0.959487531894	No
+##	astCADBE	Deletions	0.462073761122	0.0535366635445	No
+##	astCADBE	Splits	-0.4295201714	0.0752592812477	No
+##	astCADBE	Longest_Group	-0.321237569178	0.193659545146	No
+##	astCADBE	Total_Fusions	None	None	None
+##	astCADBE	Group_Fusions	None	None	None
+$$	astCADBE	18	0,0,0,0,0,0,N,N
+##	atpIBEFHAGDC	Splitting	0.783054590652	2.70445078504e-08	Yes
+##	atpIBEFHAGDC	Migration	-0.840050768329	2.7889929933e-10	Yes
+##	atpIBEFHAGDC	Duplicates	None	None	None
+##	atpIBEFHAGDC	Deletions	0.840050768329	2.7889929933e-10	Yes
+##	atpIBEFHAGDC	Splits	0.783054590652	2.70445078504e-08	Yes
+##	atpIBEFHAGDC	Longest_Group	-0.840050768329	2.7889929933e-10	Yes
+##	atpIBEFHAGDC	Total_Fusions	None	None	None
+##	atpIBEFHAGDC	Group_Fusions	None	None	None
+$$	atpIBEFHAGDC	35	1,1,N,1,1,1,N,N
+##	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	Splitting	0.779100344972	3.52869198536e-08	Yes
+##	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	Migration	-0.690198746575	4.48240221844e-06	Yes
+##	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	Duplicates	0.195348649474	0.260757212201	No
+##	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	Deletions	0.415704092403	0.013007045864	No
+##	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	Splits	0.779100344972	3.52869198536e-08	Yes
+##	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	Longest_Group	-0.690198746575	4.48240221844e-06	Yes
+##	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	Total_Fusions	0.195348649474	0.260757212201	No
+##	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	Group_Fusions	0.195348649474	0.260757212201	No
+$$	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	35	1,1,0,0,1,1,0,0
+##	caiTABCDE	Splitting	0.276055900849	0.181633050948	No
+##	caiTABCDE	Migration	-0.578257328259	0.00246349626588	Yes
+##	caiTABCDE	Duplicates	0.245101439707	0.237648535645	No
+##	caiTABCDE	Deletions	0.510814798923	0.00907152348147	Yes
+##	caiTABCDE	Splits	0.276055900849	0.181633050948	No
+##	caiTABCDE	Longest_Group	-0.578257328259	0.00246349626588	Yes
+##	caiTABCDE	Total_Fusions	None	None	None
+##	caiTABCDE	Group_Fusions	None	None	None
+$$	caiTABCDE	25	0,1,0,1,0,1,N,N
+##	casABCDE12	Splitting	1.0	0.0	Yes
+##	casABCDE12	Migration	-1.0	0.0	Yes
+##	casABCDE12	Duplicates	None	None	None
+##	casABCDE12	Deletions	1.0	0.0	Yes
+##	casABCDE12	Splits	1.0	0.0	Yes
+##	casABCDE12	Longest_Group	-1.0	0.0	Yes
+##	casABCDE12	Total_Fusions	None	None	None
+##	casABCDE12	Group_Fusions	None	None	None
+$$	casABCDE12	3	1,1,N,1,1,1,N,N
+##	fecABCDE	Splitting	0.0590289563191	0.744193403378	No
+##	fecABCDE	Migration	-0.196908163353	0.272059293052	No
+##	fecABCDE	Duplicates	-0.179782343351	0.316760774689	No
+##	fecABCDE	Deletions	0.209878427808	0.241082919898	No
+##	fecABCDE	Splits	0.0590289563191	0.744193403378	No
+##	fecABCDE	Longest_Group	-0.196908163353	0.272059293052	No
+##	fecABCDE	Total_Fusions	0.436561888807	0.0110839857462	No
+##	fecABCDE	Group_Fusions	0.436561888807	0.0110839857462	No
+$$	fecABCDE	33	0,0,0,0,0,0,0,0
+##	fucPIKUR	Splitting	-0.0716727723851	0.834127000258	No
+##	fucPIKUR	Migration	-0.624399304615	0.0400199101567	No
+##	fucPIKUR	Duplicates	0.501140252336	0.116339458862	No
+##	fucPIKUR	Deletions	0.634617779476	0.0359519184223	No
+##	fucPIKUR	Splits	-0.0716727723851	0.834127000258	No
+##	fucPIKUR	Longest_Group	-0.624399304615	0.0400199101567	No
+##	fucPIKUR	Total_Fusions	None	None	None
+##	fucPIKUR	Group_Fusions	None	None	None
+$$	fucPIKUR	11	0,0,0,0,0,0,N,N
+##	garPLRK-rnpB	Splitting	0.482418151324	0.272894910559	No
+##	garPLRK-rnpB	Migration	-0.482418151324	0.272894910559	No
+##	garPLRK-rnpB	Duplicates	-0.159544807043	0.732582324278	No
+##	garPLRK-rnpB	Deletions	nan	nan	No
+##	garPLRK-rnpB	Splits	0.482418151324	0.272894910559	No
+##	garPLRK-rnpB	Longest_Group	-0.482418151324	0.272894910559	No
+##	garPLRK-rnpB	Total_Fusions	None	None	None
+##	garPLRK-rnpB	Group_Fusions	None	None	None
+$$	garPLRK-rnpB	7	0,0,0,0,0,0,N,N
+##	gatYZABCD	Splitting	0.272165526976	0.727834473024	No
+##	gatYZABCD	Migration	-0.5	0.5	No
+##	gatYZABCD	Duplicates	None	None	None
+##	gatYZABCD	Deletions	0.544331053952	0.455668946048	No
+##	gatYZABCD	Splits	0.272165526976	0.727834473024	No
+##	gatYZABCD	Longest_Group	-0.5	0.5	No
+##	gatYZABCD	Total_Fusions	None	None	None
+##	gatYZABCD	Group_Fusions	None	None	None
+$$	gatYZABCD	4	0,0,N,0,0,0,N,N
+##	gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	Splitting	0.456429273911	0.158201783567	No
+##	gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	Migration	-0.268715326204	0.424297584761	No
+##	gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	Duplicates	-0.250570126168	0.457385226153	No
+##	gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	Deletions	0.490805092572	0.125296667138	No
+##	gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	Splits	0.456429273911	0.158201783567	No
+##	gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	Longest_Group	-0.268715326204	0.424297584761	No
+##	gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	Total_Fusions	None	None	None
+##	gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	Group_Fusions	None	None	None
+$$	gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	11	0,0,0,0,0,0,N,N
+##	glcDEFGBA	Splitting	0.359537041684	0.130565406936	No
+##	glcDEFGBA	Migration	-0.461587197548	0.046657186644	No
+##	glcDEFGBA	Duplicates	-0.218505586986	0.3688058516	No
+##	glcDEFGBA	Deletions	0.134657958993	0.582575926021	No
+##	glcDEFGBA	Splits	0.359537041684	0.130565406936	No
+##	glcDEFGBA	Longest_Group	-0.461587197548	0.046657186644	No
+##	glcDEFGBA	Total_Fusions	0.649035773105	0.00264129004826	Yes
+##	glcDEFGBA	Group_Fusions	0.649035773105	0.00264129004826	Yes
+$$	glcDEFGBA	19	0,0,0,0,0,0,1,1
+##	hcaEFCBD	Splitting	0.39263265771	0.147718765752	No
+##	hcaEFCBD	Migration	-0.177506327701	0.526802144938	No
+##	hcaEFCBD	Duplicates	0.435401568592	0.104770842571	No
+##	hcaEFCBD	Deletions	0.0	1.0	No
+##	hcaEFCBD	Splits	0.39263265771	0.147718765752	No
+##	hcaEFCBD	Longest_Group	-0.177506327701	0.526802144938	No
+##	hcaEFCBD	Total_Fusions	None	None	None
+##	hcaEFCBD	Group_Fusions	None	None	None
+$$	hcaEFCBD	15	0,0,0,0,0,0,N,N
+##	hisLGDCBHAFI	Splitting	0.653647950092	2.76842989557e-05	Yes
+##	hisLGDCBHAFI	Migration	-0.545808972998	0.000841295849601	Yes
+##	hisLGDCBHAFI	Duplicates	0.0388862983757	0.82716004692	No
+##	hisLGDCBHAFI	Deletions	0.507423592761	0.00219062475294	Yes
+##	hisLGDCBHAFI	Splits	0.653647950092	2.76842989557e-05	Yes
+##	hisLGDCBHAFI	Longest_Group	-0.545808972998	0.000841295849601	Yes
+##	hisLGDCBHAFI	Total_Fusions	None	None	None
+##	hisLGDCBHAFI	Group_Fusions	None	None	None
+$$	hisLGDCBHAFI	34	1,1,0,1,1,1,N,N
+##	hyaABCDEF	Splitting	-0.0519719196506	0.894361702177	No
+##	hyaABCDEF	Migration	-0.879465396564	0.00177584794288	Yes
+##	hyaABCDEF	Duplicates	0.137504774554	0.72425379841	No
+##	hyaABCDEF	Deletions	0.870863572177	0.00224070189808	Yes
+##	hyaABCDEF	Splits	-0.0519719196506	0.894361702177	No
+##	hyaABCDEF	Longest_Group	-0.879465396564	0.00177584794288	Yes
+##	hyaABCDEF	Total_Fusions	None	None	None
+##	hyaABCDEF	Group_Fusions	None	None	None
+$$	hyaABCDEF	9	0,1,0,1,0,1,N,N
+##	hycABCDEFGHI	Splitting	0.150665336159	0.418497799859	No
+##	hycABCDEFGHI	Migration	-0.367603947957	0.0419029615748	No
+##	hycABCDEFGHI	Duplicates	0.721292969885	4.69137968448e-06	Yes
+##	hycABCDEFGHI	Deletions	0.271268132084	0.139908862458	No
+##	hycABCDEFGHI	Splits	0.150665336159	0.418497799859	No
+##	hycABCDEFGHI	Longest_Group	-0.367603947957	0.0419029615748	No
+##	hycABCDEFGHI	Total_Fusions	-0.224649819061	0.224365743468	No
+##	hycABCDEFGHI	Group_Fusions	-0.224649819061	0.224365743468	No
+$$	hycABCDEFGHI	31	0,0,1,0,0,0,0,0
+##	hyfABCDEFGHIJR-focB	Splitting	0.124732473952	0.503775993287	No
+##	hyfABCDEFGHIJR-focB	Migration	-0.152977343622	0.411308902944	No
+##	hyfABCDEFGHIJR-focB	Duplicates	0.369172718117	0.0409700024686	No
+##	hyfABCDEFGHIJR-focB	Deletions	0.189014315614	0.308508368764	No
+##	hyfABCDEFGHIJR-focB	Splits	0.124732473952	0.503775993287	No
+##	hyfABCDEFGHIJR-focB	Longest_Group	0.044324787528	0.812839488975	No
+##	hyfABCDEFGHIJR-focB	Total_Fusions	-0.0780729943227	0.676336904536	No
+##	hyfABCDEFGHIJR-focB	Group_Fusions	-0.113123786631	0.54457210691	No
+$$	hyfABCDEFGHIJR-focB	31	0,0,0,0,0,0,0,0
+##	hypABCDE-fhlA	Splitting	0.852651198183	0.000852588398362	Yes
+##	hypABCDE-fhlA	Migration	-0.693438564331	0.0179642961158	No
+##	hypABCDE-fhlA	Duplicates	0.0747055780323	0.827197509464	No
+##	hypABCDE-fhlA	Deletions	0.439301041355	0.176417777802	No
+##	hypABCDE-fhlA	Splits	0.852651198183	0.000852588398362	Yes
+##	hypABCDE-fhlA	Longest_Group	-0.693438564331	0.0179642961158	No
+##	hypABCDE-fhlA	Total_Fusions	None	None	None
+##	hypABCDE-fhlA	Group_Fusions	None	None	None
+$$	hypABCDE-fhlA	11	1,0,0,0,1,0,N,N
+##	ivbL-ilvBN-uhpABC	Splitting	0.475640102722	0.00684313690574	Yes
+##	ivbL-ilvBN-uhpABC	Migration	-0.588962694617	0.00049084754719	Yes
+##	ivbL-ilvBN-uhpABC	Duplicates	-0.395787908125	0.0275257740827	No
+##	ivbL-ilvBN-uhpABC	Deletions	0.467714311735	0.007973693052	Yes
+##	ivbL-ilvBN-uhpABC	Splits	0.475640102722	0.00684313690574	Yes
+##	ivbL-ilvBN-uhpABC	Longest_Group	-0.588962694617	0.00049084754719	Yes
+##	ivbL-ilvBN-uhpABC	Total_Fusions	None	None	None
+##	ivbL-ilvBN-uhpABC	Group_Fusions	None	None	None
+$$	ivbL-ilvBN-uhpABC	31	1,1,0,1,1,1,N,N
+##	livKHMGF	Splitting	0.30603236596	0.106408038271	No
+##	livKHMGF	Migration	0.0385997737015	0.842421949361	No
+##	livKHMGF	Duplicates	0.319035231937	0.0916241038679	No
+##	livKHMGF	Deletions	-0.239903881483	0.210025074179	No
+##	livKHMGF	Splits	0.30603236596	0.106408038271	No
+##	livKHMGF	Longest_Group	0.0385997737015	0.842421949361	No
+##	livKHMGF	Total_Fusions	None	None	None
+##	livKHMGF	Group_Fusions	None	None	None
+$$	livKHMGF	29	0,0,0,0,0,0,N,N
+##	lptAB-rpoN-hpf-ptsN-yhbJ-npr	Splitting	0.249357558719	0.148576913441	No
+##	lptAB-rpoN-hpf-ptsN-yhbJ-npr	Migration	-0.653165634802	2.10484424506e-05	Yes
+##	lptAB-rpoN-hpf-ptsN-yhbJ-npr	Duplicates	-0.169868390847	0.329276595486	No
+##	lptAB-rpoN-hpf-ptsN-yhbJ-npr	Deletions	0.605625822907	0.000115729299534	Yes
+##	lptAB-rpoN-hpf-ptsN-yhbJ-npr	Splits	0.249357558719	0.148576913441	No
+##	lptAB-rpoN-hpf-ptsN-yhbJ-npr	Longest_Group	-0.653165634802	2.10484424506e-05	Yes
+##	lptAB-rpoN-hpf-ptsN-yhbJ-npr	Total_Fusions	None	None	None
+##	lptAB-rpoN-hpf-ptsN-yhbJ-npr	Group_Fusions	None	None	None
+$$	lptAB-rpoN-hpf-ptsN-yhbJ-npr	35	0,1,0,1,0,1,N,N
+##	lptD-surA-pdxA-rsmA-apaGH	Splitting	0.664707980838	4.53044569411e-05	Yes
+##	lptD-surA-pdxA-rsmA-apaGH	Migration	-0.596101421031	0.000402142350608	Yes
+##	lptD-surA-pdxA-rsmA-apaGH	Duplicates	None	None	None
+##	lptD-surA-pdxA-rsmA-apaGH	Deletions	0.326709018776	0.072832676365	No
+##	lptD-surA-pdxA-rsmA-apaGH	Splits	0.664707980838	4.53044569411e-05	Yes
+##	lptD-surA-pdxA-rsmA-apaGH	Longest_Group	-0.596101421031	0.000402142350608	Yes
+##	lptD-surA-pdxA-rsmA-apaGH	Total_Fusions	None	None	None
+##	lptD-surA-pdxA-rsmA-apaGH	Group_Fusions	None	None	None
+$$	lptD-surA-pdxA-rsmA-apaGH	31	1,1,N,0,1,1,N,N
+##	lsrACDBFG-tam	Splitting	0.250244408786	0.182288902988	No
+##	lsrACDBFG-tam	Migration	-0.239826515595	0.201781005387	No
+##	lsrACDBFG-tam	Duplicates	0.464325046839	0.00974201278674	Yes
+##	lsrACDBFG-tam	Deletions	0.253341433477	0.17675800178	No
+##	lsrACDBFG-tam	Splits	0.250244408786	0.182288902988	No
+##	lsrACDBFG-tam	Longest_Group	-0.239826515595	0.201781005387	No
+##	lsrACDBFG-tam	Total_Fusions	0.238042816292	0.205257000236	No
+##	lsrACDBFG-tam	Group_Fusions	0.238042816292	0.205257000236	No
+$$	lsrACDBFG-tam	30	0,0,1,0,0,0,0,0
+##	mdtABCD-baeSR	Splitting	0.45089270436	0.00845159223432	Yes
+##	mdtABCD-baeSR	Migration	-0.32895088043	0.0615926990697	No
+##	mdtABCD-baeSR	Duplicates	0.37800914071	0.0300851775244	No
+##	mdtABCD-baeSR	Deletions	0.0667162842943	0.712210011018	No
+##	mdtABCD-baeSR	Splits	0.45089270436	0.00845159223432	Yes
+##	mdtABCD-baeSR	Longest_Group	-0.32895088043	0.0615926990697	No
+##	mdtABCD-baeSR	Total_Fusions	-0.0221990138368	0.902406873561	No
+##	mdtABCD-baeSR	Group_Fusions	-0.0221990138368	0.902406873561	No
+$$	mdtABCD-baeSR	33	1,0,0,0,1,0,0,0
+##	metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	Splitting	0.576321872406	0.000360893292885	Yes
+##	metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	Migration	-0.642659364052	4.1631973541e-05	Yes
+##	metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	Duplicates	0.365817008734	0.0333664980282	No
+##	metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	Deletions	0.470679065095	0.00496445915923	Yes
+##	metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	Splits	0.576321872406	0.000360893292885	Yes
+##	metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	Longest_Group	-0.642659364052	4.1631973541e-05	Yes
+##	metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	Total_Fusions	None	None	None
+##	metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	Group_Fusions	None	None	None
+$$	metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	34	1,1,0,1,1,1,N,N
+##	nsrR-rnr-rlmB-yjfIJ	Splitting	0.541186797069	0.0112926490888	No
+##	nsrR-rnr-rlmB-yjfIJ	Migration	-0.545093237888	0.0106055437533	No
+##	nsrR-rnr-rlmB-yjfIJ	Duplicates	None	None	None
+##	nsrR-rnr-rlmB-yjfIJ	Deletions	0.0464090677689	0.841670281548	No
+##	nsrR-rnr-rlmB-yjfIJ	Splits	0.541186797069	0.0112926490888	No
+##	nsrR-rnr-rlmB-yjfIJ	Longest_Group	-0.545093237888	0.0106055437533	No
+##	nsrR-rnr-rlmB-yjfIJ	Total_Fusions	None	None	None
+##	nsrR-rnr-rlmB-yjfIJ	Group_Fusions	None	None	None
+$$	nsrR-rnr-rlmB-yjfIJ	21	0,0,N,0,0,0,N,N
+##	nuoABCEFGHIJKLMN	Splitting	0.564016949575	0.000951181186644	Yes
+##	nuoABCEFGHIJKLMN	Migration	-0.674308500278	3.1911426203e-05	Yes
+##	nuoABCEFGHIJKLMN	Duplicates	0.628192660258	0.000154458674997	Yes
+##	nuoABCEFGHIJKLMN	Deletions	0.720340000453	4.89575447966e-06	Yes
+##	nuoABCEFGHIJKLMN	Splits	0.564016949575	0.000951181186644	Yes
+##	nuoABCEFGHIJKLMN	Longest_Group	0.47701798396	0.00666121811056	Yes
+##	nuoABCEFGHIJKLMN	Total_Fusions	None	None	None
+##	nuoABCEFGHIJKLMN	Group_Fusions	None	None	None
+$$	nuoABCEFGHIJKLMN	31	1,1,1,1,1,1,N,N
+##	paaABCDEFGHIJK	Splitting	0.0698482792936	0.745699909564	No
+##	paaABCDEFGHIJK	Migration	0.0280254637638	0.896572829894	No
+##	paaABCDEFGHIJK	Duplicates	0.243478629079	0.251597422392	No
+##	paaABCDEFGHIJK	Deletions	-0.0211589303184	0.921825731134	No
+##	paaABCDEFGHIJK	Splits	0.0698482792936	0.745699909564	No
+##	paaABCDEFGHIJK	Longest_Group	0.376786790602	0.0695410530692	No
+##	paaABCDEFGHIJK	Total_Fusions	-0.487679817474	0.015632207055	No
+##	paaABCDEFGHIJK	Group_Fusions	-0.459131129121	0.0240148939451	No
+$$	paaABCDEFGHIJK	24	0,0,0,0,0,0,0,0
+##	pspABCDE	Splitting	0.760469100629	0.028481129917	No
+##	pspABCDE	Migration	-0.878114079918	0.00412316125191	Yes
+##	pspABCDE	Duplicates	None	None	None
+##	pspABCDE	Deletions	0.724407157326	0.042109179313	No
+##	pspABCDE	Splits	0.760469100629	0.028481129917	No
+##	pspABCDE	Longest_Group	-0.878114079918	0.00412316125191	Yes
+##	pspABCDE	Total_Fusions	None	None	None
+##	pspABCDE	Group_Fusions	None	None	None
+$$	pspABCDE	8	0,1,N,0,0,1,N,N
+##	pstSCAB-phoU	Splitting	-0.0536157121504	0.766973453282	No
+##	pstSCAB-phoU	Migration	-0.184959329447	0.302790938764	No
+##	pstSCAB-phoU	Duplicates	-0.293424520586	0.0974566868849	No
+##	pstSCAB-phoU	Deletions	0.221560471047	0.215285186672	No
+##	pstSCAB-phoU	Splits	-0.0536157121504	0.766973453282	No
+##	pstSCAB-phoU	Longest_Group	-0.184959329447	0.302790938764	No
+##	pstSCAB-phoU	Total_Fusions	None	None	None
+##	pstSCAB-phoU	Group_Fusions	None	None	None
+$$	pstSCAB-phoU	33	0,0,0,0,0,0,N,N
+##	rbsDACBKR	Splitting	0.318500211916	0.0862779294896	No
+##	rbsDACBKR	Migration	-0.330367278912	0.0745776279137	No
+##	rbsDACBKR	Duplicates	0.21659665528	0.25028782964	No
+##	rbsDACBKR	Deletions	0.419860061725	0.0208958830226	No
+##	rbsDACBKR	Splits	0.318500211916	0.0862779294896	No
+##	rbsDACBKR	Longest_Group	-0.330367278912	0.0745776279137	No
+##	rbsDACBKR	Total_Fusions	-0.370740202574	0.0437098031363	No
+##	rbsDACBKR	Group_Fusions	-0.370740202574	0.0437098031363	No
+$$	rbsDACBKR	30	0,0,0,0,0,0,0,0
+##	rnc-era-recO-pdxJ-acpS	Splitting	0.796005793152	5.13082253229e-08	Yes
+##	rnc-era-recO-pdxJ-acpS	Migration	-0.613558178314	0.000188231237577	Yes
+##	rnc-era-recO-pdxJ-acpS	Duplicates	None	None	None
+##	rnc-era-recO-pdxJ-acpS	Deletions	-0.269341954908	0.136036224197	No
+##	rnc-era-recO-pdxJ-acpS	Splits	0.796005793152	5.13082253229e-08	Yes
+##	rnc-era-recO-pdxJ-acpS	Longest_Group	-0.613558178314	0.000188231237577	Yes
+##	rnc-era-recO-pdxJ-acpS	Total_Fusions	None	None	None
+##	rnc-era-recO-pdxJ-acpS	Group_Fusions	None	None	None
+$$	rnc-era-recO-pdxJ-acpS	32	1,1,N,0,1,1,N,N
+##	rplKAJL-rpoBC	Splitting	0.160829190102	0.35603274257	No
+##	rplKAJL-rpoBC	Migration	-0.139181149168	0.425221540831	No
+##	rplKAJL-rpoBC	Duplicates	None	None	None
+##	rplKAJL-rpoBC	Deletions	0.254802586271	0.139623751873	No
+##	rplKAJL-rpoBC	Splits	0.160829190102	0.35603274257	No
+##	rplKAJL-rpoBC	Longest_Group	-0.139181149168	0.425221540831	No
+##	rplKAJL-rpoBC	Total_Fusions	0.377956446667	0.0251831359502	No
+##	rplKAJL-rpoBC	Group_Fusions	0.377956446667	0.0251831359502	No
+$$	rplKAJL-rpoBC	35	0,0,N,0,0,0,0,0
+##	sdhCDAB-sucABCD	Splitting	0.227021311907	0.189688710995	No
+##	sdhCDAB-sucABCD	Migration	-0.385773741412	0.0220919109212	No
+##	sdhCDAB-sucABCD	Duplicates	-0.28877626444	0.0924843353139	No
+##	sdhCDAB-sucABCD	Deletions	0.448169549355	0.00693429194937	Yes
+##	sdhCDAB-sucABCD	Splits	0.227021311907	0.189688710995	No
+##	sdhCDAB-sucABCD	Longest_Group	-0.385773741412	0.0220919109212	No
+##	sdhCDAB-sucABCD	Total_Fusions	None	None	None
+##	sdhCDAB-sucABCD	Group_Fusions	None	None	None
+$$	sdhCDAB-sucABCD	35	0,0,0,1,0,0,N,N
+##	srlAEBD-gutM-srlR-gutQ	Splitting	0.690674888873	0.0128910101392	No
+##	srlAEBD-gutM-srlR-gutQ	Migration	-0.680665112402	0.0148331337368	No
+##	srlAEBD-gutM-srlR-gutQ	Duplicates	0.360359067104	0.249863441578	No
+##	srlAEBD-gutM-srlR-gutQ	Deletions	0.659978227146	0.0195190633042	No
+##	srlAEBD-gutM-srlR-gutQ	Splits	0.690674888873	0.0128910101392	No
+##	srlAEBD-gutM-srlR-gutQ	Longest_Group	-0.680665112402	0.0148331337368	No
+##	srlAEBD-gutM-srlR-gutQ	Total_Fusions	None	None	None
+##	srlAEBD-gutM-srlR-gutQ	Group_Fusions	None	None	None
+$$	srlAEBD-gutM-srlR-gutQ	12	0,0,0,0,0,0,N,N
+##	ssuEADCB	Splitting	0.0975589188169	0.595287382397	No
+##	ssuEADCB	Migration	0.0990416124606	0.58967825571	No
+##	ssuEADCB	Duplicates	-0.154939542935	0.397145799938	No
+##	ssuEADCB	Deletions	-0.0313639453308	0.864692356202	No
+##	ssuEADCB	Splits	0.0975589188169	0.595287382397	No
+##	ssuEADCB	Longest_Group	0.0990416124606	0.58967825571	No
+##	ssuEADCB	Total_Fusions	None	None	None
+##	ssuEADCB	Group_Fusions	None	None	None
+$$	ssuEADCB	32	0,0,0,0,0,0,N,N
+##	tdcABCDEFG	Splitting	0.344701470057	0.208317732779	No
+##	tdcABCDEFG	Migration	-0.801725027167	0.000324976701029	Yes
+##	tdcABCDEFG	Duplicates	-0.21314339663	0.445633733554	No
+##	tdcABCDEFG	Deletions	0.734938795927	0.0018001831483	Yes
+##	tdcABCDEFG	Splits	0.344701470057	0.208317732779	No
+##	tdcABCDEFG	Longest_Group	-0.801725027167	0.000324976701029	Yes
+##	tdcABCDEFG	Total_Fusions	None	None	None
+##	tdcABCDEFG	Group_Fusions	None	None	None
+$$	tdcABCDEFG	15	0,1,0,1,0,1,N,N
+##	thrS-infC-rpmI-rplT-pheMST-ihfA	Splitting	0.540720692396	0.000797813442758	Yes
+##	thrS-infC-rpmI-rplT-pheMST-ihfA	Migration	-0.525344287154	0.00119290287288	Yes
+##	thrS-infC-rpmI-rplT-pheMST-ihfA	Duplicates	None	None	None
+##	thrS-infC-rpmI-rplT-pheMST-ihfA	Deletions	0.526113240018	0.00116966878515	Yes
+##	thrS-infC-rpmI-rplT-pheMST-ihfA	Splits	0.540720692396	0.000797813442758	Yes
+##	thrS-infC-rpmI-rplT-pheMST-ihfA	Longest_Group	-0.525344287154	0.00119290287288	Yes
+##	thrS-infC-rpmI-rplT-pheMST-ihfA	Total_Fusions	None	None	None
+##	thrS-infC-rpmI-rplT-pheMST-ihfA	Group_Fusions	None	None	None
+$$	thrS-infC-rpmI-rplT-pheMST-ihfA	35	1,1,N,1,1,1,N,N
+##	trpLEDCBA	Splitting	0.369424591683	0.0315362258153	No
+##	trpLEDCBA	Migration	-0.222047282704	0.206896713358	No
+##	trpLEDCBA	Duplicates	0.199609163771	0.257713439086	No
+##	trpLEDCBA	Deletions	0.0670733838352	0.706249622649	No
+##	trpLEDCBA	Splits	0.369424591683	0.0315362258153	No
+##	trpLEDCBA	Longest_Group	-0.222047282704	0.206896713358	No
+##	trpLEDCBA	Total_Fusions	None	None	None
+##	trpLEDCBA	Group_Fusions	None	None	None
+$$	trpLEDCBA	34	0,0,0,0,0,0,N,N
+##	ulaABCDEF	Splitting	0.398526698493	0.43385766067	No
+##	ulaABCDEF	Migration	-0.840168050417	0.0362778245219	No
+##	ulaABCDEF	Duplicates	0.398526698493	0.43385766067	No
+##	ulaABCDEF	Deletions	0.664211164155	0.150200422331	No
+##	ulaABCDEF	Splits	0.398526698493	0.43385766067	No
+##	ulaABCDEF	Longest_Group	-0.840168050417	0.0362778245219	No
+##	ulaABCDEF	Total_Fusions	0.398526698493	0.43385766067	No
+##	ulaABCDEF	Group_Fusions	0.398526698493	0.43385766067	No
+$$	ulaABCDEF	6	0,0,0,0,0,0,0,0
+##	waaQGP-rfaS-waaBIJY-rfaZ-waaK	Splitting	0.290272076999	0.314063447506	No
+##	waaQGP-rfaS-waaBIJY-rfaZ-waaK	Migration	-0.630499558969	0.0156360863672	No
+##	waaQGP-rfaS-waaBIJY-rfaZ-waaK	Duplicates	-0.202770821061	0.486905575836	No
+##	waaQGP-rfaS-waaBIJY-rfaZ-waaK	Deletions	0.769514420526	0.00129008409823	Yes
+##	waaQGP-rfaS-waaBIJY-rfaZ-waaK	Splits	0.290272076999	0.314063447506	No
+##	waaQGP-rfaS-waaBIJY-rfaZ-waaK	Longest_Group	-0.266840637317	0.356414913915	No
+##	waaQGP-rfaS-waaBIJY-rfaZ-waaK	Total_Fusions	-0.172194557911	0.556097116021	No
+##	waaQGP-rfaS-waaBIJY-rfaZ-waaK	Group_Fusions	-0.172194557911	0.556097116021	No
+$$	waaQGP-rfaS-waaBIJY-rfaZ-waaK	14	0,0,0,1,0,0,0,0
+##	ybgIJKL-nei	Splitting	0.297731216114	0.262731711482	No
+##	ybgIJKL-nei	Migration	-0.392275791478	0.132884704194	No
+##	ybgIJKL-nei	Duplicates	0.0561351678138	0.836409658316	No
+##	ybgIJKL-nei	Deletions	0.370473206359	0.15778953759	No
+##	ybgIJKL-nei	Splits	0.297731216114	0.262731711482	No
+##	ybgIJKL-nei	Longest_Group	-0.392275791478	0.132884704194	No
+##	ybgIJKL-nei	Total_Fusions	None	None	None
+##	ybgIJKL-nei	Group_Fusions	None	None	None
+$$	ybgIJKL-nei	16	0,0,0,0,0,0,N,N
+##	yceD-rpmF-plsX-fabHDG-acpP-fabF	Splitting	0.548716091369	0.000642279121876	Yes
+##	yceD-rpmF-plsX-fabHDG-acpP-fabF	Migration	-0.48179920693	0.00338325946395	Yes
+##	yceD-rpmF-plsX-fabHDG-acpP-fabF	Duplicates	-0.0251251556196	0.886079658392	No
+##	yceD-rpmF-plsX-fabHDG-acpP-fabF	Deletions	0.508859972717	0.00179887918567	Yes
+##	yceD-rpmF-plsX-fabHDG-acpP-fabF	Splits	0.548716091369	0.000642279121876	Yes
+##	yceD-rpmF-plsX-fabHDG-acpP-fabF	Longest_Group	-0.48179920693	0.00338325946395	Yes
+##	yceD-rpmF-plsX-fabHDG-acpP-fabF	Total_Fusions	None	None	None
+##	yceD-rpmF-plsX-fabHDG-acpP-fabF	Group_Fusions	None	None	None
+$$	yceD-rpmF-plsX-fabHDG-acpP-fabF	35	1,1,0,1,1,1,N,N
+##	ydgK-rsxABCDGE-nth	Splitting	0.735984880557	0.000142892559361	Yes
+##	ydgK-rsxABCDGE-nth	Migration	-0.889403877369	6.96707775101e-08	Yes
+##	ydgK-rsxABCDGE-nth	Duplicates	None	None	None
+##	ydgK-rsxABCDGE-nth	Deletions	0.702422008648	0.000384877547182	Yes
+##	ydgK-rsxABCDGE-nth	Splits	0.735984880557	0.000142892559361	Yes
+##	ydgK-rsxABCDGE-nth	Longest_Group	-0.889403877369	6.96707775101e-08	Yes
+##	ydgK-rsxABCDGE-nth	Total_Fusions	None	None	None
+##	ydgK-rsxABCDGE-nth	Group_Fusions	None	None	None
+$$	ydgK-rsxABCDGE-nth	21	1,1,N,1,1,1,N,N
+##	ydhYVWXUT	Splitting	0.398526698493	0.43385766067	No
+##	ydhYVWXUT	Migration	-0.770051379542	0.0732351281317	No
+##	ydhYVWXUT	Duplicates	0.398526698493	0.43385766067	No
+##	ydhYVWXUT	Deletions	0.770051379542	0.0732351281317	No
+##	ydhYVWXUT	Splits	0.398526698493	0.43385766067	No
+##	ydhYVWXUT	Longest_Group	-0.770051379542	0.0732351281317	No
+##	ydhYVWXUT	Total_Fusions	None	None	None
+##	ydhYVWXUT	Group_Fusions	None	None	None
+$$	ydhYVWXUT	6	0,0,0,0,0,0,N,N
+##	yiaKLMNO-lyxK-sgbHUE	Splitting	-0.0129891782651	0.953093701067	No
+##	yiaKLMNO-lyxK-sgbHUE	Migration	-0.678094404016	0.000376744674081	Yes
+##	yiaKLMNO-lyxK-sgbHUE	Duplicates	-0.0519170751512	0.814007899954	No
+##	yiaKLMNO-lyxK-sgbHUE	Deletions	0.712025176924	0.000138480460065	Yes
+##	yiaKLMNO-lyxK-sgbHUE	Splits	-0.0129891782651	0.953093701067	No
+##	yiaKLMNO-lyxK-sgbHUE	Longest_Group	-0.678094404016	0.000376744674081	Yes
+##	yiaKLMNO-lyxK-sgbHUE	Total_Fusions	0.22515544738	0.301636676109	No
+##	yiaKLMNO-lyxK-sgbHUE	Group_Fusions	0.22515544738	0.301636676109	No
+$$	yiaKLMNO-lyxK-sgbHUE	23	0,1,0,1,0,1,0,0
+##	yjeFE-amiB-mutL-miaA-hfq-hflXKC	Splitting	0.800226684649	3.86531918633e-08	Yes
+##	yjeFE-amiB-mutL-miaA-hfq-hflXKC	Migration	-0.785864654268	9.87216350705e-08	Yes
+##	yjeFE-amiB-mutL-miaA-hfq-hflXKC	Duplicates	0.0839319901845	0.647880671611	No
+##	yjeFE-amiB-mutL-miaA-hfq-hflXKC	Deletions	-0.0857816222747	0.640635865259	No
+##	yjeFE-amiB-mutL-miaA-hfq-hflXKC	Splits	0.800226684649	3.86531918633e-08	Yes
+##	yjeFE-amiB-mutL-miaA-hfq-hflXKC	Longest_Group	-0.785864654268	9.87216350705e-08	Yes
+##	yjeFE-amiB-mutL-miaA-hfq-hflXKC	Total_Fusions	None	None	None
+##	yjeFE-amiB-mutL-miaA-hfq-hflXKC	Group_Fusions	None	None	None
+$$	yjeFE-amiB-mutL-miaA-hfq-hflXKC	32	1,1,0,0,1,1,N,N

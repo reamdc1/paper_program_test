@@ -1,0 +1,24 @@
+NC_002516	Pseudomonas_aeruginosa	yiaOMN sgbE lyxK yiaK
+NC_003197	Salmonella_enterica	yiaLK yiaMNO-lyxK-sgbHUE
+NC_004310	Brucella_suis	yiaNO lyxK
+NC_002947	Pseudomonas_putida	yiaNMO lyxK yiaK
+NC_005085	Chromobacterium_violaceum	yiaNMO lyxK
+NC_012668	Vibrio_cholerae	yiaOMN yiaL
+NC_004459	Vibrio_vulnificus	yiaNMO lyxK yiaL
+NC_004917	Helicobacter_hepaticus	yiaOMN
+NC_002928	Bordetella_parapertussis	yiaNM sgbE-yiaO lyxK yiaK
+NC_003198	Salmonella_enterica	sgbEUH-lyxK yiaNM yiaLK
+NC_003047	Sinorhizobium_meliloti	yiaON lyxKK sgbE yiaK yiaM
+NC_004603	Vibrio_parahaemolyticus	yiaOMN lyxK
+NC_004463	Bradyrhizobium_japonicum	yiaONM sgbE lyxK sgbH yiaK sgbU
+NC_002929	Bordetella_pertussis	yiaO-sgbE yiaMNO lyxK yiaK
+NC_002927	Bordetella_bronchiseptica	yiaOMN yiaO-sgbE yiaK lyxK
+NC_000913	Escherichia_coli	yiaKLMNO-lyxK-sgbHUE
+NC_003143	Yersinia_pestis	sgbU-lyxK sgbE yiaL yiaO yiaN
+NC_002663	Pasteurella_multocida	sgbEUH-lyxK yiaONMLK
+NC_002696	Caulobacter_crescentus	yiaON sgbU lyxK
+NC_003062	Agrobacterium_tumefaciens	yiaMNO lyxK yiaK
+NC_005090	Wolinella_succinogenes	yiaOMN yiaL
+NC_012441	Brucella_melitensis	yiaNO lyxK
+NC_000907	Haemophilus_influenzae	sgbHEU-lyxK-yiaONMK yiaL
+NC_004741	Shigella_flexneri	yiaOOM sgbHUE lyxK yiaN yiaK yiaL

@@ -1,0 +1,128 @@
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+rsxA rsxB rsxC rsxD rsxG rsxE |
+nth |
+ydgK |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-rsxE -rsxG -rsxD -rsxC -rsxB -rsxA -ydgK |
+nth |
+>Neisseria_meningitidis_MC58|NC_003112
+-rsxA -rsxE |
+|
+rsxC |
+-rsxB |
+-rsxD |
+nth |
+rsxG |
+ydgK |
+>Pseudomonas_putida_KT2440|NC_002947
+-rsxG -rsxD -rsxA |
+|
+rsxC |
+rsxB |
+nth |
+rsxE |
+ydgK |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+rsxB |
+rsxC |
+nth |
+rsxA |
+rsxD |
+rsxE |
+rsxG |
+ydgK |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+-rsxB |
+nth |
+rsxA |
+rsxC |
+rsxD |
+rsxE |
+rsxG |
+ydgK |
+>Vibrio_cholerae_MJ-1236|NC_012668
+rsxE rsxA |
+rsxB rsxC rsxD rsxG |
+nth |
+ydgK |
+>Vibrio_vulnificus_CMCP6|NC_004459
+rsxA rsxB rsxC rsxD rsxG rsxE |
+nth |
+ydgK |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+ydgK rsxA rsxB rsxC rsxD rsxG rsxE |
+nth |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+rsxA rsxB rsxC rsxD rsxG rsxE |
+nth |
+ydgK |
+>Shewanella_oneidensis_MR-1|NC_004347
+rsxA rsxB rsxC rsxD rsxG rsxE |
+nth |
+ydgK |
+>Bordetella_parapertussis_12822|NC_002928
+rsxB |
+-rsxC |
+nth |
+rsxA |
+rsxD |
+rsxE |
+rsxG |
+ydgK |
+>Bordetella_pertussis_Tohama_I|NC_002929
+-rsxB |
+rsxC |
+nth |
+rsxA |
+rsxD |
+rsxE |
+rsxG |
+ydgK |
+>Bordetella_bronchiseptica_RB50|NC_002927
+rsxB |
+-rsxC |
+nth |
+rsxA |
+rsxD |
+rsxE |
+rsxG |
+ydgK |
+>Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|NC_011833
+rsxA rsxB rsxC rsxD rsxG rsxE |
+nth |
+ydgK |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+ydgK rsxA rsxB rsxC rsxD rsxG rsxE |
+nth |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+rsxB |
+-rsxA -rsxE |
+-rsxC |
+-rsxD |
+nth |
+rsxG |
+ydgK |
+>Yersinia_pestis_CO92|NC_003143
+-rsxE -rsxG -rsxD |
+-rsxC -rsxB -rsxA -ydgK |
+nth |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+-rsxE -rsxG -rsxD -rsxC -rsxB -rsxA |
+nth |
+ydgK |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+rsxB |
+rsxC |
+nth |
+rsxA |
+rsxD |
+rsxE |
+rsxG |
+ydgK |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+rsxA rsxB rsxC rsxD rsxG rsxE |
+nth |
+ydgK |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+ydgK rsxA rsxB rsxC rsxD rsxG rsxE |
+nth |

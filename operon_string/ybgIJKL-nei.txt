@@ -1,0 +1,16 @@
+NC_002516	Pseudomonas_aeruginosa	*ybgKJL*ybgI
+NC_003197	Salmonella_enterica	*ybgIJKL*nei
+NC_002947	Pseudomonas_putida	*ybgLJK*ybgI
+NC_005085	Chromobacterium_violaceum	*ybgJK*K*L*ybgI*nei
+NC_002163	Campylobacter_jejuni	*ybgLJK*ybgI
+NC_003198	Salmonella_enterica	*ybgIJKL*nei
+NC_003295	Ralstonia_solanacearum	*ybgLKJ*ybgI
+NC_004463	Bradyrhizobium_japonicum	*ybgJKL*nei
+NC_002928	Bordetella_parapertussis	*ybgJKL*ybgI*nei
+NC_002929	Bordetella_pertussis	*ybgKJ*ybgI*nei
+NC_002927	Bordetella_bronchiseptica	*ybgJKL*ybgI*nei
+NC_000913	Escherichia_coli	*ybgIJKL-nei
+NC_003143	Yersinia_pestis	*ybgKL*ybgI
+NC_004578	Pseudomonas_syringae	*ybgLKJ*ybgI*nei
+NC_000907	Haemophilus_influenzae	*ybgLKJ*ybgI*nei
+NC_004741	Shigella_flexneri	*nei-ybgL*ybgJI

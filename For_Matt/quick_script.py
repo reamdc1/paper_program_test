@@ -1,0 +1,36 @@
+#!/usr/bin/python
+
+import os
+
+#this function will return all of the files that are in a directory. os.walk is recursive traversal.
+def returnRecursiveDirFiles(root_dir):
+    result = []
+    for path, dir_name, flist in os.walk(root_dir):
+        for f in flist:
+            fname = os.path.join(path, f)
+            if os.path.isfile(fname):
+                result.append(fname)
+    return result
+
+r_dir = './op_files/'
+def main():
+    
+    flist = returnRecursiveDirFiles(r_dir)
+    out_folder = './processed_for_matt/'
+    for fname in flist:
+        operon_name = fname.split('/')[-1]
+        result = []
+        lines = [i.strip() for i in open(fname).readlines()]
+        for line in lines:
+            if line[0] == '+':
+                result.append(org_name + '\t' + line.split('\t')[1])
+            else:
+                org_name = line.split('\t')[1]
+            
+        handle = open(out_folder + operon_name, 'w')
+        handle.write('\n'.join(result) )
+        handle.close()
+
+
+if __name__ == '__main__':
+    main()

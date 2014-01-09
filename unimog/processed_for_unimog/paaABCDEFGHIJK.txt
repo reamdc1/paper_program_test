@@ -1,0 +1,229 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+paaJ paaF |
+paaH |
+-paaG |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+paaK |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+-paaJ -paaH -paaF |
+-paaG -paaE |
+-paaK |
+paaI |
+paaA |
+paaB |
+paaC |
+paaD |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-paaF -paaJ |
+paaK |
+-paaH |
+-paaG |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+>Pseudomonas_putida_KT2440|NC_002947
+-paaE -paaD -paaC -paaB -paaA -paaK -paaJ -paaI -paaH -paaG -paaF |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+-paaG -paaF |
+-paaJ -paaH |
+paaK |
+-paaA |
+-paaE |
+paaB |
+paaC |
+paaD |
+paaI |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+paaH paaJ paaG |
+-paaF |
+IK p IK a IK E |
+paaA |
+paaB |
+paaC |
+paaD |
+paaE |
+paaI |
+paaK |
+>Vibrio_cholerae_MJ-1236|NC_012668
+paaF paaJ |
+-paaH |
+paaG |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+paaK |
+>Vibrio_vulnificus_CMCP6|NC_004459
+paaF paaJ |
+paaH |
+paaG |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+paaK |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-paaF -paaJ |
+paaK |
+-paaH |
+-paaG |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+>Sinorhizobium_meliloti_1021|NC_003047
+-paaF -paaJ |
+paaH |
+paaG |
+-paaD |
+paaE |
+paaA |
+paaB |
+paaC |
+paaI |
+paaK |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+-paaJ -paaF |
+-paaK |
+-paaH |
+paaG |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+paaF paaG |
+-paaJ -paaH |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+paaK |
+>Shewanella_oneidensis_MR-1|NC_004347
+-paaJ -paaF |
+paaG |
+-paaH |
+paaI |
+paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaK |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+paaJ paaF |
+paaH |
+paaA paaB paaC paaD paaE paaI paaK |
+paaG |
+>Bordetella_parapertussis_12822|NC_002928
+-paaG -paaJ |
+paaA paaB paaC paaD paaE |
+paaI paaK |
+paaH paaF |
+>Bordetella_pertussis_Tohama_I|NC_002929
+paaE |
+-paaJ -paaF |
+-paaK -paaI -paaG |
+-paaD -paaC -paaB -paaA |
+paaH |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-paaG -paaJ |
+paaH paaF |
+-paaK -paaI |
+-paaE -paaD -paaC -paaB -paaA |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+paaH paaJ |
+-paaG -paaF |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+paaK |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+paaA paaB paaC paaD paaE paaF paaG paaH paaI paaJ paaK |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+-paaJ -paaH |
+paaK |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaF |
+paaG |
+paaI |
+>Yersinia_pestis_CO92|NC_003143
+paaJ paaF |
+paaH |
+paaG |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+paaK |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-paaF -paaJ |
+-paaH |
+-paaI |
+-paaG |
+paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaK |
+>Caulobacter_crescentus_CB15|NC_002696
+-paaF -paaJ |
+-paaH |
+paaG |
+paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+paaK |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+paaJ paaH |
+paaF |
+paaG |
+-paaD |
+paaE |
+paaA |
+paaB |
+paaC |
+paaI |
+paaK |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+-paaF -paaJ |
+-paaH |
+-paaG |
+-paaE |
+paaA |
+paaB |
+paaC |
+paaD |
+paaI |
+paaK |

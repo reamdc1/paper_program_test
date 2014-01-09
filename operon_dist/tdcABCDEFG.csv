@@ -1,0 +1,16 @@
+Organism,Campylobacter_jejuni,Chromobacterium_violaceum,Escherichia_coli,Haemophilus_influenzae,Mesorhizobium_loti,Pasteurella_multocida,Pseudomonas_aeruginosa,Pseudomonas_putida,Pseudomonas_syringae,Ralstonia_solanacearum,Salmonella_enterica,Shigella_flexneri,Vibrio_cholerae,Vibrio_parahaemolyticus,Vibrio_vulnificus
+Campylobacter_jejuni,0,7.5,4.0,7.0,8.0,7.0,8.0,8.5,8.5,8.0,6.0,4.0,7.0,7.5,6.5
+Chromobacterium_violaceum,7.5,0,4.5,7.5,8.5,7.5,8.5,9.0,9.0,8.5,6.5,4.5,7.5,8.0,7.0
+Escherichia_coli,4.0,4.5,0,4.0,5.0,4.0,5.0,5.5,5.5,5.0,3.0,1.0,4.0,4.5,3.5
+Haemophilus_influenzae,7.0,7.5,4.0,0,8.0,7.0,8.0,8.5,8.5,8.0,6.0,4.0,7.0,7.5,6.5
+Mesorhizobium_loti,8.0,8.5,5.0,8.0,0,8.0,9.0,9.5,9.5,9.0,7.0,5.0,8.0,8.5,7.5
+Pasteurella_multocida,7.0,7.5,4.0,7.0,8.0,0,8.0,8.5,8.5,8.0,6.0,4.0,7.0,7.5,6.5
+Pseudomonas_aeruginosa,8.0,8.5,5.0,8.0,9.0,8.0,0,9.5,9.5,9.0,7.0,5.0,8.0,8.5,7.5
+Pseudomonas_putida,8.5,9.0,5.5,8.5,9.5,8.5,9.5,0,10.0,9.5,7.5,5.5,8.5,9.0,8.0
+Pseudomonas_syringae,8.5,9.0,5.5,8.5,9.5,8.5,9.5,10.0,0,9.5,7.5,5.5,8.5,9.0,8.0
+Ralstonia_solanacearum,8.0,8.5,5.0,8.0,9.0,8.0,9.0,9.5,9.5,0,7.0,5.0,8.0,8.5,7.5
+Salmonella_enterica,6.0,6.5,3.0,6.0,7.0,6.0,7.0,7.5,7.5,7.0,0,3.0,6.0,6.5,5.5
+Shigella_flexneri,4.0,4.5,1.0,4.0,5.0,4.0,5.0,5.5,5.5,5.0,3.0,0,4.0,4.5,3.5
+Vibrio_cholerae,7.0,7.5,4.0,7.0,8.0,7.0,8.0,8.5,8.5,8.0,6.0,4.0,0,7.5,6.5
+Vibrio_parahaemolyticus,7.5,8.0,4.5,7.5,8.5,7.5,8.5,9.0,9.0,8.5,6.5,4.5,7.5,0,7.0
+Vibrio_vulnificus,6.5,7.0,3.5,6.5,7.5,6.5,7.5,8.0,8.0,7.5,5.5,3.5,6.5,7.0,0

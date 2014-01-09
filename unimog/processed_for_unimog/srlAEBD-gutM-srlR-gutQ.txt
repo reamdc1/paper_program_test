@@ -1,0 +1,67 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+-srlB -srlE -srlA |
+-srlR -srlD |
+|
+-gutQ |
+gutM |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+srlA srlE srlB srlD gutM srlR gutQ |
+>Pseudomonas_putida_KT2440|NC_002947
+srlD |
+-gutQ |
+-srlR |
+gutM |
+srlA |
+srlB |
+srlE |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+srlA srlE srlB srlD gutM srlR gutQ |
+>Sinorhizobium_meliloti_1021|NC_003047
+-srlD -srlR |
+|
+gutQ |
+gutM |
+srlA |
+srlB |
+srlE |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+-srlD |
+|
+gutQ |
+srlR |
+gutM |
+srlA |
+srlB |
+srlE |
+>Bordetella_pertussis_Tohama_I|NC_002929
+-srlD |
+-gutQ |
+srlR |
+gutM |
+srlA |
+srlB |
+srlE |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-srlD |
+gutQ |
+srlR |
+gutM |
+srlA |
+srlB |
+srlE |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+srlA srlE srlB srlD gutM srlR gutQ |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+-gutM -srlD -srlB -srlE -srlA |
+-gutQ |
+-srlR |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-srlR -srlD |
+gutQ |
+gutM |
+srlA |
+srlB |
+srlE |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+srlE srlB srlD gutM srlR gutQ |
+srlA |

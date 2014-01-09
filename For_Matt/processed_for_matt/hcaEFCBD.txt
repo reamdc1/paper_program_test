@@ -1,0 +1,15 @@
+Mesorhizobium_loti_MAFF303099	hcaDC hcaBB <hcaE>
+Pseudomonas_aeruginosa_PAO1	hcaEF <hcaD> <hcaB>
+Pseudomonas_putida_KT2440	hcaBB hcaEF <hcaD>
+Ralstonia_solanacearum_GMI1000	<hcaCE> <hcaB>
+Sinorhizobium_meliloti_1021	<hcaDB> <hcaCD> hcaE
+Bordetella_pertussis_Tohama_I	<hcaEDC> hcaEF <hcaBB>
+Xanthomonas_axonopodis_pv._citri_str._306	<hcaBB> <hcaD> <hcaE> hcaC
+Bradyrhizobium_japonicum_USDA_110	<hcaBB>  hcaEF hcaD hcaC
+Bordetella_parapertussis_12822	<hcaEDC> hcaBB <hcaFE>
+Bordetella_bronchiseptica_RB50	<hcaEDC> hcaEBF
+Xanthomonas_campestris_pv._campestris_str._8004	<hcaCD> hcaB
+Escherichia_coli_str._K-12_substr._MG1655	hcaEFCBD
+Pseudomonas_syringae_pv._tomato_str._DC3000	<hcaBB> <hcaD> hcaE
+Caulobacter_crescentus_CB15	hcaDC hcaE hcaB
+Shigella_flexneri_2a_str._2457T	hcaEFCB hcaD

@@ -1,0 +1,66 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+-astC -astD |
+astA |
+astB |
+astE |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+astC astA astD astB astE |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+astC astA astD astB astE |
+>Pseudomonas_putida_KT2440|NC_002947
+-astE -astB -astD -astA -astC |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+astC astA astD astB |
+astE |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+-astD -astC |
+astA |
+astB |
+astE |
+>Vibrio_cholerae_MJ-1236|NC_012668
+astC astA astD |
+-astE |
+astB |
+>Vibrio_vulnificus_CMCP6|NC_004459
+astC astA astD |
+-astE |
+astB |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-astE -astB -astD -astA -astC |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+-astD -astA -astC |
+astE |
+astB |
+>Bordetella_pertussis_Tohama_I|NC_002929
+-astD -astC |
+astA |
+astB |
+astE |
+>Shewanella_oneidensis_MR-1|NC_004347
+astC astA astD |
+astB |
+astE |
+>Bordetella_parapertussis_12822|NC_002928
+-astD -astC |
+astA |
+astB |
+astE |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-astD -astC |
+astA |
+astB |
+astE |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-astE -astB -astD -astA -astC |
+>Yersinia_pestis_CO92|NC_003143
+astC astA astD astB astE |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+astC astA astD astB astE |
+>Caulobacter_crescentus_CB15|NC_002696
+astA astD astB astC |
+astE |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+astA astD |
+astC |
+astE |
+astB |

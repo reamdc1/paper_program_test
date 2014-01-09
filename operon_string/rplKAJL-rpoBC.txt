@@ -1,0 +1,36 @@
+NC_002678	Mesorhizobium_loti	rplKAJL-rpoBC
+NC_002516	Pseudomonas_aeruginosa	rpoCB-rplLJAK
+NC_003197	Salmonella_enterica	rplKAJL-rpoBC
+NC_004310	Brucella_suis	rpoCB-rplLJAK
+NC_003112	Neisseria_meningitidis	rplKAJL-rpoBC
+NC_002947	Pseudomonas_putida	rplKAJL-rpoBC
+NC_005085	Chromobacterium_violaceum	rpoCB-rplLJAK
+NC_003295	Ralstonia_solanacearum	rpoCB-rplLJAK
+NC_012668	Vibrio_cholerae	rpoCB-rplLJAK
+NC_004459	Vibrio_vulnificus	rplKAJL-rpoBC
+NC_004917	Helicobacter_hepaticus	rpoC-rplLJAK rpoB
+NC_002163	Campylobacter_jejuni	rplKAJL-rpoBC
+NC_003198	Salmonella_enterica	rpoCB-rplLJAK
+NC_003047	Sinorhizobium_meliloti	rplKAJL-rpoBC
+NC_004603	Vibrio_parahaemolyticus	rpoCB-rplLJAK
+NC_002929	Bordetella_pertussis	rplKAJL-rpoBC
+NC_003919	Xanthomonas_axonopodis	rplKA rplJL-rpoBC
+NC_004347	Shewanella_oneidensis	rplKAJL-rpoBC
+NC_004463	Bradyrhizobium_japonicum	rpoCB-rplLJ rplAK
+NC_002928	Bordetella_parapertussis	rplKAJL-rpoBC
+NC_002488	Xylella_fastidiosa	rpoCB-rplLJ rplAK
+NC_002927	Bordetella_bronchiseptica	rplKAJL-rpoBC
+NC_011833	Buchnera_aphidicola	rpoCB-rplLJAK
+NC_005061	Candidatus_Blochmannia	rpoCB-rplLJAK
+NC_007086	Xanthomonas_campestris	rpoCB-rplLJ rplAK
+NC_000913	Escherichia_coli	rplKAJL-rpoBC
+NC_004757	Nitrosomonas_europaea	rpoCB-rplLJAK
+NC_003143	Yersinia_pestis	rpoCB-rplLJAK
+NC_002663	Pasteurella_multocida	rpoCB-rplLJ rplAK
+NC_004578	Pseudomonas_syringae	rplKAJL-rpoBC
+NC_002696	Caulobacter_crescentus	rplJL rpoBC rplAK
+NC_003062	Agrobacterium_tumefaciens	rpoCB-rplLJAK
+NC_005090	Wolinella_succinogenes	rplKA rplL-rpoC rpoB
+NC_012441	Brucella_melitensis	rpoCB-rplLJAK
+NC_000907	Haemophilus_influenzae	rpoCB-rplAK rplJL
+NC_004741	Shigella_flexneri	rpoCB-rplLJAK

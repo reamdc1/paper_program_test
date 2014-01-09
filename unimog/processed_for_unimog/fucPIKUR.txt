@@ -1,0 +1,45 @@
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+fucK fucR |
+fucI |
+fucP |
+fucU |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+fucI fucK fucU fucR |
+-fucP |
+>Pseudomonas_putida_KT2440|NC_002947
+-fucR -fucK |
+fucI |
+fucP |
+fucU |
+>Vibrio_vulnificus_CMCP6|NC_004459
+-fucR -fucK |
+fucI |
+fucP |
+fucU |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+fucP fucI fucK fucU fucR |
+>Sinorhizobium_meliloti_1021|NC_003047
+fucK |
+-fucU |
+-fucR |
+fucI |
+fucP |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+fucK fucR |
+fucI |
+fucP |
+fucU |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+fucP fucI fucK fucU fucR |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+fucK fucR |
+fucI |
+fucP |
+fucU |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+-fucU -fucK -fucI -fucR |
+-fucP |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+fucP fucI |
+fucU fucR |
+fucK |

@@ -1,0 +1,14 @@
+Organism,Chromobacterium_violaceum,Escherichia_coli,Pasteurella_multocida,Pseudomonas_aeruginosa,Pseudomonas_putida,Pseudomonas_syringae,Salmonella_enterica,Shewanella_oneidensis,Shigella_flexneri,Sinorhizobium_meliloti,Vibrio_parahaemolyticus,Vibrio_vulnificus,Wolinella_succinogenes
+Chromobacterium_violaceum,0,4.0,9.5,7.5,9.0,7.5,5.5,8.5,7.5,8.0,8.0,8.0,8.0
+Escherichia_coli,4.0,0,5.5,3.5,5.0,3.5,1.5,4.5,3.5,4.0,4.0,4.0,4.0
+Pasteurella_multocida,9.5,5.5,0,9.0,10.5,9.0,7.0,10.0,9.0,9.5,9.5,9.5,9.5
+Pseudomonas_aeruginosa,7.5,3.5,9.0,0,8.5,7.0,5.0,8.0,7.0,7.5,7.5,7.5,7.5
+Pseudomonas_putida,9.0,5.0,10.5,8.5,0,8.5,6.5,9.5,8.5,9.0,9.0,9.0,9.0
+Pseudomonas_syringae,7.5,3.5,9.0,7.0,8.5,0,5.0,8.0,7.0,7.5,7.5,7.5,7.5
+Salmonella_enterica,5.5,1.5,7.0,5.0,6.5,5.0,0,6.0,5.0,5.5,5.5,5.5,5.5
+Shewanella_oneidensis,8.5,4.5,10.0,8.0,9.5,8.0,6.0,0,8.0,8.5,8.5,8.5,8.5
+Shigella_flexneri,7.5,3.5,9.0,7.0,8.5,7.0,5.0,8.0,0,7.5,7.5,7.5,7.5
+Sinorhizobium_meliloti,8.0,4.0,9.5,7.5,9.0,7.5,5.5,8.5,7.5,0,8.0,8.0,8.0
+Vibrio_parahaemolyticus,8.0,4.0,9.5,7.5,9.0,7.5,5.5,8.5,7.5,8.0,0,8.0,8.0
+Vibrio_vulnificus,8.0,4.0,9.5,7.5,9.0,7.5,5.5,8.5,7.5,8.0,8.0,0,8.0
+Wolinella_succinogenes,8.0,4.0,9.5,7.5,9.0,7.5,5.5,8.5,7.5,8.0,8.0,8.0,0

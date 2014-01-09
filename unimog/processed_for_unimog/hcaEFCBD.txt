@@ -1,0 +1,69 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+hcaD hcaC |
+hcaB |
+-hcaE |
+hcaF |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+hcaE hcaF |
+-hcaD |
+-hcaB |
+hcaC |
+>Pseudomonas_putida_KT2440|NC_002947
+hcaB |
+hcaE hcaF |
+-hcaD |
+hcaC |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+-hcaC -hcaE |
+-hcaB |
+hcaD |
+hcaF |
+>Sinorhizobium_meliloti_1021|NC_003047
+-hcaD -hcaB |
+-hcaC |
+hcaE |
+hcaF |
+>Bordetella_pertussis_Tohama_I|NC_002929
+-hcaE -hcaD -hcaC |
+hcaF |
+-hcaB |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+-hcaB |
+-hcaD |
+-hcaE |
+hcaC |
+hcaF |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+-hcaB |
+|
+hcaE hcaF |
+hcaD |
+hcaC |
+>Bordetella_parapertussis_12822|NC_002928
+-hcaE -hcaD -hcaC |
+hcaB |
+-hcaF |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-hcaE -hcaD -hcaC |
+hcaB hcaF |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+-hcaC -hcaD |
+hcaB |
+hcaE |
+hcaF |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+hcaE hcaF hcaC hcaB hcaD |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-hcaB |
+-hcaD |
+hcaE |
+hcaC |
+hcaF |
+>Caulobacter_crescentus_CB15|NC_002696
+hcaD hcaC |
+hcaE |
+hcaB |
+hcaF |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+hcaE hcaF hcaC hcaB |
+hcaD |

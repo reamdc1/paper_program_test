@@ -1,0 +1,6 @@
+Organism,Escherichia_coli,Salmonella_enterica,Shigella_flexneri,Wolinella_succinogenes,Yersinia_pestis
+Escherichia_coli,0,2.5,1.0,2.5,4.0
+Salmonella_enterica,2.5,0,3.5,5.0,6.5
+Shigella_flexneri,1.0,3.5,0,3.5,5.0
+Wolinella_succinogenes,2.5,5.0,3.5,0,6.5
+Yersinia_pestis,4.0,6.5,5.0,6.5,0

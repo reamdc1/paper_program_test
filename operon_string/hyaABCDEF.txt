@@ -1,0 +1,9 @@
+NC_003197	Salmonella_enterica	*hyaFEDCBA
+NC_000913	Escherichia_coli	*hyaABCDEF
+NC_004917	Helicobacter_hepaticus	*hyaABCD
+NC_002163	Campylobacter_jejuni	*hyaDCBA
+NC_003198	Salmonella_enterica	*hyaBCDEF*hyaA
+NC_005090	Wolinella_succinogenes	*hyaDCBA
+NC_004741	Shigella_flexneri	*hyaABCDEF
+NC_004347	Shewanella_oneidensis	*hyaDCBA
+NC_004463	Bradyrhizobium_japonicum	*hyaABCDD*hyaF

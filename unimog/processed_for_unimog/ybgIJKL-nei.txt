@@ -1,0 +1,75 @@
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+-ybgK -ybgJ -ybgL |
+-ybgI |
+nei |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+ybgI ybgJ ybgK ybgL |
+|
+nei |
+>Pseudomonas_putida_KT2440|NC_002947
+ybgL ybgJ ybgK |
+ybgI |
+nei |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+ybgJ ybgK |
+K> L |
+-ybgI |
+|
+nei |
+ybgL |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+ybgL ybgJ ybgK |
+ybgI |
+nei |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+ybgI ybgJ ybgK ybgL |
+|
+nei |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+-ybgL -ybgK -ybgJ |
+-ybgI |
+nei |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+ybgJ ybgK ybgL |
+|
+nei |
+ybgI |
+>Bordetella_parapertussis_12822|NC_002928
+ybgJ ybgK ybgL |
+ybgI |
+|
+nei |
+>Bordetella_pertussis_Tohama_I|NC_002929
+-ybgK -ybgJ |
+-ybgI |
+|
+nei |
+ybgL |
+>Bordetella_bronchiseptica_RB50|NC_002927
+ybgJ ybgK ybgL |
+ybgI |
+|
+nei |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+ybgI ybgJ ybgK ybgL |
+nei |
+>Yersinia_pestis_CO92|NC_003143
+ybgK ybgL |
+ybgI |
+nei |
+ybgJ |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-ybgL -ybgK -ybgJ |
+-ybgI |
+|
+nei |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+-ybgL -ybgK -ybgJ |
+ybgI |
+|
+nei |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+-ybgL |
+-ybgJ -ybgI |
+nei |
+ybgK |

@@ -1,0 +1,36 @@
+Mesorhizobium_loti_MAFF303099	rplKAJL-rpoBC
+Pseudomonas_aeruginosa_PAO1	<rpoCB-rplLJAK>
+Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	rplKAJL-rpoBC
+Brucella_suis_1330	<rpoCB-rplLJAK>
+Neisseria_meningitidis_MC58	rplKAJL-rpoBC
+Pseudomonas_putida_KT2440	rplKAJL-rpoBC
+Chromobacterium_violaceum_ATCC_12472	<rpoCB-rplLJAK>
+Ralstonia_solanacearum_GMI1000	<rpoCB-rplLJAK>
+Vibrio_cholerae_MJ-1236	<rpoCB-rplLJAK>
+Vibrio_vulnificus_CMCP6	rplKAJL-rpoBC
+Helicobacter_hepaticus_ATCC_51449	<rpoC-rplLJAK> <rpoB>
+Campylobacter_jejuni_subsp._jejuni_NCTC_11168	rplKAJL-rpoBC
+Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	<rpoCB-rplLJAK>
+Sinorhizobium_meliloti_1021	rplKAJL-rpoBC
+Vibrio_parahaemolyticus_RIMD_2210633	<rpoCB-rplLJAK>
+Bordetella_pertussis_Tohama_I	rplKAJL-rpoBC
+Xanthomonas_axonopodis_pv._citri_str._306	rplKA rplJL-rpoBC
+Shewanella_oneidensis_MR-1	rplKAJL-rpoBC
+Bradyrhizobium_japonicum_USDA_110	<rpoCB-rplLJ> <rplAK>
+Bordetella_parapertussis_12822	rplKAJL-rpoBC
+Xylella_fastidiosa_9a5c	<rpoCB-rplLJ> <rplAK>
+Bordetella_bronchiseptica_RB50	rplKAJL-rpoBC
+Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	<rpoCB-rplLJAK>
+Candidatus_Blochmannia_floridanus	<rpoCB-rplLJAK>
+Xanthomonas_campestris_pv._campestris_str._8004	<rpoCB-rplLJ> <rplAK>
+Escherichia_coli_str._K-12_substr._MG1655	rplKAJL-rpoBC
+Nitrosomonas_europaea_ATCC_19718	<rpoCB-rplLJAK>
+Yersinia_pestis_CO92	<rpoCB-rplLJAK>
+Pasteurella_multocida_subsp._multocida_str._Pm70	<rpoCB-rplLJ> <rplAK>
+Pseudomonas_syringae_pv._tomato_str._DC3000	rplKAJL-rpoBC
+Caulobacter_crescentus_CB15	rplJL rpoBC <rplAK>
+Agrobacterium_tumefaciens_str._C58	<rpoCB-rplLJAK>
+Wolinella_succinogenes_DSM_1740	rplKA rplL-rpoC rpoB
+Brucella_melitensis_ATCC_23457	<rpoCB-rplLJAK>
+Haemophilus_influenzae_Rd_KW20	<rpoCB-rplAK> rplJL
+Shigella_flexneri_2a_str._2457T	<rpoCB-rplLJAK>

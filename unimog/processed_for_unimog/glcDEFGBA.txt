@@ -1,0 +1,97 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+glcD glcF |
+glcE |
+glcB |
+glcA |
+glcG |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+-glcG -glcF -glcE -glcD |
+glcA |
+-glcB |
+>Pseudomonas_putida_KT2440|NC_002947
+glcD glcE glcF glcG |
+glcA |
+-glcB |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+-glcA -glcD |
+glcF |
+glcB |
+glcE |
+glcG |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+-glcA -glcF |
+|
+-glcD |
+-glcE |
+glcB |
+glcG |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+-glcF -glcA |
+-glcD |
+-glcE |
+glcB |
+glcG |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+glcD glcE glcF |
+-glcG |
+-glcA |
+glcB |
+>Sinorhizobium_meliloti_1021|NC_003047
+glcD glcE glcF |
+glcB |
+glcA |
+glcG |
+>Shewanella_oneidensis_MR-1|NC_004347
+-glcF -glcD -glcA |
+glcB |
+glcE |
+glcG |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+-glcF -glcD |
+-glcE |
+glcG |
+-glcA |
+-glcB |
+>Bordetella_parapertussis_12822|NC_002928
+glcD glcE glcF |
+-glcG |
+glcA |
+-glcB |
+>Bordetella_pertussis_Tohama_I|NC_002929
+-glcF -glcE -glcD |
+-glcG |
+-glcB |
+glcA |
+>Bordetella_bronchiseptica_RB50|NC_002927
+glcD glcE glcF |
+-glcG |
+glcA |
+-glcB |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-glcA -glcB -glcG -glcF -glcE -glcD |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+-glcF -glcE -glcD |
+glcA |
+glcB |
+glcG |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+glcA glcF |
+glcD |
+glcB |
+glcE |
+glcG |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+glcD glcE |
+glcG glcB |
+glcA |
+glcF |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+glcD glcE glcF |
+glcB |
+glcA |
+glcG |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+-glcF |
+-glcA -glcB -glcG |
+-glcD |
+glcE |

@@ -1,0 +1,32 @@
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-ydhU -ydhX |
+ydhY |
+ydhT |
+ydhV |
+ydhW |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-ydhU -ydhX |
+ydhY |
+ydhT |
+ydhV |
+ydhW |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-ydhT -ydhU -ydhX -ydhW -ydhV -ydhY |
+>Yersinia_pestis_CO92|NC_003143
+ydhX |
+-ydhY |
+ydhT |
+ydhU |
+ydhV |
+ydhW |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+-ydhY -ydhV |
+|
+ydhX |
+ydhT |
+ydhU |
+ydhW |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+-ydhT -ydhU -ydhX -ydhW |
+-ydhY |
+ydhV |

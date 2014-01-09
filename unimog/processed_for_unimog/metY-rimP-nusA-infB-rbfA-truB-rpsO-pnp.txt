@@ -1,0 +1,195 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+rimP nusA |
+rpsO |
+truB |
+infB |
+metY |
+pnp |
+rbfA |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+-rpsO -truB -rbfA -infB -nusA -rimP |
+metY |
+pnp |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-rpsO -truB -rbfA -infB -nusA -rimP |
+metY |
+pnp |
+>Brucella_suis_1330|NC_004310
+rimP nusA |
+truB rpsO |
+infB |
+metY |
+pnp |
+rbfA |
+>Neisseria_meningitidis_MC58|NC_003112
+rbfA truB |
+rimP nusA infB |
+rpsO |
+|
+metY |
+pnp |
+>Pseudomonas_putida_KT2440|NC_002947
+-rpsO |
+-rbfA -infB -nusA -rimP |
+metY |
+pnp |
+truB |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+rimP nusA infB rbfA truB rpsO |
+metY |
+pnp |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+rimP nusA infB rbfA truB |
+-rpsO |
+metY |
+pnp |
+>Vibrio_cholerae_MJ-1236|NC_012668
+-rpsO -truB -rbfA -infB -nusA -rimP |
+metY |
+pnp |
+>Vibrio_vulnificus_CMCP6|NC_004459
+rimP nusA infB rbfA truB |
+rpsO |
+|
+metY |
+pnp |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+infB rimP |
+rpsO |
+|
+truB |
+nusA |
+metY |
+pnp |
+rbfA |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-rpsO -truB -rbfA -infB -nusA -rimP |
+metY |
+pnp |
+>Sinorhizobium_meliloti_1021|NC_003047
+rimP nusA |
+rpsO |
+infB |
+truB |
+metY |
+pnp |
+rbfA |
+>Vibrio_parahaemolyticus_RIMD_2210633|NC_004603
+-rpsO -truB -rbfA -infB -nusA -rimP |
+metY |
+pnp |
+>Bordetella_pertussis_Tohama_I|NC_002929
+rpsO |
+rimP nusA infB rbfA truB |
+metY |
+pnp |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+-rpsO -truB -rbfA -infB -nusA -rimP |
+metY |
+pnp |
+>Shewanella_oneidensis_MR-1|NC_004347
+rimP nusA infB rbfA |
+rpsO |
+|
+metY |
+pnp |
+truB |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+-rpsO -truB |
+-nusA -rimP |
+-infB |
+metY |
+pnp |
+rbfA |
+>Bordetella_parapertussis_12822|NC_002928
+rimP nusA infB rbfA truB |
+-rpsO |
+metY |
+pnp |
+>Xylella_fastidiosa_9a5c|NC_002488
+rimP nusA infB rbfA truB rpsO |
+metY |
+pnp |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-infB -truB -rbfA -nusA -rimP |
+-rpsO |
+metY |
+pnp |
+>Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|NC_011833
+-rpsO -truB -rbfA -infB -nusA |
+metY |
+pnp |
+rimP |
+>Candidatus_Blochmannia_floridanus|NC_005061
+nusA infB rbfA truB rpsO |
+metY |
+pnp |
+rimP |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+rimP nusA infB rbfA truB rpsO |
+metY |
+pnp |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-rpsO -truB -rbfA -infB -nusA -rimP |
+metY |
+pnp |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+-rpsO |
+rimP nusA infB rbfA truB |
+metY |
+pnp |
+>Yersinia_pestis_CO92|NC_003143
+-rpsO -truB -rbfA -infB -nusA -rimP |
+|
+metY |
+pnp |
+>Pasteurella_multocida_subsp._multocida_str._Pm70|NC_002663
+-truB -rbfA |
+-infB -nusA -rimP |
+rpsO |
+|
+metY |
+pnp |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+-rpsO -truB -rbfA -infB -nusA -rimP |
+metY |
+pnp |
+>Caulobacter_crescentus_CB15|NC_002696
+-rpsO -truB -rbfA |
+-nusA -rimP |
+-infB |
+metY |
+pnp |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+-rpsO -truB -infB |
+-nusA -rimP |
+metY |
+pnp |
+rbfA |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+infB rimP |
+rpsO |
+|
+truB |
+nusA |
+metY |
+pnp |
+rbfA |
+>Brucella_melitensis_ATCC_23457|NC_012441
+rimP nusA |
+truB rpsO |
+infB |
+metY |
+pnp |
+rbfA |
+>Haemophilus_influenzae_Rd_KW20|NC_000907
+rimP nusA infB |
+rbfA truB |
+-rpsO |
+|
+metY |
+pnp |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+-rpsO -truB -rbfA -infB -nusA -rimP |
+metY |
+pnp |

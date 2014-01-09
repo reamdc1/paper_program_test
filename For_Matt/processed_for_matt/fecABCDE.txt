@@ -1,0 +1,34 @@
+Mesorhizobium_loti_MAFF303099	<fecED> <fecC> fecA
+Pseudomonas_aeruginosa_PAO1	<fecEE> fecCD fecA
+Brucella_suis_1330	<fecEC> <fecD> <fecA>
+Pseudomonas_putida_KT2440	<fecED> <fecABE> <fecEC>
+Chromobacterium_violaceum_ATCC_12472	<fecEDC> <fecB> fecA
+Ralstonia_solanacearum_GMI1000	<fecECA> <fecD> fecB
+Vibrio_cholerae_MJ-1236	<fecCBEAE>  <fecED>
+Vibrio_vulnificus_CMCP6	<fecED> <fecC> fecA
+Helicobacter_hepaticus_ATCC_51449	<fecEE> fecA
+Campylobacter_jejuni_subsp._jejuni_NCTC_11168	fecACEB fecD
+Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	<fecEDC> <fecB> <fecA>
+Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	fecAE <fecEDC> <fecB>
+Sinorhizobium_meliloti_1021	fecDE fecC fecA
+Vibrio_parahaemolyticus_RIMD_2210633	fecDE fecC <fecA>
+Bordetella_pertussis_Tohama_I	<fecED> fecAA <fecC>
+Xanthomonas_axonopodis_pv._citri_str._306	<fecEE> fecAA
+Shewanella_oneidensis_MR-1	fecED fecC fecA
+Bradyrhizobium_japonicum_USDA_110	fecDE fecC <fecA>
+Haemophilus_influenzae_Rd_KW20	<fecED> <fecC> <fecA>
+Bordetella_parapertussis_12822	fecDE fecC fecA
+Xylella_fastidiosa_9a5c	<fecEA>
+Bordetella_bronchiseptica_RB50	<fecAA> fecDE fecC
+Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	fecEE
+Xanthomonas_campestris_pv._campestris_str._8004	<fecAA> <fecE>
+Escherichia_coli_str._K-12_substr._MG1655	<fecEDCBA>
+Nitrosomonas_europaea_ATCC_19718	<fecAA> <fecE>
+Yersinia_pestis_CO92	fecDEA <fecECDB>
+Pasteurella_multocida_subsp._multocida_str._Pm70	<fecEDCB> fecA
+Pseudomonas_syringae_pv._tomato_str._DC3000	<fecEDCB> fecAA >
+Caulobacter_crescentus_CB15	fecDE <fecAE>  fecC
+Agrobacterium_tumefaciens_str._C58	fecBDCE fecA
+Wolinella_succinogenes_DSM_1740	fecDE fecC <fecA>
+Brucella_melitensis_ATCC_23457	<fecEC> <fecD> <fecA>
+Shigella_flexneri_2a_str._2457T	fecAE <fecEDC> <fecEDB>

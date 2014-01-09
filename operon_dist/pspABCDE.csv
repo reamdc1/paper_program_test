@@ -1,0 +1,9 @@
+Organism,Escherichia_coli,Salmonella_enterica,Shewanella_oneidensis,Shigella_flexneri,Vibrio_cholerae,Vibrio_parahaemolyticus,Vibrio_vulnificus,Yersinia_pestis
+Escherichia_coli,0,0.0,1.0,0.0,1.0,1.0,1.0,1.0
+Salmonella_enterica,0.0,0,1.0,0.0,1.0,1.0,1.0,1.0
+Shewanella_oneidensis,1.0,1.0,0,1.0,2.0,2.0,2.0,2.0
+Shigella_flexneri,0.0,0.0,1.0,0,1.0,1.0,1.0,1.0
+Vibrio_cholerae,1.0,1.0,2.0,1.0,0,2.0,2.0,2.0
+Vibrio_parahaemolyticus,1.0,1.0,2.0,1.0,2.0,0,2.0,2.0
+Vibrio_vulnificus,1.0,1.0,2.0,1.0,2.0,2.0,0,2.0
+Yersinia_pestis,1.0,1.0,2.0,1.0,2.0,2.0,2.0,0

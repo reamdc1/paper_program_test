@@ -1,0 +1,9 @@
+NC_003197	Salmonella_enterica	*pspEDCBA
+NC_012668	Vibrio_cholerae	*pspABC
+NC_004459	Vibrio_vulnificus	*pspCBA
+NC_003198	Salmonella_enterica	*pspABCDE
+NC_004603	Vibrio_parahaemolyticus	*pspABC
+NC_004347	Shewanella_oneidensis	*pspABC*pspE
+NC_000913	Escherichia_coli	*pspABCDE
+NC_003143	Yersinia_pestis	*pspCBA*pspE
+NC_004741	Shigella_flexneri	*pspABCDE

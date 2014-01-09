@@ -1,0 +1,116 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+-nuoN -nuoM -nuoL -nuoJ -nuoI -nuoH -nuoG |
+-nuoF -nuoE -nuoC -nuoB -nuoA |
+nuoK |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI nuoJ nuoK nuoL nuoM nuoN |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-nuoN -nuoM -nuoL -nuoK -nuoJ -nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+>Brucella_suis_1330|NC_004310
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI |
+nuoK nuoL nuoM nuoN |
+nuoJ |
+>Neisseria_meningitidis_MC58|NC_003112
+nuoA nuoB nuoC nuoE nuoF |
+nuoG nuoH nuoI |
+nuoL nuoM nuoN |
+nuoK |
+nuoJ |
+>Pseudomonas_putida_KT2440|NC_002947
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI nuoJ nuoK nuoL nuoM nuoN |
+>Chromobacterium_violaceum_ATCC_12472|NC_005085
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI nuoJ nuoK nuoL nuoM nuoN |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+-nuoN -nuoM -nuoL -nuoK -nuoJ -nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+>Helicobacter_hepaticus_ATCC_51449|NC_004917
+-nuoN -nuoM -nuoL -nuoK -nuoJ -nuoI -nuoH -nuoG |
+-nuoC -nuoB |
+nuoA |
+nuoE |
+nuoF |
+>Bordetella_parapertussis_12822|NC_002928
+-nuoN -nuoM -nuoL -nuoK |
+-nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+nuoJ |
+>Campylobacter_jejuni_subsp._jejuni_NCTC_11168|NC_002163
+-nuoN -nuoM -nuoL -nuoJ -nuoI -nuoH -nuoG |
+-nuoC -nuoB -nuoA |
+nuoE |
+nuoF |
+nuoK |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-nuoN -nuoM -nuoL -nuoK -nuoJ -nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+>Sinorhizobium_meliloti_1021|NC_003047
+nuoA nuoB nuoC nuoE nuoF |
+nuoG nuoH nuoI |
+nuoL nuoM nuoN |
+nuoJ |
+nuoK |
+>Shewanella_oneidensis_MR-1|NC_004347
+-nuoN -nuoM |
+nuoL |
+KJIH KJIG KJIF |
+nuoF nuoE |
+|
+nuoA |
+nuoB |
+nuoC |
+nuoG |
+nuoH |
+nuoI |
+nuoJ |
+nuoK |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+-nuoN -nuoM -nuoL -nuoJ -nuoI -nuoH -nuoG -nuoF -nuoE |
+-nuoC -nuoB -nuoA |
+nuoK |
+>Bordetella_pertussis_Tohama_I|NC_002929
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI nuoJ nuoK nuoL nuoM nuoN |
+>Xylella_fastidiosa_9a5c|NC_002488
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI |
+nuoL nuoM nuoN |
+nuoJ |
+nuoK |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-nuoN -nuoM -nuoL -nuoK |
+-nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+nuoJ |
+>Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|NC_011833
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI nuoJ nuoK nuoL nuoM nuoN |
+>Candidatus_Blochmannia_floridanus|NC_005061
+-nuoN -nuoM -nuoL -nuoK -nuoJ -nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+>Xanthomonas_campestris_pv._campestris_str._8004|NC_007086
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI nuoJ nuoL nuoM nuoN |
+nuoK |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-nuoN -nuoM -nuoL -nuoK -nuoJ -nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+>Nitrosomonas_europaea_ATCC_19718|NC_004757
+-nuoN -nuoM -nuoL -nuoK -nuoJ -nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+>Yersinia_pestis_CO92|NC_003143
+-nuoN -nuoM -nuoL -nuoK -nuoJ -nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+>Pseudomonas_syringae_pv._tomato_str._DC3000|NC_004578
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI nuoJ nuoK nuoL nuoM nuoN |
+>Caulobacter_crescentus_CB15|NC_002696
+-nuoN -nuoM -nuoL -nuoK |
+-nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+nuoJ |
+>Agrobacterium_tumefaciens_str._C58|NC_003062
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI nuoJ nuoL nuoM nuoN |
+nuoK |
+>Wolinella_succinogenes_DSM_1740|NC_005090
+nuoA nuoB nuoC |
+nuoG |
+nuoH nuoI nuoJ nuoK nuoL nuoM nuoN |
+nuoE |
+nuoF |
+>Brucella_melitensis_ATCC_23457|NC_012441
+nuoA nuoB nuoC nuoE nuoF nuoG nuoH nuoI |
+nuoK nuoL nuoM nuoN |
+nuoJ |
+>Xanthomonas_axonopodis_pv._citri_str._306|NC_003919
+-nuoN -nuoM -nuoL |
+-nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |
+nuoJ |
+nuoK |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+-nuoN -nuoM -nuoL -nuoK -nuoJ -nuoI -nuoH -nuoG -nuoF -nuoE -nuoC -nuoB -nuoA |

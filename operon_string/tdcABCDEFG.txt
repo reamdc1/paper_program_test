@@ -1,0 +1,16 @@
+NC_002678	Mesorhizobium_loti	*tdcFF*tdcD*tdcG*tdcA*tdcB
+NC_002516	Pseudomonas_aeruginosa	*tdcAF*A*tdcD*tdcG*tdcB
+NC_003197	Salmonella_enterica	*tdcCGEDCBA*tdcF
+NC_002947	Pseudomonas_putida	*tdcAA**tdcG*tdcF*tdcC*tdcB
+NC_005085	Chromobacterium_violaceum	*tdcGC*tdcE*tdcD*tdcF*tdcA*tdcB
+NC_003295	Ralstonia_solanacearum	*tdcGG*tdcA*tdcB
+NC_012668	Vibrio_cholerae	*tdcCG*tdcE*tdcD*tdcF*tdcA*tdcB
+NC_004459	Vibrio_vulnificus	*tdcGC*tdcE*tdcD*tdcF*tdcA*tdcB
+NC_002163	Campylobacter_jejuni	*tdcGC*tdcD*tdcF*tdcB
+NC_003198	Salmonella_enterica	*tdcCG*tdcGED*tdcBA*tdcF
+NC_004603	Vibrio_parahaemolyticus	*tdcCG*tdcFC**tdcE*tdcD*tdcA*tdcB
+NC_000913	Escherichia_coli	*tdcCGFEDCBA
+NC_002663	Pasteurella_multocida	*tdcGC*tdcE*tdcD*tdcF*tdcA*tdcB
+NC_004578	Pseudomonas_syringae	*tdcAA*tdcD*tdcG*tdcF*tdcC*tdcB
+NC_000907	Haemophilus_influenzae	*tdcGC*tdcE*tdcD*tdcF*tdcA*tdcB
+NC_004741	Shigella_flexneri	*tdcCGFEDCBA

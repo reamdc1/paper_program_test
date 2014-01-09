@@ -1,0 +1,7 @@
+NC_003198	Salmonella_enterica	*garRP*garKRL
+NC_003197	Salmonella_enterica	*garRP*garKRL
+NC_003919	Xanthomonas_axonopodis	*garKP*garL*garR
+NC_007086	Xanthomonas_campestris	*garKP*garL*garR
+NC_000913	Escherichia_coli	*garKRLP
+NC_003143	Yersinia_pestis	*garLP*garR*garK
+NC_004741	Shigella_flexneri	*garKR*garL*garP

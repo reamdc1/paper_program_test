@@ -1,0 +1,12 @@
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+gatZ gatA gatB gatC gatD |
+gatY |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+gatA gatB gatC gatD |
+gatY |
+gatZ |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-gatD -gatC -gatB -gatA -gatZ -gatY |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+-gatC -gatB -gatA -gatZ -gatY |
+-gatD |

@@ -1,0 +1,6 @@
+Organism,Escherichia_coli,Haemophilus_influenzae,Pasteurella_multocida,Salmonella_enterica,Shigella_flexneri
+Escherichia_coli,0,2.5,2.0,0.0,0.0
+Haemophilus_influenzae,2.5,0,4.5,2.5,2.5
+Pasteurella_multocida,2.0,4.5,0,2.0,2.0
+Salmonella_enterica,0.0,2.5,2.0,0,0.0
+Shigella_flexneri,0.0,2.5,2.0,0.0,0

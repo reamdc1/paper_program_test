@@ -1,0 +1,10 @@
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+-cas2 -cas1 -casE -casD -casC -casB -casA |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+-cas2 -cas1 -casE -casD -casC |
+-casA |
+casB |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+-cas2 -cas1 -casE -casD -casC |
+-casA |
+casB |

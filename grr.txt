@@ -1,0 +1,2910 @@
+./operon_name_and_genes.txt
+astCADBE
+astC
+astA
+astD
+astB
+astE
+astCADBE {'astA': 'B', 'astB': 'D', 'astC': 'A', 'astD': 'C', 'reference_string': 'ABCDE', 'astE': 'E'} 1
+atpIBEFHAGDC
+atpI
+atpB
+atpE
+atpF
+atpH
+atpA
+atpG
+atpD
+atpC
+atpIBEFHAGDC {'atpF': 'D', 'atpI': 'A', 'atpH': 'E', 'atpC': 'I', 'atpB': 'B', 'atpA': 'F', 'atpG': 'G', 'reference_string': 'ABCDEFGHI', 'atpE': 'C', 'atpD': 'H'} 2
+bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE
+bamA
+hlpA
+lpxD
+fabZ
+lpxA
+lpxB
+rnhB
+dnaE
+bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE {'hlpA': 'B', 'dnaE': 'H', 'bamA': 'A', 'rnhB': 'G', 'lpxA': 'E', 'lpxB': 'F', 'lpxD': 'C', 'reference_string': 'ABCDEFGH', 'fabZ': 'D'} 3
+caiTABCDE
+caiT
+caiA
+caiB
+caiC
+caiD
+caiE
+caiTABCDE {'caiE': 'F', 'caiT': 'A', 'caiC': 'D', 'caiB': 'C', 'caiA': 'B', 'caiD': 'E', 'reference_string': 'ABCDEF'} 4
+casABCDE12
+casA
+casB
+casC
+casD
+casE
+cas1
+cas2
+casABCDE12 {'casE': 'E', 'casD': 'D', 'casA': 'A', 'casC': 'C', 'casB': 'B', 'cas1': 'F', 'cas2': 'G', 'reference_string': 'ABCDEFG'} 5
+dicB-ydfDE-insD-intQ
+dicB
+ydfD
+ydfE
+insD
+intQ
+dicB-ydfDE-insD-intQ {'ydfE': 'C', 'ydfD': 'B', 'dicB': 'A', 'insD': 'D', 'intQ': 'E', 'reference_string': 'ABCDE'} 6
+fecABCDE
+fecA
+fecB
+fecC
+fecD
+fecE
+fecABCDE {'fecD': 'D', 'fecE': 'E', 'fecB': 'B', 'fecC': 'C', 'fecA': 'A', 'reference_string': 'ABCDE'} 7
+fucPIKUR
+fucP
+fucI
+fucK
+fucU
+fucR
+fucPIKUR {'fucU': 'D', 'fucR': 'E', 'fucP': 'A', 'fucI': 'B', 'fucK': 'C', 'reference_string': 'ABCDE'} 8
+garPLRK-rnpB
+garP
+garL
+garR
+garK
+rnpB
+garPLRK-rnpB {'garL': 'B', 'rnpB': 'E', 'garK': 'D', 'garR': 'C', 'reference_string': 'ABCDE', 'garP': 'A'} 9
+gatYZABCD
+gatY
+gatZ
+gatA
+gatB
+gatC
+gatD
+gatYZABCD {'gatY': 'A', 'gatZ': 'B', 'gatD': 'F', 'gatC': 'E', 'gatA': 'C', 'gatB': 'D', 'reference_string': 'ABCDEF'} 10
+gcl-hyi-glxR-ybbVW-allB-ybbY-glxK
+gcl
+hyi
+glxR
+ybbV
+ybbW
+allB
+ybbY
+glxK
+gcl-hyi-glxR-ybbVW-allB-ybbY-glxK {'gcl': 'A', 'allB': 'F', 'ybbY': 'G', 'hyi': 'B', 'ybbW': 'E', 'ybbV': 'D', 'glxK': 'H', 'reference_string': 'ABCDEFGH', 'glxR': 'C'} 11
+glcDEFGBA
+glcD
+glcE
+glcF
+glcG
+glcB
+glcA
+glcDEFGBA {'glcD': 'A', 'glcE': 'B', 'glcF': 'C', 'glcG': 'D', 'reference_string': 'ABCDEF', 'glcB': 'E', 'glcA': 'F'} 12
+hcaEFCBD
+hcaE
+hcaF
+hcaC
+hcaB
+hcaD
+hcaEFCBD {'hcaD': 'E', 'hcaE': 'A', 'hcaF': 'B', 'hcaB': 'D', 'hcaC': 'C', 'reference_string': 'ABCDE'} 13
+hisLGDCBHAFI
+hisL
+hisG
+hisD
+hisC
+hisB
+hisH
+hisA
+hisF
+hisI
+hisLGDCBHAFI {'hisD': 'C', 'hisF': 'H', 'hisG': 'B', 'hisA': 'G', 'hisB': 'E', 'hisC': 'D', 'hisL': 'A', 'hisH': 'F', 'hisI': 'I', 'reference_string': 'ABCDEFGHI'} 14
+hyaABCDEF
+hyaA
+hyaB
+hyaC
+hyaD
+hyaE
+hyaF
+hyaABCDEF {'hyaB': 'B', 'hyaC': 'C', 'hyaA': 'A', 'hyaF': 'F', 'hyaD': 'D', 'hyaE': 'E', 'reference_string': 'ABCDEF'} 15
+hycABCDEFGHI
+hycA
+hycB
+hycC
+hycD
+hycE
+hycF
+hycG
+hycH
+hycI
+hycABCDEFGHI {'hycD': 'D', 'hycE': 'E', 'hycF': 'F', 'hycG': 'G', 'hycA': 'A', 'hycB': 'B', 'hycC': 'C', 'hycH': 'H', 'hycI': 'I', 'reference_string': 'ABCDEFGHI'} 16
+hyfABCDEFGHIJR-focB
+hyfA
+hyfB
+hyfC
+hyfD
+hyfE
+hyfF
+hyfG
+hyfH
+hyfI
+hyfJ
+hyfR
+focB
+hyfABCDEFGHIJR-focB {'hyfJ': 'J', 'hyfI': 'I', 'hyfH': 'H', 'hyfC': 'C', 'hyfB': 'B', 'hyfA': 'A', 'hyfG': 'G', 'hyfF': 'F', 'hyfE': 'E', 'hyfD': 'D', 'hyfR': 'K', 'focB': 'L', 'reference_string': 'ABCDEFGHIJKL'} 17
+hypABCDE-fhlA
+hypA
+hypB
+hypC
+hypD
+hypE
+fhlA
+hypABCDE-fhlA {'fhlA': 'F', 'hypE': 'E', 'hypD': 'D', 'hypA': 'A', 'reference_string': 'ABCDEF', 'hypC': 'C', 'hypB': 'B'} 18
+ivbL-ilvBN-uhpABC
+ivbL
+ilvB
+ilvN
+uhpA
+uhpB
+uhpC
+ivbL-ilvBN-uhpABC {'ilvN': 'C', 'ivbL': 'A', 'uhpC': 'F', 'uhpB': 'E', 'uhpA': 'D', 'reference_string': 'ABCDEF', 'ilvB': 'B'} 19
+livKHMGF
+livK
+livH
+livM
+livG
+livF
+livKHMGF {'livG': 'D', 'livF': 'E', 'livM': 'C', 'livK': 'A', 'reference_string': 'ABCDE', 'livH': 'B'} 20
+lptAB-rpoN-hpf-ptsN-yhbJ-npr
+lptA
+lptB
+rpoN
+hpf
+ptsN
+yhbJ
+npr
+lptAB-rpoN-hpf-ptsN-yhbJ-npr {'reference_string': 'ABCDEFG', 'npr': 'G', 'ptsN': 'E', 'yhbJ': 'F', 'lptA': 'A', 'hpf': 'D', 'lptB': 'B', 'rpoN': 'C'} 21
+lptD-surA-pdxA-rsmA-apaGH
+lptD
+surA
+pdxA
+rsmA
+apaG
+apaH
+lptD-surA-pdxA-rsmA-apaGH {'rsmA': 'D', 'apaH': 'F', 'surA': 'B', 'lptD': 'A', 'pdxA': 'C', 'apaG': 'E', 'reference_string': 'ABCDEF'} 22
+lsrACDBFG-tam
+lsrA
+lsrC
+lsrD
+lsrB
+lsrF
+lsrG
+tam
+lsrACDBFG-tam {'lsrA': 'A', 'lsrC': 'B', 'lsrB': 'D', 'lsrD': 'C', 'lsrG': 'F', 'lsrF': 'E', 'tam': 'G', 'reference_string': 'ABCDEFG'} 23
+mdtABCD-baeSR
+mdtA
+mdtB
+mdtC
+mdtD
+baeS
+baeR
+mdtABCD-baeSR {'mdtC': 'C', 'mdtB': 'B', 'mdtA': 'A', 'baeR': 'F', 'mdtD': 'D', 'baeS': 'E', 'reference_string': 'ABCDEF'} 24
+metT-leuW-glnUW-metU-glnVX
+metT
+leuW
+glnU
+glnW
+metU
+glnV
+glnX
+metT-leuW-glnUW-metU-glnVX {'leuW': 'B', 'glnX': 'G', 'metT': 'A', 'metU': 'E', 'glnW': 'D', 'reference_string': 'ABCDEFG', 'glnU': 'C', 'glnV': 'F'} 25
+metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp
+metY
+rimP
+nusA
+infB
+rbfA
+truB
+rpsO
+pnp
+metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp {'truB': 'F', 'nusA': 'C', 'rimP': 'B', 'rbfA': 'E', 'rpsO': 'G', 'pnp': 'H', 'metY': 'A', 'reference_string': 'ABCDEFGH', 'infB': 'D'} 26
+nsrR-rnr-rlmB-yjfIJ
+nsrR
+rnr
+rlmB
+yjfI
+yjfJ
+nsrR-rnr-rlmB-yjfIJ {'yjfJ': 'E', 'yjfI': 'D', 'rnr': 'B', 'nsrR': 'A', 'reference_string': 'ABCDE', 'rlmB': 'C'} 27
+nuoABCEFGHIJKLMN
+nuoA
+nuoB
+nuoC
+nuoE
+nuoF
+nuoG
+nuoH
+nuoI
+nuoJ
+nuoK
+nuoL
+nuoM
+nuoN
+nuoABCEFGHIJKLMN {'nuoB': 'B', 'nuoC': 'C', 'nuoA': 'A', 'nuoF': 'E', 'nuoG': 'F', 'nuoE': 'D', 'nuoJ': 'I', 'nuoK': 'J', 'nuoH': 'G', 'nuoI': 'H', 'nuoN': 'M', 'reference_string': 'ABCDEFGHIJKLM', 'nuoL': 'K', 'nuoM': 'L'} 28
+paaABCDEFGHIJK
+paaA
+paaB
+paaC
+paaD
+paaE
+paaF
+paaG
+paaH
+paaI
+paaJ
+paaK
+paaABCDEFGHIJK {'paaB': 'B', 'paaC': 'C', 'paaA': 'A', 'paaF': 'F', 'paaG': 'G', 'paaD': 'D', 'paaE': 'E', 'paaJ': 'J', 'paaK': 'K', 'paaH': 'H', 'paaI': 'I', 'reference_string': 'ABCDEFGHIJK'} 29
+pspABCDE
+pspA
+pspB
+pspC
+pspD
+pspE
+pspABCDE {'pspE': 'E', 'pspD': 'D', 'pspC': 'C', 'reference_string': 'ABCDE', 'pspA': 'A', 'pspB': 'B'} 30
+pstSCAB-phoU
+pstS
+pstC
+pstA
+pstB
+phoU
+pstSCAB-phoU {'pstS': 'A', 'pstC': 'B', 'pstA': 'C', 'phoU': 'E', 'pstB': 'D', 'reference_string': 'ABCDE'} 31
+rbsDACBKR
+rbsD
+rbsA
+rbsC
+rbsB
+rbsK
+rbsR
+rbsDACBKR {'rbsK': 'E', 'rbsR': 'F', 'rbsA': 'B', 'rbsC': 'C', 'rbsB': 'D', 'reference_string': 'ABCDEF', 'rbsD': 'A'} 32
+rnc-era-recO-pdxJ-acpS
+rnc
+era
+recO
+pdxJ
+acpS
+rnc-era-recO-pdxJ-acpS {'pdxJ': 'D', 'recO': 'C', 'acpS': 'E', 'rnc': 'A', 'reference_string': 'ABCDE', 'era': 'B'} 33
+rplKAJL-rpoBC
+rplK
+rplA
+rplJ
+rplL
+rpoB
+rpoC
+rplKAJL-rpoBC {'rpoC': 'F', 'rpoB': 'E', 'rplL': 'D', 'rplJ': 'C', 'rplK': 'A', 'reference_string': 'ABCDEF', 'rplA': 'B'} 34
+rrsD-ileU-alaU-rrlD-rrfD-thrV-rrfF
+rrsD
+ileU
+alaU
+rrlD
+rrfD
+thrV
+rrfF
+rrsD-ileU-alaU-rrlD-rrfD-thrV-rrfF {'rrlD': 'D', 'ileU': 'B', 'alaU': 'C', 'thrV': 'F', 'rrfF': 'G', 'reference_string': 'ABCDEFG', 'rrfD': 'E', 'rrsD': 'A'} 35
+sdhCDAB-sucABCD
+sdhC
+sdhD
+sdhA
+sdhB
+sucA
+sucB
+sucC
+sucD
+sdhCDAB-sucABCD {'sucA': 'E', 'sucC': 'G', 'sucB': 'F', 'sucD': 'H', 'sdhA': 'C', 'sdhC': 'A', 'sdhB': 'D', 'reference_string': 'ABCDEFGH', 'sdhD': 'B'} 36
+srlAEBD-gutM-srlR-gutQ
+srlA
+srlE
+srlB
+srlD
+gutM
+srlR
+gutQ
+srlAEBD-gutM-srlR-gutQ {'srlB': 'C', 'srlA': 'A', 'gutM': 'E', 'srlE': 'B', 'srlD': 'D', 'gutQ': 'G', 'srlR': 'F', 'reference_string': 'ABCDEFG'} 37
+ssuEADCB
+ssuE
+ssuA
+ssuD
+ssuC
+ssuB
+ssuEADCB {'ssuE': 'A', 'ssuD': 'C', 'ssuA': 'B', 'ssuC': 'D', 'ssuB': 'E', 'reference_string': 'ABCDE'} 38
+tdcABCDEFG
+tdcA
+tdcB
+tdcC
+tdcD
+tdcE
+tdcF
+tdcG
+tdcABCDEFG {'tdcE': 'E', 'tdcD': 'D', 'tdcG': 'G', 'tdcF': 'F', 'tdcA': 'A', 'tdcC': 'C', 'tdcB': 'B', 'reference_string': 'ABCDEFG'} 39
+thrS-infC-rpmI-rplT-pheMST-ihfA
+thrS
+infC
+rpmI
+rplT
+pheM
+pheS
+pheT
+ihfA
+thrS-infC-rpmI-rplT-pheMST-ihfA {'rpmI': 'C', 'pheS': 'F', 'pheT': 'G', 'ihfA': 'H', 'rplT': 'D', 'infC': 'B', 'reference_string': 'ABCDEFGH', 'pheM': 'E', 'thrS': 'A'} 40
+trpLEDCBA
+trpL
+trpE
+trpD
+trpC
+trpB
+trpA
+trpLEDCBA {'trpL': 'A', 'trpB': 'E', 'trpC': 'D', 'trpA': 'F', 'reference_string': 'ABCDEF', 'trpD': 'C', 'trpE': 'B'} 41
+ulaABCDEF
+ulaA
+ulaB
+ulaC
+ulaD
+ulaE
+ulaF
+ulaABCDEF {'ulaD': 'D', 'ulaE': 'E', 'ulaF': 'F', 'ulaA': 'A', 'reference_string': 'ABCDEF', 'ulaB': 'B', 'ulaC': 'C'} 42
+waaQGP-rfaS-waaBIJY-rfaZ-waaK
+waaQ
+waaG
+waaP
+rfaS
+waaB
+waaI
+waaJ
+waaY
+rfaZ
+waaK
+waaQGP-rfaS-waaBIJY-rfaZ-waaK {'waaB': 'E', 'rfaS': 'D', 'waaK': 'J', 'waaJ': 'G', 'waaI': 'F', 'rfaZ': 'I', 'waaQ': 'A', 'waaP': 'C', 'waaG': 'B', 'waaY': 'H', 'reference_string': 'ABCDEFGHIJ'} 43
+ybgIJKL-nei
+ybgI
+ybgJ
+ybgK
+ybgL
+nei
+ybgIJKL-nei {'nei': 'E', 'ybgI': 'A', 'ybgJ': 'B', 'ybgK': 'C', 'ybgL': 'D', 'reference_string': 'ABCDE'} 44
+yceD-rpmF-plsX-fabHDG-acpP-fabF
+yceD
+rpmF
+plsX
+fabH
+fabD
+fabG
+acpP
+fabF
+yceD-rpmF-plsX-fabHDG-acpP-fabF {'fabD': 'E', 'fabG': 'F', 'fabF': 'H', 'acpP': 'G', 'reference_string': 'ABCDEFGH', 'yceD': 'A', 'plsX': 'C', 'fabH': 'D', 'rpmF': 'B'} 45
+ydgK-rsxABCDGE-nth
+ydgK
+rsxA
+rsxB
+rsxC
+rsxD
+rsxG
+rsxE
+nth
+ydgK-rsxABCDGE-nth {'rsxA': 'B', 'ydgK': 'A', 'rsxC': 'D', 'rsxB': 'C', 'rsxE': 'G', 'rsxD': 'E', 'rsxG': 'F', 'nth': 'H', 'reference_string': 'ABCDEFGH'} 46
+ydhYVWXUT
+ydhY
+ydhV
+ydhW
+ydhX
+ydhU
+ydhT
+ydhYVWXUT {'ydhY': 'A', 'ydhX': 'D', 'ydhT': 'F', 'ydhW': 'C', 'reference_string': 'ABCDEF', 'ydhU': 'E', 'ydhV': 'B'} 47
+yiaKLMNO-lyxK-sgbHUE
+yiaK
+yiaL
+yiaM
+yiaN
+yiaO
+lyxK
+sgbH
+sgbU
+sgbE
+yiaKLMNO-lyxK-sgbHUE {'lyxK': 'F', 'sgbH': 'G', 'sgbE': 'I', 'reference_string': 'ABCDEFGHI', 'sgbU': 'H', 'yiaK': 'A', 'yiaM': 'C', 'yiaL': 'B', 'yiaO': 'E', 'yiaN': 'D'} 48
+yjeFE-amiB-mutL-miaA-hfq-hflXKC
+yjeF
+yjeE
+amiB
+mutL
+miaA
+hfq
+hflX
+hflK
+hflC
+yjeFE-amiB-mutL-miaA-hfq-hflXKC {'miaA': 'E', 'hflC': 'I', 'hfq': 'F', 'hflK': 'H', 'mutL': 'D', 'amiB': 'C', 'yjeF': 'A', 'yjeE': 'B', 'reference_string': 'ABCDEFGHI', 'hflX': 'G'} 49
+./optimized_results_proteobacteria/hyfABCDEFGHIJR-focB.txt
+fixed_operon_line 0 hyfFBD hyfGGI hyfR hyfA hyfH h
+fixed_operon_line 7 hyfFBD hyfGGI hyfR hyfA hyfH h
+fixed_operon_line 14 hyfFBD hyfGGI hyfR hyfA hyfH h
+fixed_operon_line 19 hyfFBD hyfGGI hyfR hyfA hyfH h
+fixed_operon_line 24 hyfFBD hyfGGI hyfR hyfA hyfH h
+hyfFBD hyfGGI hyfR hyfA hyfH ['*', 'hyfF', 'hyfB', 'hyfD', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfR', '*', 'hyfA', '*', 'hyfH']
+fixed_operon_line 0 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+fixed_operon_line 6 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+fixed_operon_line 12 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+fixed_operon_line 19 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+fixed_operon_line 24 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+fixed_operon_line 29 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+hyfIG hyfCH hyfDDF hyfB hyfA hyfR ['*', 'hyfI', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfD', 'hyfD', 'hyfF', '*', 'hyfB', '*', 'hyfA', '*', 'hyfR']
+fixed_operon_line 0 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 7 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 18 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 23 hyfFDD hyfJIHGCBA hyfR focB f
+hyfFDD hyfJIHGCBA hyfR focB ['*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfJ', 'hyfI', 'hyfH', 'hyfG', 'hyfC', 'hyfB', 'hyfA', '*', 'hyfR', '*', 'focB']
+fixed_operon_line 0 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+fixed_operon_line 7 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+fixed_operon_line 13 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+fixed_operon_line 20 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+fixed_operon_line 25 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+fixed_operon_line 30 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+hyfIGG hyfCH hyfFBF hyfR hyfA hyfD ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfF', 'hyfB', 'hyfF', '*', 'hyfR', '*', 'hyfA', '*', 'hyfD']
+fixed_operon_line 0 hyfBDF hyfR hyfI hyfH hyfG h
+fixed_operon_line 7 hyfBDF hyfR hyfI hyfH hyfG h
+fixed_operon_line 12 hyfBDF hyfR hyfI hyfH hyfG h
+fixed_operon_line 17 hyfBDF hyfR hyfI hyfH hyfG h
+fixed_operon_line 22 hyfBDF hyfR hyfI hyfH hyfG h
+hyfBDF hyfR hyfI hyfH hyfG ['*', 'hyfB', 'hyfD', 'hyfF', '*', 'hyfR', '*', 'hyfI', '*', 'hyfH', '*', 'hyfG']
+fixed_operon_line 0 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+fixed_operon_line 6 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+fixed_operon_line 12 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+fixed_operon_line 19 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+fixed_operon_line 24 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+fixed_operon_line 29 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+hyfIG hyfCH hyfDDB hyfR hyfA hyfF ['*', 'hyfI', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfD', 'hyfD', 'hyfB', '*', 'hyfR', '*', 'hyfA', '*', 'hyfF']
+fixed_operon_line 0 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+fixed_operon_line 7 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+fixed_operon_line 14 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+fixed_operon_line 19 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR f
+fixed_operon_line 24 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+fixed_operon_line 29 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+fixed_operon_line 34 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfD', 'hyfD', 'hyfF', '*', 'hyfB', '*', 'focB', '*', 'hyfH', '*', 'hyfA', '*', 'hyfR']
+fixed_operon_line 0 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 7 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 13 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 18 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 23 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 28 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 33 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR ['*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfB', '*', 'hyfA', '*', 'hyfG', '*', 'hyfI', '*', 'hyfR']
+fixed_operon_line 0 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 7 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 13 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 20 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 25 hyfFBD hyfHC hyfGGI hyfR hyfA h
+hyfFBD hyfHC hyfGGI hyfR hyfA ['*', 'hyfF', 'hyfB', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfR', '*', 'hyfA']
+fixed_operon_line 0 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 7 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 13 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 20 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 25 hyfFBD hyfHC hyfGGI hyfR hyfA h
+hyfFBD hyfHC hyfGGI hyfR hyfA ['*', 'hyfF', 'hyfB', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfR', '*', 'hyfA']
+fixed_operon_line 0 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 7 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 18 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 23 hyfFDD hyfJIHGCBA hyfR focB f
+hyfFDD hyfJIHGCBA hyfR focB ['*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfJ', 'hyfI', 'hyfH', 'hyfG', 'hyfC', 'hyfB', 'hyfA', '*', 'hyfR', '*', 'focB']
+fixed_operon_line 0 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+fixed_operon_line 7 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+fixed_operon_line 13 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+fixed_operon_line 18 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+fixed_operon_line 23 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+fixed_operon_line 28 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+hyfIGG hyfDB hyfR hyfA hyfH hyfF ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfD', 'hyfB', '*', 'hyfR', '*', 'hyfA', '*', 'hyfH', '*', 'hyfF']
+fixed_operon_line 0 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+fixed_operon_line 7 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+fixed_operon_line 12 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+fixed_operon_line 17 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+fixed_operon_line 22 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+fixed_operon_line 27 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+hyfFDB hyfC hyfR hyfA hyfG hyfI ['*', 'hyfF', 'hyfD', 'hyfB', '*', 'hyfC', '*', 'hyfR', '*', 'hyfA', '*', 'hyfG', '*', 'hyfI']
+fixed_operon_line 0 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+fixed_operon_line 7 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+fixed_operon_line 13 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+fixed_operon_line 19 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+fixed_operon_line 24 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR f
+fixed_operon_line 29 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+fixed_operon_line 34 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR ['*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfI', '*', 'hyfB', '*', 'focB', '*', 'hyfA', '*', 'hyfR']
+fixed_operon_line 0 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+fixed_operon_line 7 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+fixed_operon_line 14 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+fixed_operon_line 20 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+fixed_operon_line 25 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA f
+fixed_operon_line 30 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+fixed_operon_line 35 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA ['*', 'hyfF', 'hyfD', 'hyfF', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfB', 'hyfC', '*', 'hyfR', '*', 'focB', '*', 'hyfH', '*', 'hyfA']
+fixed_operon_line 0 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 6 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 13 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 19 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 26 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 31 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA ['*', 'hyfB', 'hyfD', '*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfR', '*', 'hyfA']
+fixed_operon_line 0 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+fixed_operon_line 7 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+fixed_operon_line 13 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+fixed_operon_line 20 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+fixed_operon_line 26 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+fixed_operon_line 31 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfD', 'hyfD', 'hyfF', '*', 'hyfD', 'hyfB', '*', 'hyfR', '*', 'hyfA']
+fixed_operon_line 0 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+fixed_operon_line 7 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+fixed_operon_line 12 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+fixed_operon_line 17 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+fixed_operon_line 22 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+fixed_operon_line 27 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+hyfBDF hyfC hyfR hyfI hyfG hyfA ['*', 'hyfB', 'hyfD', 'hyfF', '*', 'hyfC', '*', 'hyfR', '*', 'hyfI', '*', 'hyfG', '*', 'hyfA']
+fixed_operon_line 0 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+fixed_operon_line 6 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI  
+fixed_operon_line 13 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+fixed_operon_line 20 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+fixed_operon_line 26 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+fixed_operon_line 31 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+fixed_operon_line 36 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI ['*', 'hyfR', 'hyfR', '*', ' hyf', ' hyB', ' hyD', '*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfA', '*', 'hyfG', '*', 'hyfI']
+fixed_operon_line 0 hyfIG hyfCH hyfDFF hyfB h
+fixed_operon_line 6 hyfIG hyfCH hyfDFF hyfB h
+fixed_operon_line 12 hyfIG hyfCH hyfDFF hyfB h
+fixed_operon_line 19 hyfIG hyfCH hyfDFF hyfB h
+hyfIG hyfCH hyfDFF hyfB ['*', 'hyfI', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfD', 'hyfF', 'hyfF', '*', 'hyfB']
+fixed_operon_line 0 hyfFFD hyfHC hyfGI hyfB h
+fixed_operon_line 7 hyfFFD hyfHC hyfGI hyfB h
+fixed_operon_line 13 hyfFFD hyfHC hyfGI hyfB h
+fixed_operon_line 19 hyfFFD hyfHC hyfGI hyfB h
+hyfFFD hyfHC hyfGI hyfB ['*', 'hyfF', 'hyfF', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfI', '*', 'hyfB']
+fixed_operon_line 0 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 6 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 11 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 16 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 21 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 26 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 31 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+hyfDB hyfI hyfC hyfR hyfA hyfG hyfF ['*', 'hyfD', 'hyfB', '*', 'hyfI', '*', 'hyfC', '*', 'hyfR', '*', 'hyfA', '*', 'hyfG', '*', 'hyfF']
+fixed_operon_line 0 hyfABCDEFGHIJR-focB h
+fixed_operon_line 15 hyfABCDEFGHIJR-focB f
+hyfABCDEFGHIJR-focB ['*', 'hyfA', 'hyfB', 'hyfC', 'hyfD', 'hyfE', 'hyfF', 'hyfG', 'hyfH', 'hyfI', 'hyfJ', 'hyfR', '*', 'focB']
+fixed_operon_line 0 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 7 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 13 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 18 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 23 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 28 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA f
+fixed_operon_line 33 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 38 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA ['*', 'hyfF', 'hyfD', 'hyfF', '*', 'hyfD', 'hyfB', '*', 'hyfI', '*', 'hyfH', '*', 'hyfR', '*', 'focB', '*', 'hyfG', '*', 'hyfA']
+fixed_operon_line 0 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+fixed_operon_line 6 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+fixed_operon_line 13 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+fixed_operon_line 19 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+fixed_operon_line 25 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+fixed_operon_line 30 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR f
+fixed_operon_line 35 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR ['*', 'hyfA', 'hyfA', '*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfI', '*', 'hyfB', '*', 'focB', '*', 'hyfR']
+fixed_operon_line 0 hyfRR hyfIG hyfCH hyfDBF h
+fixed_operon_line 6 hyfRR hyfIG hyfCH hyfDBF h
+fixed_operon_line 12 hyfRR hyfIG hyfCH hyfDBF h
+fixed_operon_line 18 hyfRR hyfIG hyfCH hyfDBF h
+hyfRR hyfIG hyfCH hyfDBF ['*', 'hyfR', 'hyfR', '*', 'hyfI', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfD', 'hyfB', 'hyfF']
+fixed_operon_line 0 hyfDBD hyfHC hyfGGI hyfR hyfF h
+fixed_operon_line 7 hyfDBD hyfHC hyfGGI hyfR hyfF h
+fixed_operon_line 13 hyfDBD hyfHC hyfGGI hyfR hyfF h
+fixed_operon_line 20 hyfDBD hyfHC hyfGGI hyfR hyfF h
+fixed_operon_line 25 hyfDBD hyfHC hyfGGI hyfR hyfF h
+hyfDBD hyfHC hyfGGI hyfR hyfF ['*', 'hyfD', 'hyfB', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfR', '*', 'hyfF']
+fixed_operon_line 0 hyfIGG hyfDBF hyfR hyfH h
+fixed_operon_line 7 hyfIGG hyfDBF hyfR hyfH h
+fixed_operon_line 14 hyfIGG hyfDBF hyfR hyfH h
+fixed_operon_line 19 hyfIGG hyfDBF hyfR hyfH h
+hyfIGG hyfDBF hyfR hyfH ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfD', 'hyfB', 'hyfF', '*', 'hyfR', '*', 'hyfH']
+fixed_operon_line 0 hyfDBF hyfIHGFECBA hyfR h
+fixed_operon_line 7 hyfDBF hyfIHGFECBA hyfR h
+fixed_operon_line 19 hyfDBF hyfIHGFECBA hyfR h
+hyfDBF hyfIHGFECBA hyfR ['*', 'hyfD', 'hyfB', 'hyfF', '*', 'hyfI', 'hyfH', 'hyfG', 'hyfF', 'hyfE', 'hyfC', 'hyfB', 'hyfA', '*', 'hyfR']
+fixed_operon_line 0 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 7 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 13 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 20 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 25 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 30 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 35 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfB', 'hyfB', 'hyfB', '*', 'hyfR', '*', 'hyfA', '*', 'hyfF', '*', 'hyfD']
+fixed_operon_line 0 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR h
+fixed_operon_line 8 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR h
+fixed_operon_line 15 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR h
+fixed_operon_line 23 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR h
+fixed_operon_line 28 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR f
+fixed_operon_line 33 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR h
+hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR ['*', 'hyfC', 'hyfD', 'hyfE', 'hyfF', '*', 'hyfH', 'hyfI', 'hyfI', '*', 'hyfG', 'hyfC', 'hyfB', 'hyfA', '*', 'hyfJ', '*', 'focB', '*', 'hyfR']
+./optimized_results_proteobacteria/nuoABCEFGHIJKLMN.txt
+fixed_operon_line 0 nuoNMLJIHG nuoFECCBA n
+fixed_operon_line 11 nuoNMLJIHG nuoFECCBA n
+nuoNMLJIHG nuoFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', '*', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCEFGHIJKLMN n
+nuoABCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCCEFGHI nuoKLMN n
+fixed_operon_line 13 nuoABCCEFGHI nuoKLMN n
+nuoABCCEFGHI nuoKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', '*', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoABCCEF nuoGHI nuoLMN nuoK n
+fixed_operon_line 10 nuoABCCEF nuoGHI nuoLMN nuoK n
+fixed_operon_line 17 nuoABCCEF nuoGHI nuoLMN nuoK n
+fixed_operon_line 24 nuoABCCEF nuoGHI nuoLMN nuoK n
+nuoABCCEF nuoGHI nuoLMN nuoK ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', '*', 'nuoG', 'nuoH', 'nuoI', '*', 'nuoL', 'nuoM', 'nuoN', '*', 'nuoK']
+fixed_operon_line 0 nuoABCEFGHIJKLMN n
+nuoABCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoABCCEFGHIJKLMN n
+nuoABCCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLKJIHGFECCBA n
+nuoNMLKJIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLKJIHG nuoCCB n
+fixed_operon_line 12 nuoNMLKJIHG nuoCCB n
+nuoNMLKJIHG nuoCCB ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', '*', 'nuoC', 'nuoC', 'nuoB']
+fixed_operon_line 0 nuoNMLK nuoIHGFECCBA n
+fixed_operon_line 8 nuoNMLK nuoIHGFECCBA n
+nuoNMLK nuoIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', '*', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLJIHG nuoCCBA n
+fixed_operon_line 11 nuoNMLJIHG nuoCCBA n
+nuoNMLJIHG nuoCCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', '*', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCCEF nuoGHI nuoLMN n
+fixed_operon_line 10 nuoABCCEF nuoGHI nuoLMN n
+fixed_operon_line 17 nuoABCCEF nuoGHI nuoLMN n
+nuoABCCEF nuoGHI nuoLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', '*', 'nuoG', 'nuoH', 'nuoI', '*', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLKJIHGFE nuoCBA n
+fixed_operon_line 14 nuoNMLKJIHGFE nuoCBA n
+nuoNMLKJIHGFE nuoCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', '*', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLJIHGFE nuoCCBA n
+fixed_operon_line 13 nuoNMLJIHGFE nuoCCBA n
+nuoNMLJIHGFE nuoCCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', '*', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCCEFGHIJKLMN n
+nuoABCCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoABCCEFGHI nuoLMN n
+fixed_operon_line 13 nuoABCCEFGHI nuoLMN n
+nuoABCCEFGHI nuoLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', '*', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLK nuoIHGFECCBA n
+fixed_operon_line 8 nuoNMLK nuoIHGFECCBA n
+nuoNMLK nuoIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', '*', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCEFGHIJKLMN n
+nuoABCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCCEFGHIJLMN n
+nuoABCCEFGHIJLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLKJIHGFECCBA n
+nuoNMLKJIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCEFGHIJKLMN n
+nuoABCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLK nuoIHGFECCBA n
+fixed_operon_line 8 nuoNMLK nuoIHGFECCBA n
+nuoNMLK nuoIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', '*', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCCEFGHIJLMN n
+nuoABCCEFGHIJLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoABCC nuoGG nuoHIJKLMN n
+fixed_operon_line 8 nuoABCC nuoGG nuoHIJKLMN n
+fixed_operon_line 14 nuoABCC nuoGG nuoHIJKLMN n
+nuoABCC nuoGG nuoHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', '*', 'nuoG', 'nuoG', '*', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoABCCEFGHI nuoKLMN n
+fixed_operon_line 13 nuoABCCEFGHI nuoKLMN n
+nuoABCCEFGHI nuoKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', '*', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNML nuoIHGFECCBA n
+fixed_operon_line 7 nuoNML nuoIHGFECCBA n
+nuoNML nuoIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', '*', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+./optimized_results_proteobacteria/srlAEBD-gutM-srlR-gutQ.txt
+fixed_operon_line 0 srlBEA srlRD  gutQ s
+fixed_operon_line 7 srlBEA srlRD  gutQ s
+fixed_operon_line 13 srlBEA srlRD  gutQ  
+srlBEA srlRD  gutQ ['*', 'srlB', 'srlE', 'srlA', '*', 'srlR', 'srlD', '*', ' gut', ' guQ']
+fixed_operon_line 0 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 8 srlAEBD-gutM-srlR-gutQ g
+fixed_operon_line 13 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 18 srlAEBD-gutM-srlR-gutQ g
+srlAEBD-gutM-srlR-gutQ ['*', 'srlA', 'srlE', 'srlB', 'srlD', '*', 'gutM', '*', 'srlR', '*', 'gutQ']
+fixed_operon_line 0 srlDD gutQ srlR s
+fixed_operon_line 6 srlDD gutQ srlR g
+fixed_operon_line 11 srlDD gutQ srlR s
+srlDD gutQ srlR ['*', 'srlD', 'srlD', '*', 'gutQ', '*', 'srlR']
+fixed_operon_line 0 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 8 srlAEBD-gutM-srlR-gutQ g
+fixed_operon_line 13 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 18 srlAEBD-gutM-srlR-gutQ g
+srlAEBD-gutM-srlR-gutQ ['*', 'srlA', 'srlE', 'srlB', 'srlD', '*', 'gutM', '*', 'srlR', '*', 'gutQ']
+fixed_operon_line 0 srlDR  gutQ s
+fixed_operon_line 6 srlDR  gutQ  
+srlDR  gutQ ['*', 'srlD', 'srlR', '*', ' gut', ' guQ']
+fixed_operon_line 0 srlDD  gutQ srlR s
+fixed_operon_line 6 srlDD  gutQ srlR  
+fixed_operon_line 12 srlDD  gutQ srlR s
+srlDD  gutQ srlR ['*', 'srlD', 'srlD', '*', ' gut', ' guQ', '*', 'srlR']
+fixed_operon_line 0 srlDD gutQ srlR s
+fixed_operon_line 6 srlDD gutQ srlR g
+fixed_operon_line 11 srlDD gutQ srlR s
+srlDD gutQ srlR ['*', 'srlD', 'srlD', '*', 'gutQ', '*', 'srlR']
+fixed_operon_line 0 srlDD gutQ srlR s
+fixed_operon_line 6 srlDD gutQ srlR g
+fixed_operon_line 11 srlDD gutQ srlR s
+srlDD gutQ srlR ['*', 'srlD', 'srlD', '*', 'gutQ', '*', 'srlR']
+fixed_operon_line 0 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 8 srlAEBD-gutM-srlR-gutQ g
+fixed_operon_line 13 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 18 srlAEBD-gutM-srlR-gutQ g
+srlAEBD-gutM-srlR-gutQ ['*', 'srlA', 'srlE', 'srlB', 'srlD', '*', 'gutM', '*', 'srlR', '*', 'gutQ']
+fixed_operon_line 0 gutM-srlDBEA gutQ srlR g
+fixed_operon_line 5 gutM-srlDBEA gutQ srlR s
+fixed_operon_line 13 gutM-srlDBEA gutQ srlR g
+fixed_operon_line 18 gutM-srlDBEA gutQ srlR s
+gutM-srlDBEA gutQ srlR ['*', 'gutM', '*', 'srlD', 'srlB', 'srlE', 'srlA', '*', 'gutQ', '*', 'srlR']
+fixed_operon_line 0 srlRD gutQ s
+fixed_operon_line 6 srlRD gutQ g
+srlRD gutQ ['*', 'srlR', 'srlD', '*', 'gutQ']
+fixed_operon_line 0 srlEBD-gutM-srlR-gutQ s
+fixed_operon_line 7 srlEBD-gutM-srlR-gutQ g
+fixed_operon_line 12 srlEBD-gutM-srlR-gutQ s
+fixed_operon_line 17 srlEBD-gutM-srlR-gutQ g
+srlEBD-gutM-srlR-gutQ ['*', 'srlE', 'srlB', 'srlD', '*', 'gutM', '*', 'srlR', '*', 'gutQ']
+./optimized_results_proteobacteria/rplKAJL-rpoBC.txt
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoC-rplLJAK rpoB r
+fixed_operon_line 5 rpoC-rplLJAK rpoB r
+fixed_operon_line 13 rpoC-rplLJAK rpoB r
+rpoC-rplLJAK rpoB ['*', 'rpoC', '*', 'rplL', 'rplJ', 'rplA', 'rplK', '*', 'rpoB']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rplKA rplJL-rpoBC r
+fixed_operon_line 6 rplKA rplJL-rpoBC r
+fixed_operon_line 12 rplKA rplJL-rpoBC r
+rplKA rplJL-rpoBC ['*', 'rplK', 'rplA', '*', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJ rplAK r
+fixed_operon_line 6 rpoCB-rplLJ rplAK r
+fixed_operon_line 12 rpoCB-rplLJ rplAK r
+rpoCB-rplLJ rplAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', '*', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJ rplAK r
+fixed_operon_line 6 rpoCB-rplLJ rplAK r
+fixed_operon_line 12 rpoCB-rplLJ rplAK r
+rpoCB-rplLJ rplAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', '*', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJ rplAK r
+fixed_operon_line 6 rpoCB-rplLJ rplAK r
+fixed_operon_line 12 rpoCB-rplLJ rplAK r
+rpoCB-rplLJ rplAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', '*', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJ rplAK r
+fixed_operon_line 6 rpoCB-rplLJ rplAK r
+fixed_operon_line 12 rpoCB-rplLJ rplAK r
+rpoCB-rplLJ rplAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', '*', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rplJL rpoBC rplAK r
+fixed_operon_line 6 rplJL rpoBC rplAK r
+fixed_operon_line 12 rplJL rpoBC rplAK r
+rplJL rpoBC rplAK ['*', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC', '*', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKA rplL-rpoC rpoB r
+fixed_operon_line 6 rplKA rplL-rpoC rpoB r
+fixed_operon_line 11 rplKA rplL-rpoC rpoB r
+fixed_operon_line 16 rplKA rplL-rpoC rpoB r
+rplKA rplL-rpoC rpoB ['*', 'rplK', 'rplA', '*', 'rplL', '*', 'rpoC', '*', 'rpoB']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplAK rplJL r
+fixed_operon_line 6 rpoCB-rplAK rplJL r
+fixed_operon_line 12 rpoCB-rplAK rplJL r
+rpoCB-rplAK rplJL ['*', 'rpoC', 'rpoB', '*', 'rplA', 'rplK', '*', 'rplJ', 'rplL']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+./optimized_results_proteobacteria/yiaKLMNO-lyxK-sgbHUE.txt
+fixed_operon_line 0 yiaOMN sgbE lyxK yiaK y
+fixed_operon_line 7 yiaOMN sgbE lyxK yiaK s
+fixed_operon_line 12 yiaOMN sgbE lyxK yiaK l
+fixed_operon_line 17 yiaOMN sgbE lyxK yiaK y
+yiaOMN sgbE lyxK yiaK ['*', 'yiaO', 'yiaM', 'yiaN', '*', 'sgbE', '*', 'lyxK', '*', 'yiaK']
+fixed_operon_line 0 yiaLK yiaMNO-lyxK-sgbHUE y
+fixed_operon_line 6 yiaLK yiaMNO-lyxK-sgbHUE y
+fixed_operon_line 13 yiaLK yiaMNO-lyxK-sgbHUE l
+fixed_operon_line 18 yiaLK yiaMNO-lyxK-sgbHUE s
+yiaLK yiaMNO-lyxK-sgbHUE ['*', 'yiaL', 'yiaK', '*', 'yiaM', 'yiaN', 'yiaO', '*', 'lyxK', '*', 'sgbH', 'sgbU', 'sgbE']
+fixed_operon_line 0 yiaNO lyxK y
+fixed_operon_line 6 yiaNO lyxK l
+yiaNO lyxK ['*', 'yiaN', 'yiaO', '*', 'lyxK']
+fixed_operon_line 0 yiaNMO lyxK yiaK y
+fixed_operon_line 7 yiaNMO lyxK yiaK l
+fixed_operon_line 12 yiaNMO lyxK yiaK y
+yiaNMO lyxK yiaK ['*', 'yiaN', 'yiaM', 'yiaO', '*', 'lyxK', '*', 'yiaK']
+fixed_operon_line 0 yiaNMO lyxK y
+fixed_operon_line 7 yiaNMO lyxK l
+yiaNMO lyxK ['*', 'yiaN', 'yiaM', 'yiaO', '*', 'lyxK']
+fixed_operon_line 0 yiaOMN yiaL y
+fixed_operon_line 7 yiaOMN yiaL y
+yiaOMN yiaL ['*', 'yiaO', 'yiaM', 'yiaN', '*', 'yiaL']
+fixed_operon_line 0 yiaNMO lyxK yiaL y
+fixed_operon_line 7 yiaNMO lyxK yiaL l
+fixed_operon_line 12 yiaNMO lyxK yiaL y
+yiaNMO lyxK yiaL ['*', 'yiaN', 'yiaM', 'yiaO', '*', 'lyxK', '*', 'yiaL']
+fixed_operon_line 0 yiaOMN y
+yiaOMN ['*', 'yiaO', 'yiaM', 'yiaN']
+fixed_operon_line 0 yiaNM sgbE-yiaO lyxK yiaK y
+fixed_operon_line 6 yiaNM sgbE-yiaO lyxK yiaK s
+fixed_operon_line 11 yiaNM sgbE-yiaO lyxK yiaK y
+fixed_operon_line 16 yiaNM sgbE-yiaO lyxK yiaK l
+fixed_operon_line 21 yiaNM sgbE-yiaO lyxK yiaK y
+yiaNM sgbE-yiaO lyxK yiaK ['*', 'yiaN', 'yiaM', '*', 'sgbE', '*', 'yiaO', '*', 'lyxK', '*', 'yiaK']
+fixed_operon_line 0 sgbEUH-lyxK yiaNM yiaLK s
+fixed_operon_line 7 sgbEUH-lyxK yiaNM yiaLK l
+fixed_operon_line 12 sgbEUH-lyxK yiaNM yiaLK y
+fixed_operon_line 18 sgbEUH-lyxK yiaNM yiaLK y
+sgbEUH-lyxK yiaNM yiaLK ['*', 'sgbE', 'sgbU', 'sgbH', '*', 'lyxK', '*', 'yiaN', 'yiaM', '*', 'yiaL', 'yiaK']
+fixed_operon_line 0 yiaON lyxKK sgbE yiaK yiaM y
+fixed_operon_line 6 yiaON lyxKK sgbE yiaK yiaM l
+fixed_operon_line 12 yiaON lyxKK sgbE yiaK yiaM s
+fixed_operon_line 17 yiaON lyxKK sgbE yiaK yiaM y
+fixed_operon_line 22 yiaON lyxKK sgbE yiaK yiaM y
+yiaON lyxKK sgbE yiaK yiaM ['*', 'yiaO', 'yiaN', '*', 'lyxK', 'lyxK', '*', 'sgbE', '*', 'yiaK', '*', 'yiaM']
+fixed_operon_line 0 yiaOMN lyxK y
+fixed_operon_line 7 yiaOMN lyxK l
+yiaOMN lyxK ['*', 'yiaO', 'yiaM', 'yiaN', '*', 'lyxK']
+fixed_operon_line 0 yiaONM sgbE lyxK sgbH yiaK sgbU y
+fixed_operon_line 7 yiaONM sgbE lyxK sgbH yiaK sgbU s
+fixed_operon_line 12 yiaONM sgbE lyxK sgbH yiaK sgbU l
+fixed_operon_line 17 yiaONM sgbE lyxK sgbH yiaK sgbU s
+fixed_operon_line 22 yiaONM sgbE lyxK sgbH yiaK sgbU y
+fixed_operon_line 27 yiaONM sgbE lyxK sgbH yiaK sgbU s
+yiaONM sgbE lyxK sgbH yiaK sgbU ['*', 'yiaO', 'yiaN', 'yiaM', '*', 'sgbE', '*', 'lyxK', '*', 'sgbH', '*', 'yiaK', '*', 'sgbU']
+fixed_operon_line 0 yiaO-sgbE yiaMNO lyxK yiaK y
+fixed_operon_line 5 yiaO-sgbE yiaMNO lyxK yiaK s
+fixed_operon_line 10 yiaO-sgbE yiaMNO lyxK yiaK y
+fixed_operon_line 17 yiaO-sgbE yiaMNO lyxK yiaK l
+fixed_operon_line 22 yiaO-sgbE yiaMNO lyxK yiaK y
+yiaO-sgbE yiaMNO lyxK yiaK ['*', 'yiaO', '*', 'sgbE', '*', 'yiaM', 'yiaN', 'yiaO', '*', 'lyxK', '*', 'yiaK']
+fixed_operon_line 0 yiaOMN yiaO-sgbE yiaK lyxK y
+fixed_operon_line 7 yiaOMN yiaO-sgbE yiaK lyxK y
+fixed_operon_line 12 yiaOMN yiaO-sgbE yiaK lyxK s
+fixed_operon_line 17 yiaOMN yiaO-sgbE yiaK lyxK y
+fixed_operon_line 22 yiaOMN yiaO-sgbE yiaK lyxK l
+yiaOMN yiaO-sgbE yiaK lyxK ['*', 'yiaO', 'yiaM', 'yiaN', '*', 'yiaO', '*', 'sgbE', '*', 'yiaK', '*', 'lyxK']
+fixed_operon_line 0 yiaKLMNO-lyxK-sgbHUE y
+fixed_operon_line 9 yiaKLMNO-lyxK-sgbHUE l
+fixed_operon_line 14 yiaKLMNO-lyxK-sgbHUE s
+yiaKLMNO-lyxK-sgbHUE ['*', 'yiaK', 'yiaL', 'yiaM', 'yiaN', 'yiaO', '*', 'lyxK', '*', 'sgbH', 'sgbU', 'sgbE']
+fixed_operon_line 0 sgbU-lyxK sgbE yiaL yiaO yiaN s
+fixed_operon_line 5 sgbU-lyxK sgbE yiaL yiaO yiaN l
+fixed_operon_line 10 sgbU-lyxK sgbE yiaL yiaO yiaN s
+fixed_operon_line 15 sgbU-lyxK sgbE yiaL yiaO yiaN y
+fixed_operon_line 20 sgbU-lyxK sgbE yiaL yiaO yiaN y
+fixed_operon_line 25 sgbU-lyxK sgbE yiaL yiaO yiaN y
+sgbU-lyxK sgbE yiaL yiaO yiaN ['*', 'sgbU', '*', 'lyxK', '*', 'sgbE', '*', 'yiaL', '*', 'yiaO', '*', 'yiaN']
+fixed_operon_line 0 sgbEUH-lyxK yiaONMLK s
+fixed_operon_line 7 sgbEUH-lyxK yiaONMLK l
+fixed_operon_line 12 sgbEUH-lyxK yiaONMLK y
+sgbEUH-lyxK yiaONMLK ['*', 'sgbE', 'sgbU', 'sgbH', '*', 'lyxK', '*', 'yiaO', 'yiaN', 'yiaM', 'yiaL', 'yiaK']
+fixed_operon_line 0 yiaON sgbU lyxK y
+fixed_operon_line 6 yiaON sgbU lyxK s
+fixed_operon_line 11 yiaON sgbU lyxK l
+yiaON sgbU lyxK ['*', 'yiaO', 'yiaN', '*', 'sgbU', '*', 'lyxK']
+fixed_operon_line 0 yiaMNO lyxK yiaK y
+fixed_operon_line 7 yiaMNO lyxK yiaK l
+fixed_operon_line 12 yiaMNO lyxK yiaK y
+yiaMNO lyxK yiaK ['*', 'yiaM', 'yiaN', 'yiaO', '*', 'lyxK', '*', 'yiaK']
+fixed_operon_line 0 yiaOMN yiaL y
+fixed_operon_line 7 yiaOMN yiaL y
+yiaOMN yiaL ['*', 'yiaO', 'yiaM', 'yiaN', '*', 'yiaL']
+fixed_operon_line 0 yiaNO lyxK y
+fixed_operon_line 6 yiaNO lyxK l
+yiaNO lyxK ['*', 'yiaN', 'yiaO', '*', 'lyxK']
+fixed_operon_line 0 sgbHEU-lyxK-yiaONMK yiaL s
+fixed_operon_line 7 sgbHEU-lyxK-yiaONMK yiaL l
+fixed_operon_line 12 sgbHEU-lyxK-yiaONMK yiaL y
+fixed_operon_line 20 sgbHEU-lyxK-yiaONMK yiaL y
+sgbHEU-lyxK-yiaONMK yiaL ['*', 'sgbH', 'sgbE', 'sgbU', '*', 'lyxK', '*', 'yiaO', 'yiaN', 'yiaM', 'yiaK', '*', 'yiaL']
+fixed_operon_line 0 yiaOOM sgbHUE lyxK yiaN yiaK yiaL y
+fixed_operon_line 7 yiaOOM sgbHUE lyxK yiaN yiaK yiaL s
+fixed_operon_line 14 yiaOOM sgbHUE lyxK yiaN yiaK yiaL l
+fixed_operon_line 19 yiaOOM sgbHUE lyxK yiaN yiaK yiaL y
+fixed_operon_line 24 yiaOOM sgbHUE lyxK yiaN yiaK yiaL y
+fixed_operon_line 29 yiaOOM sgbHUE lyxK yiaN yiaK yiaL y
+yiaOOM sgbHUE lyxK yiaN yiaK yiaL ['*', 'yiaO', 'yiaO', 'yiaM', '*', 'sgbH', 'sgbU', 'sgbE', '*', 'lyxK', '*', 'yiaN', '*', 'yiaK', '*', 'yiaL']
+./optimized_results_proteobacteria/atpIBEFHAGDC.txt
+fixed_operon_line 0 atpCDGA atpB a
+fixed_operon_line 8 atpCDGA atpB a
+atpCDGA atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', '*', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEBI a
+atpCDGAHFEBI ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB', 'atpI']
+fixed_operon_line 0 atpCDGAH atpB a
+fixed_operon_line 9 atpCDGAH atpB a
+atpCDGAH atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', '*', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpIBEFHAGDC a
+atpIBEFHAGDC ['*', 'atpI', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpAGDC atpB a
+fixed_operon_line 8 atpAGDC atpB a
+atpAGDC atpB ['*', 'atpA', 'atpG', 'atpD', 'atpC', '*', 'atpB']
+fixed_operon_line 0 atpAGDC atpB a
+fixed_operon_line 8 atpAGDC atpB a
+atpAGDC atpB ['*', 'atpA', 'atpG', 'atpD', 'atpC', '*', 'atpB']
+fixed_operon_line 0 atpIBEFHAGDC a
+atpIBEFHAGDC ['*', 'atpI', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGA atpB a
+fixed_operon_line 8 atpCDGA atpB a
+atpCDGA atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', '*', 'atpB']
+fixed_operon_line 0 atpCDGAHFEBI a
+atpCDGAHFEBI ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB', 'atpI']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEBI a
+atpCDGAHFEBI ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB', 'atpI']
+fixed_operon_line 0 atpCDGAH atpB a
+fixed_operon_line 9 atpCDGAH atpB a
+atpCDGAH atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', '*', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEBI a
+atpCDGAHFEBI ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB', 'atpI']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGAHFEBI a
+atpCDGAHFEBI ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB', 'atpI']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAH atpB a
+fixed_operon_line 9 atpCDGAH atpB a
+atpCDGAH atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', '*', 'atpB']
+fixed_operon_line 0 atpCDGA atpB a
+fixed_operon_line 8 atpCDGA atpB a
+atpCDGA atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', '*', 'atpB']
+fixed_operon_line 0 atpAGDC atpB a
+fixed_operon_line 8 atpAGDC atpB a
+atpAGDC atpB ['*', 'atpA', 'atpG', 'atpD', 'atpC', '*', 'atpB']
+fixed_operon_line 0 atpCDGAH atpB a
+fixed_operon_line 9 atpCDGAH atpB a
+atpCDGAH atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', '*', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpIBEFHAGDC a
+atpIBEFHAGDC ['*', 'atpI', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+./optimized_results_proteobacteria/trpLEDCBA.txt
+fixed_operon_line 0 trpDC trpCBA trpE t
+fixed_operon_line 6 trpDC trpCBA trpE t
+fixed_operon_line 13 trpDC trpCBA trpE t
+trpDC trpCBA trpE ['*', 'trpD', 'trpC', '*', 'trpC', 'trpB', 'trpA', '*', 'trpE']
+fixed_operon_line 0 trpAB trpDDC trpED t
+fixed_operon_line 6 trpAB trpDDC trpED t
+fixed_operon_line 13 trpAB trpDDC trpED t
+trpAB trpDDC trpED ['*', 'trpA', 'trpB', '*', 'trpD', 'trpD', 'trpC', '*', 'trpE', 'trpD']
+fixed_operon_line 0 trpEDCBA t
+trpEDCBA ['*', 'trpE', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpDC trpABC trpE t
+fixed_operon_line 6 trpDC trpABC trpE t
+fixed_operon_line 13 trpDC trpABC trpE t
+trpDC trpABC trpE ['*', 'trpD', 'trpC', '*', 'trpA', 'trpB', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpDD trpB trpC trpA trpE t
+fixed_operon_line 6 trpDD trpB trpC trpA trpE t
+fixed_operon_line 11 trpDD trpB trpC trpA trpE t
+fixed_operon_line 16 trpDD trpB trpC trpA trpE t
+fixed_operon_line 21 trpDD trpB trpC trpA trpE t
+trpDD trpB trpC trpA trpE ['*', 'trpD', 'trpD', '*', 'trpB', '*', 'trpC', '*', 'trpA', '*', 'trpE']
+fixed_operon_line 0 trpAB trpDDC trpE t
+fixed_operon_line 6 trpAB trpDDC trpE t
+fixed_operon_line 13 trpAB trpDDC trpE t
+trpAB trpDDC trpE ['*', 'trpA', 'trpB', '*', 'trpD', 'trpD', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpDD trpABC trpE t
+fixed_operon_line 6 trpDD trpABC trpE t
+fixed_operon_line 13 trpDD trpABC trpE t
+trpDD trpABC trpE ['*', 'trpD', 'trpD', '*', 'trpA', 'trpB', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpBC trpEDDC trpA t
+fixed_operon_line 6 trpBC trpEDDC trpA t
+fixed_operon_line 14 trpBC trpEDDC trpA t
+trpBC trpEDDC trpA ['*', 'trpB', 'trpC', '*', 'trpE', 'trpD', 'trpD', 'trpC', '*', 'trpA']
+fixed_operon_line 0 trpEDDCBA t
+trpEDDCBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpEDDCBA t
+trpEDDCBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpDE trpAB t
+fixed_operon_line 6 trpDE trpAB t
+trpDE trpAB ['*', 'trpD', 'trpE', '*', 'trpA', 'trpB']
+fixed_operon_line 0 trpAB trpEDDC t
+fixed_operon_line 6 trpAB trpEDDC t
+trpAB trpEDDC ['*', 'trpA', 'trpB', '*', 'trpE', 'trpD', 'trpD', 'trpC']
+fixed_operon_line 0 trpEDCBA t
+trpEDCBA ['*', 'trpE', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpABCDE t
+trpABCDE ['*', 'trpA', 'trpB', 'trpC', 'trpD', 'trpE']
+fixed_operon_line 0 trpCBA trpDC trpE t
+fixed_operon_line 7 trpCBA trpDC trpE t
+fixed_operon_line 13 trpCBA trpDC trpE t
+trpCBA trpDC trpE ['*', 'trpC', 'trpB', 'trpA', '*', 'trpD', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpEDDCBA t
+trpEDDCBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpDC trpAB trpE t
+fixed_operon_line 6 trpDC trpAB trpE t
+fixed_operon_line 12 trpDC trpAB trpE t
+trpDC trpAB trpE ['*', 'trpD', 'trpC', '*', 'trpA', 'trpB', '*', 'trpE']
+fixed_operon_line 0 trpEDDCBA t
+trpEDDCBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpCBA trpDE t
+fixed_operon_line 7 trpCBA trpDE t
+trpCBA trpDE ['*', 'trpC', 'trpB', 'trpA', '*', 'trpD', 'trpE']
+fixed_operon_line 0 trpCDDE trpBA t
+fixed_operon_line 8 trpCDDE trpBA t
+trpCDDE trpBA ['*', 'trpC', 'trpD', 'trpD', 'trpE', '*', 'trpB', 'trpA']
+fixed_operon_line 0 trpEDDC trpBA t
+fixed_operon_line 8 trpEDDC trpBA t
+trpEDDC trpBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', '*', 'trpB', 'trpA']
+fixed_operon_line 0 trpAB trpEDDC t
+fixed_operon_line 6 trpAB trpEDDC t
+trpAB trpEDDC ['*', 'trpA', 'trpB', '*', 'trpE', 'trpD', 'trpD', 'trpC']
+fixed_operon_line 0 trpCD trpA t
+fixed_operon_line 6 trpCD trpA t
+trpCD trpA ['*', 'trpC', 'trpD', '*', 'trpA']
+fixed_operon_line 0 trpEDDCBA t
+trpEDDCBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpDC trpB trpA trpE t
+fixed_operon_line 6 trpDC trpB trpA trpE t
+fixed_operon_line 11 trpDC trpB trpA trpE t
+fixed_operon_line 16 trpDC trpB trpA trpE t
+trpDC trpB trpA trpE ['*', 'trpD', 'trpC', '*', 'trpB', '*', 'trpA', '*', 'trpE']
+fixed_operon_line 0 trpABCDE t
+trpABCDE ['*', 'trpA', 'trpB', 'trpC', 'trpD', 'trpE']
+fixed_operon_line 0 trpCDD trpCBA trpE t
+fixed_operon_line 7 trpCDD trpCBA trpE t
+fixed_operon_line 14 trpCDD trpCBA trpE t
+trpCDD trpCBA trpE ['*', 'trpC', 'trpD', 'trpD', '*', 'trpC', 'trpB', 'trpA', '*', 'trpE']
+fixed_operon_line 0 trpABCDDE t
+trpABCDDE ['*', 'trpA', 'trpB', 'trpC', 'trpD', 'trpD', 'trpE']
+fixed_operon_line 0 trpAB trpCD trpDE t
+fixed_operon_line 6 trpAB trpCD trpDE t
+fixed_operon_line 12 trpAB trpCD trpDE t
+trpAB trpCD trpDE ['*', 'trpA', 'trpB', '*', 'trpC', 'trpD', '*', 'trpD', 'trpE']
+fixed_operon_line 0 trpBA trpDDC trpE t
+fixed_operon_line 6 trpBA trpDDC trpE t
+fixed_operon_line 13 trpBA trpDDC trpE t
+trpBA trpDDC trpE ['*', 'trpB', 'trpA', '*', 'trpD', 'trpD', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpEDDC trpABC t
+fixed_operon_line 8 trpEDDC trpABC t
+trpEDDC trpABC ['*', 'trpE', 'trpD', 'trpD', 'trpC', '*', 'trpA', 'trpB', 'trpC']
+fixed_operon_line 0 trpCBA trpDC trpE t
+fixed_operon_line 7 trpCBA trpDC trpE t
+fixed_operon_line 13 trpCBA trpDC trpE t
+trpCBA trpDC trpE ['*', 'trpC', 'trpB', 'trpA', '*', 'trpD', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpDC trpABC trpE t
+fixed_operon_line 6 trpDC trpABC trpE t
+fixed_operon_line 13 trpDC trpABC trpE t
+trpDC trpABC trpE ['*', 'trpD', 'trpC', '*', 'trpA', 'trpB', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpEDDC trpBA t
+fixed_operon_line 8 trpEDDC trpBA t
+trpEDDC trpBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', '*', 'trpB', 'trpA']
+fixed_operon_line 0 trpABCDE t
+trpABCDE ['*', 'trpA', 'trpB', 'trpC', 'trpD', 'trpE']
+./optimized_results_proteobacteria/fecABCDE.txt
+fixed_operon_line 0 fecED fecC fecA f
+fixed_operon_line 6 fecED fecC fecA f
+fixed_operon_line 11 fecED fecC fecA f
+fecED fecC fecA ['*', 'fecE', 'fecD', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecEE fecCD fecA f
+fixed_operon_line 6 fecEE fecCD fecA f
+fixed_operon_line 12 fecEE fecCD fecA f
+fecEE fecCD fecA ['*', 'fecE', 'fecE', '*', 'fecC', 'fecD', '*', 'fecA']
+fixed_operon_line 0 fecEC fecD fecA f
+fixed_operon_line 6 fecEC fecD fecA f
+fixed_operon_line 11 fecEC fecD fecA f
+fecEC fecD fecA ['*', 'fecE', 'fecC', '*', 'fecD', '*', 'fecA']
+fixed_operon_line 0 fecED fecABE fecEC f
+fixed_operon_line 6 fecED fecABE fecEC f
+fixed_operon_line 13 fecED fecABE fecEC f
+fecED fecABE fecEC ['*', 'fecE', 'fecD', '*', 'fecA', 'fecB', 'fecE', '*', 'fecE', 'fecC']
+fixed_operon_line 0 fecEDC fecB fecA f
+fixed_operon_line 7 fecEDC fecB fecA f
+fixed_operon_line 12 fecEDC fecB fecA f
+fecEDC fecB fecA ['*', 'fecE', 'fecD', 'fecC', '*', 'fecB', '*', 'fecA']
+fixed_operon_line 0 fecECA fecD fecB f
+fixed_operon_line 7 fecECA fecD fecB f
+fixed_operon_line 12 fecECA fecD fecB f
+fecECA fecD fecB ['*', 'fecE', 'fecC', 'fecA', '*', 'fecD', '*', 'fecB']
+fixed_operon_line 0 fecCBEAE fecED f
+fixed_operon_line 9 fecCBEAE fecED f
+fecCBEAE fecED ['*', 'fecC', 'fecB', 'fecE', 'fecA', 'fecE', '*', 'fecE', 'fecD']
+fixed_operon_line 0 fecED fecC fecA f
+fixed_operon_line 6 fecED fecC fecA f
+fixed_operon_line 11 fecED fecC fecA f
+fecED fecC fecA ['*', 'fecE', 'fecD', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecEE fecA f
+fixed_operon_line 6 fecEE fecA f
+fecEE fecA ['*', 'fecE', 'fecE', '*', 'fecA']
+fixed_operon_line 0 fecACEB fecD f
+fixed_operon_line 8 fecACEB fecD f
+fecACEB fecD ['*', 'fecA', 'fecC', 'fecE', 'fecB', '*', 'fecD']
+fixed_operon_line 0 fecEDC fecB fecA f
+fixed_operon_line 7 fecEDC fecB fecA f
+fixed_operon_line 12 fecEDC fecB fecA f
+fecEDC fecB fecA ['*', 'fecE', 'fecD', 'fecC', '*', 'fecB', '*', 'fecA']
+fixed_operon_line 0 fecAE fecEDC fecB f
+fixed_operon_line 6 fecAE fecEDC fecB f
+fixed_operon_line 13 fecAE fecEDC fecB f
+fecAE fecEDC fecB ['*', 'fecA', 'fecE', '*', 'fecE', 'fecD', 'fecC', '*', 'fecB']
+fixed_operon_line 0 fecDE fecC fecA f
+fixed_operon_line 6 fecDE fecC fecA f
+fixed_operon_line 11 fecDE fecC fecA f
+fecDE fecC fecA ['*', 'fecD', 'fecE', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecDE fecC fecA f
+fixed_operon_line 6 fecDE fecC fecA f
+fixed_operon_line 11 fecDE fecC fecA f
+fecDE fecC fecA ['*', 'fecD', 'fecE', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecED fecAA fecC f
+fixed_operon_line 6 fecED fecAA fecC f
+fixed_operon_line 12 fecED fecAA fecC f
+fecED fecAA fecC ['*', 'fecE', 'fecD', '*', 'fecA', 'fecA', '*', 'fecC']
+fixed_operon_line 0 fecEE fecAA f
+fixed_operon_line 6 fecEE fecAA f
+fecEE fecAA ['*', 'fecE', 'fecE', '*', 'fecA', 'fecA']
+fixed_operon_line 0 fecED fecC fecA f
+fixed_operon_line 6 fecED fecC fecA f
+fixed_operon_line 11 fecED fecC fecA f
+fecED fecC fecA ['*', 'fecE', 'fecD', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecDE fecC fecA f
+fixed_operon_line 6 fecDE fecC fecA f
+fixed_operon_line 11 fecDE fecC fecA f
+fecDE fecC fecA ['*', 'fecD', 'fecE', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecED fecC fecA f
+fixed_operon_line 6 fecED fecC fecA f
+fixed_operon_line 11 fecED fecC fecA f
+fecED fecC fecA ['*', 'fecE', 'fecD', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecDE fecC fecA f
+fixed_operon_line 6 fecDE fecC fecA f
+fixed_operon_line 11 fecDE fecC fecA f
+fecDE fecC fecA ['*', 'fecD', 'fecE', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecEA f
+fecEA ['*', 'fecE', 'fecA']
+fixed_operon_line 0 fecAA fecDE fecC f
+fixed_operon_line 6 fecAA fecDE fecC f
+fixed_operon_line 12 fecAA fecDE fecC f
+fecAA fecDE fecC ['*', 'fecA', 'fecA', '*', 'fecD', 'fecE', '*', 'fecC']
+fixed_operon_line 0 fecEE f
+fecEE ['*', 'fecE', 'fecE']
+fixed_operon_line 0 fecAA fecE f
+fixed_operon_line 6 fecAA fecE f
+fecAA fecE ['*', 'fecA', 'fecA', '*', 'fecE']
+fixed_operon_line 0 fecEDCBA f
+fecEDCBA ['*', 'fecE', 'fecD', 'fecC', 'fecB', 'fecA']
+fixed_operon_line 0 fecAA fecE f
+fixed_operon_line 6 fecAA fecE f
+fecAA fecE ['*', 'fecA', 'fecA', '*', 'fecE']
+fixed_operon_line 0 fecDEA fecECDB f
+fixed_operon_line 7 fecDEA fecECDB f
+fecDEA fecECDB ['*', 'fecD', 'fecE', 'fecA', '*', 'fecE', 'fecC', 'fecD', 'fecB']
+fixed_operon_line 0 fecEDCB fecA f
+fixed_operon_line 8 fecEDCB fecA f
+fecEDCB fecA ['*', 'fecE', 'fecD', 'fecC', 'fecB', '*', 'fecA']
+fixed_operon_line 0 fecEDCB fecAA  f
+fixed_operon_line 8 fecEDCB fecAA  f
+fixed_operon_line 14 fecEDCB fecAA 
+./operon_name_and_genes.txt
+astCADBE
+astC
+astA
+astD
+astB
+astE
+astCADBE {'astA': 'B', 'astB': 'D', 'astC': 'A', 'astD': 'C', 'reference_string': 'ABCDE', 'astE': 'E'} 1
+atpIBEFHAGDC
+atpI
+atpB
+atpE
+atpF
+atpH
+atpA
+atpG
+atpD
+atpC
+atpIBEFHAGDC {'atpF': 'D', 'atpI': 'A', 'atpH': 'E', 'atpC': 'I', 'atpB': 'B', 'atpA': 'F', 'atpG': 'G', 'reference_string': 'ABCDEFGHI', 'atpE': 'C', 'atpD': 'H'} 2
+bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE
+bamA
+hlpA
+lpxD
+fabZ
+lpxA
+lpxB
+rnhB
+dnaE
+bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE {'hlpA': 'B', 'dnaE': 'H', 'bamA': 'A', 'rnhB': 'G', 'lpxA': 'E', 'lpxB': 'F', 'lpxD': 'C', 'reference_string': 'ABCDEFGH', 'fabZ': 'D'} 3
+caiTABCDE
+caiT
+caiA
+caiB
+caiC
+caiD
+caiE
+caiTABCDE {'caiE': 'F', 'caiT': 'A', 'caiC': 'D', 'caiB': 'C', 'caiA': 'B', 'caiD': 'E', 'reference_string': 'ABCDEF'} 4
+casABCDE12
+casA
+casB
+casC
+casD
+casE
+cas1
+cas2
+casABCDE12 {'casE': 'E', 'casD': 'D', 'casA': 'A', 'casC': 'C', 'casB': 'B', 'cas1': 'F', 'cas2': 'G', 'reference_string': 'ABCDEFG'} 5
+dicB-ydfDE-insD-intQ
+dicB
+ydfD
+ydfE
+insD
+intQ
+dicB-ydfDE-insD-intQ {'ydfE': 'C', 'ydfD': 'B', 'dicB': 'A', 'insD': 'D', 'intQ': 'E', 'reference_string': 'ABCDE'} 6
+fecABCDE
+fecA
+fecB
+fecC
+fecD
+fecE
+fecABCDE {'fecD': 'D', 'fecE': 'E', 'fecB': 'B', 'fecC': 'C', 'fecA': 'A', 'reference_string': 'ABCDE'} 7
+fucPIKUR
+fucP
+fucI
+fucK
+fucU
+fucR
+fucPIKUR {'fucU': 'D', 'fucR': 'E', 'fucP': 'A', 'fucI': 'B', 'fucK': 'C', 'reference_string': 'ABCDE'} 8
+garPLRK-rnpB
+garP
+garL
+garR
+garK
+rnpB
+garPLRK-rnpB {'garL': 'B', 'rnpB': 'E', 'garK': 'D', 'garR': 'C', 'reference_string': 'ABCDE', 'garP': 'A'} 9
+gatYZABCD
+gatY
+gatZ
+gatA
+gatB
+gatC
+gatD
+gatYZABCD {'gatY': 'A', 'gatZ': 'B', 'gatD': 'F', 'gatC': 'E', 'gatA': 'C', 'gatB': 'D', 'reference_string': 'ABCDEF'} 10
+gcl-hyi-glxR-ybbVW-allB-ybbY-glxK
+gcl
+hyi
+glxR
+ybbV
+ybbW
+allB
+ybbY
+glxK
+gcl-hyi-glxR-ybbVW-allB-ybbY-glxK {'gcl': 'A', 'allB': 'F', 'ybbY': 'G', 'hyi': 'B', 'ybbW': 'E', 'ybbV': 'D', 'glxK': 'H', 'reference_string': 'ABCDEFGH', 'glxR': 'C'} 11
+glcDEFGBA
+glcD
+glcE
+glcF
+glcG
+glcB
+glcA
+glcDEFGBA {'glcD': 'A', 'glcE': 'B', 'glcF': 'C', 'glcG': 'D', 'reference_string': 'ABCDEF', 'glcB': 'E', 'glcA': 'F'} 12
+hcaEFCBD
+hcaE
+hcaF
+hcaC
+hcaB
+hcaD
+hcaEFCBD {'hcaD': 'E', 'hcaE': 'A', 'hcaF': 'B', 'hcaB': 'D', 'hcaC': 'C', 'reference_string': 'ABCDE'} 13
+hisLGDCBHAFI
+hisL
+hisG
+hisD
+hisC
+hisB
+hisH
+hisA
+hisF
+hisI
+hisLGDCBHAFI {'hisD': 'C', 'hisF': 'H', 'hisG': 'B', 'hisA': 'G', 'hisB': 'E', 'hisC': 'D', 'hisL': 'A', 'hisH': 'F', 'hisI': 'I', 'reference_string': 'ABCDEFGHI'} 14
+hyaABCDEF
+hyaA
+hyaB
+hyaC
+hyaD
+hyaE
+hyaF
+hyaABCDEF {'hyaB': 'B', 'hyaC': 'C', 'hyaA': 'A', 'hyaF': 'F', 'hyaD': 'D', 'hyaE': 'E', 'reference_string': 'ABCDEF'} 15
+hycABCDEFGHI
+hycA
+hycB
+hycC
+hycD
+hycE
+hycF
+hycG
+hycH
+hycI
+hycABCDEFGHI {'hycD': 'D', 'hycE': 'E', 'hycF': 'F', 'hycG': 'G', 'hycA': 'A', 'hycB': 'B', 'hycC': 'C', 'hycH': 'H', 'hycI': 'I', 'reference_string': 'ABCDEFGHI'} 16
+hyfABCDEFGHIJR-focB
+hyfA
+hyfB
+hyfC
+hyfD
+hyfE
+hyfF
+hyfG
+hyfH
+hyfI
+hyfJ
+hyfR
+focB
+hyfABCDEFGHIJR-focB {'hyfJ': 'J', 'hyfI': 'I', 'hyfH': 'H', 'hyfC': 'C', 'hyfB': 'B', 'hyfA': 'A', 'hyfG': 'G', 'hyfF': 'F', 'hyfE': 'E', 'hyfD': 'D', 'hyfR': 'K', 'focB': 'L', 'reference_string': 'ABCDEFGHIJKL'} 17
+hypABCDE-fhlA
+hypA
+hypB
+hypC
+hypD
+hypE
+fhlA
+hypABCDE-fhlA {'fhlA': 'F', 'hypE': 'E', 'hypD': 'D', 'hypA': 'A', 'reference_string': 'ABCDEF', 'hypC': 'C', 'hypB': 'B'} 18
+ivbL-ilvBN-uhpABC
+ivbL
+ilvB
+ilvN
+uhpA
+uhpB
+uhpC
+ivbL-ilvBN-uhpABC {'ilvN': 'C', 'ivbL': 'A', 'uhpC': 'F', 'uhpB': 'E', 'uhpA': 'D', 'reference_string': 'ABCDEF', 'ilvB': 'B'} 19
+livKHMGF
+livK
+livH
+livM
+livG
+livF
+livKHMGF {'livG': 'D', 'livF': 'E', 'livM': 'C', 'livK': 'A', 'reference_string': 'ABCDE', 'livH': 'B'} 20
+lptAB-rpoN-hpf-ptsN-yhbJ-npr
+lptA
+lptB
+rpoN
+hpf
+ptsN
+yhbJ
+npr
+lptAB-rpoN-hpf-ptsN-yhbJ-npr {'reference_string': 'ABCDEFG', 'npr': 'G', 'ptsN': 'E', 'yhbJ': 'F', 'lptA': 'A', 'hpf': 'D', 'lptB': 'B', 'rpoN': 'C'} 21
+lptD-surA-pdxA-rsmA-apaGH
+lptD
+surA
+pdxA
+rsmA
+apaG
+apaH
+lptD-surA-pdxA-rsmA-apaGH {'rsmA': 'D', 'apaH': 'F', 'surA': 'B', 'lptD': 'A', 'pdxA': 'C', 'apaG': 'E', 'reference_string': 'ABCDEF'} 22
+lsrACDBFG-tam
+lsrA
+lsrC
+lsrD
+lsrB
+lsrF
+lsrG
+tam
+lsrACDBFG-tam {'lsrA': 'A', 'lsrC': 'B', 'lsrB': 'D', 'lsrD': 'C', 'lsrG': 'F', 'lsrF': 'E', 'tam': 'G', 'reference_string': 'ABCDEFG'} 23
+mdtABCD-baeSR
+mdtA
+mdtB
+mdtC
+mdtD
+baeS
+baeR
+mdtABCD-baeSR {'mdtC': 'C', 'mdtB': 'B', 'mdtA': 'A', 'baeR': 'F', 'mdtD': 'D', 'baeS': 'E', 'reference_string': 'ABCDEF'} 24
+metT-leuW-glnUW-metU-glnVX
+metT
+leuW
+glnU
+glnW
+metU
+glnV
+glnX
+metT-leuW-glnUW-metU-glnVX {'leuW': 'B', 'glnX': 'G', 'metT': 'A', 'metU': 'E', 'glnW': 'D', 'reference_string': 'ABCDEFG', 'glnU': 'C', 'glnV': 'F'} 25
+metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp
+metY
+rimP
+nusA
+infB
+rbfA
+truB
+rpsO
+pnp
+metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp {'truB': 'F', 'nusA': 'C', 'rimP': 'B', 'rbfA': 'E', 'rpsO': 'G', 'pnp': 'H', 'metY': 'A', 'reference_string': 'ABCDEFGH', 'infB': 'D'} 26
+nsrR-rnr-rlmB-yjfIJ
+nsrR
+rnr
+rlmB
+yjfI
+yjfJ
+nsrR-rnr-rlmB-yjfIJ {'yjfJ': 'E', 'yjfI': 'D', 'rnr': 'B', 'nsrR': 'A', 'reference_string': 'ABCDE', 'rlmB': 'C'} 27
+nuoABCEFGHIJKLMN
+nuoA
+nuoB
+nuoC
+nuoE
+nuoF
+nuoG
+nuoH
+nuoI
+nuoJ
+nuoK
+nuoL
+nuoM
+nuoN
+nuoABCEFGHIJKLMN {'nuoB': 'B', 'nuoC': 'C', 'nuoA': 'A', 'nuoF': 'E', 'nuoG': 'F', 'nuoE': 'D', 'nuoJ': 'I', 'nuoK': 'J', 'nuoH': 'G', 'nuoI': 'H', 'nuoN': 'M', 'reference_string': 'ABCDEFGHIJKLM', 'nuoL': 'K', 'nuoM': 'L'} 28
+paaABCDEFGHIJK
+paaA
+paaB
+paaC
+paaD
+paaE
+paaF
+paaG
+paaH
+paaI
+paaJ
+paaK
+paaABCDEFGHIJK {'paaB': 'B', 'paaC': 'C', 'paaA': 'A', 'paaF': 'F', 'paaG': 'G', 'paaD': 'D', 'paaE': 'E', 'paaJ': 'J', 'paaK': 'K', 'paaH': 'H', 'paaI': 'I', 'reference_string': 'ABCDEFGHIJK'} 29
+pspABCDE
+pspA
+pspB
+pspC
+pspD
+pspE
+pspABCDE {'pspE': 'E', 'pspD': 'D', 'pspC': 'C', 'reference_string': 'ABCDE', 'pspA': 'A', 'pspB': 'B'} 30
+pstSCAB-phoU
+pstS
+pstC
+pstA
+pstB
+phoU
+pstSCAB-phoU {'pstS': 'A', 'pstC': 'B', 'pstA': 'C', 'phoU': 'E', 'pstB': 'D', 'reference_string': 'ABCDE'} 31
+rbsDACBKR
+rbsD
+rbsA
+rbsC
+rbsB
+rbsK
+rbsR
+rbsDACBKR {'rbsK': 'E', 'rbsR': 'F', 'rbsA': 'B', 'rbsC': 'C', 'rbsB': 'D', 'reference_string': 'ABCDEF', 'rbsD': 'A'} 32
+rnc-era-recO-pdxJ-acpS
+rnc
+era
+recO
+pdxJ
+acpS
+rnc-era-recO-pdxJ-acpS {'pdxJ': 'D', 'recO': 'C', 'acpS': 'E', 'rnc': 'A', 'reference_string': 'ABCDE', 'era': 'B'} 33
+rplKAJL-rpoBC
+rplK
+rplA
+rplJ
+rplL
+rpoB
+rpoC
+rplKAJL-rpoBC {'rpoC': 'F', 'rpoB': 'E', 'rplL': 'D', 'rplJ': 'C', 'rplK': 'A', 'reference_string': 'ABCDEF', 'rplA': 'B'} 34
+rrsD-ileU-alaU-rrlD-rrfD-thrV-rrfF
+rrsD
+ileU
+alaU
+rrlD
+rrfD
+thrV
+rrfF
+rrsD-ileU-alaU-rrlD-rrfD-thrV-rrfF {'rrlD': 'D', 'ileU': 'B', 'alaU': 'C', 'thrV': 'F', 'rrfF': 'G', 'reference_string': 'ABCDEFG', 'rrfD': 'E', 'rrsD': 'A'} 35
+sdhCDAB-sucABCD
+sdhC
+sdhD
+sdhA
+sdhB
+sucA
+sucB
+sucC
+sucD
+sdhCDAB-sucABCD {'sucA': 'E', 'sucC': 'G', 'sucB': 'F', 'sucD': 'H', 'sdhA': 'C', 'sdhC': 'A', 'sdhB': 'D', 'reference_string': 'ABCDEFGH', 'sdhD': 'B'} 36
+srlAEBD-gutM-srlR-gutQ
+srlA
+srlE
+srlB
+srlD
+gutM
+srlR
+gutQ
+srlAEBD-gutM-srlR-gutQ {'srlB': 'C', 'srlA': 'A', 'gutM': 'E', 'srlE': 'B', 'srlD': 'D', 'gutQ': 'G', 'srlR': 'F', 'reference_string': 'ABCDEFG'} 37
+ssuEADCB
+ssuE
+ssuA
+ssuD
+ssuC
+ssuB
+ssuEADCB {'ssuE': 'A', 'ssuD': 'C', 'ssuA': 'B', 'ssuC': 'D', 'ssuB': 'E', 'reference_string': 'ABCDE'} 38
+tdcABCDEFG
+tdcA
+tdcB
+tdcC
+tdcD
+tdcE
+tdcF
+tdcG
+tdcABCDEFG {'tdcE': 'E', 'tdcD': 'D', 'tdcG': 'G', 'tdcF': 'F', 'tdcA': 'A', 'tdcC': 'C', 'tdcB': 'B', 'reference_string': 'ABCDEFG'} 39
+thrS-infC-rpmI-rplT-pheMST-ihfA
+thrS
+infC
+rpmI
+rplT
+pheM
+pheS
+pheT
+ihfA
+thrS-infC-rpmI-rplT-pheMST-ihfA {'rpmI': 'C', 'pheS': 'F', 'pheT': 'G', 'ihfA': 'H', 'rplT': 'D', 'infC': 'B', 'reference_string': 'ABCDEFGH', 'pheM': 'E', 'thrS': 'A'} 40
+trpLEDCBA
+trpL
+trpE
+trpD
+trpC
+trpB
+trpA
+trpLEDCBA {'trpL': 'A', 'trpB': 'E', 'trpC': 'D', 'trpA': 'F', 'reference_string': 'ABCDEF', 'trpD': 'C', 'trpE': 'B'} 41
+ulaABCDEF
+ulaA
+ulaB
+ulaC
+ulaD
+ulaE
+ulaF
+ulaABCDEF {'ulaD': 'D', 'ulaE': 'E', 'ulaF': 'F', 'ulaA': 'A', 'reference_string': 'ABCDEF', 'ulaB': 'B', 'ulaC': 'C'} 42
+waaQGP-rfaS-waaBIJY-rfaZ-waaK
+waaQ
+waaG
+waaP
+rfaS
+waaB
+waaI
+waaJ
+waaY
+rfaZ
+waaK
+waaQGP-rfaS-waaBIJY-rfaZ-waaK {'waaB': 'E', 'rfaS': 'D', 'waaK': 'J', 'waaJ': 'G', 'waaI': 'F', 'rfaZ': 'I', 'waaQ': 'A', 'waaP': 'C', 'waaG': 'B', 'waaY': 'H', 'reference_string': 'ABCDEFGHIJ'} 43
+ybgIJKL-nei
+ybgI
+ybgJ
+ybgK
+ybgL
+nei
+ybgIJKL-nei {'nei': 'E', 'ybgI': 'A', 'ybgJ': 'B', 'ybgK': 'C', 'ybgL': 'D', 'reference_string': 'ABCDE'} 44
+yceD-rpmF-plsX-fabHDG-acpP-fabF
+yceD
+rpmF
+plsX
+fabH
+fabD
+fabG
+acpP
+fabF
+yceD-rpmF-plsX-fabHDG-acpP-fabF {'fabD': 'E', 'fabG': 'F', 'fabF': 'H', 'acpP': 'G', 'reference_string': 'ABCDEFGH', 'yceD': 'A', 'plsX': 'C', 'fabH': 'D', 'rpmF': 'B'} 45
+ydgK-rsxABCDGE-nth
+ydgK
+rsxA
+rsxB
+rsxC
+rsxD
+rsxG
+rsxE
+nth
+ydgK-rsxABCDGE-nth {'rsxA': 'B', 'ydgK': 'A', 'rsxC': 'D', 'rsxB': 'C', 'rsxE': 'G', 'rsxD': 'E', 'rsxG': 'F', 'nth': 'H', 'reference_string': 'ABCDEFGH'} 46
+ydhYVWXUT
+ydhY
+ydhV
+ydhW
+ydhX
+ydhU
+ydhT
+ydhYVWXUT {'ydhY': 'A', 'ydhX': 'D', 'ydhT': 'F', 'ydhW': 'C', 'reference_string': 'ABCDEF', 'ydhU': 'E', 'ydhV': 'B'} 47
+yiaKLMNO-lyxK-sgbHUE
+yiaK
+yiaL
+yiaM
+yiaN
+yiaO
+lyxK
+sgbH
+sgbU
+sgbE
+yiaKLMNO-lyxK-sgbHUE {'lyxK': 'F', 'sgbH': 'G', 'sgbE': 'I', 'reference_string': 'ABCDEFGHI', 'sgbU': 'H', 'yiaK': 'A', 'yiaM': 'C', 'yiaL': 'B', 'yiaO': 'E', 'yiaN': 'D'} 48
+yjeFE-amiB-mutL-miaA-hfq-hflXKC
+yjeF
+yjeE
+amiB
+mutL
+miaA
+hfq
+hflX
+hflK
+hflC
+yjeFE-amiB-mutL-miaA-hfq-hflXKC {'miaA': 'E', 'hflC': 'I', 'hfq': 'F', 'hflK': 'H', 'mutL': 'D', 'amiB': 'C', 'yjeF': 'A', 'yjeE': 'B', 'reference_string': 'ABCDEFGHI', 'hflX': 'G'} 49
+./optimized_results_proteobacteria/hyfABCDEFGHIJR-focB.txt
+fixed_operon_line 0 hyfFBD hyfGGI hyfR hyfA hyfH h
+fixed_operon_line 7 hyfFBD hyfGGI hyfR hyfA hyfH h
+fixed_operon_line 14 hyfFBD hyfGGI hyfR hyfA hyfH h
+fixed_operon_line 19 hyfFBD hyfGGI hyfR hyfA hyfH h
+fixed_operon_line 24 hyfFBD hyfGGI hyfR hyfA hyfH h
+hyfFBD hyfGGI hyfR hyfA hyfH ['*', 'hyfF', 'hyfB', 'hyfD', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfR', '*', 'hyfA', '*', 'hyfH']
+fixed_operon_line 0 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+fixed_operon_line 6 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+fixed_operon_line 12 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+fixed_operon_line 19 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+fixed_operon_line 24 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+fixed_operon_line 29 hyfIG hyfCH hyfDDF hyfB hyfA hyfR h
+hyfIG hyfCH hyfDDF hyfB hyfA hyfR ['*', 'hyfI', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfD', 'hyfD', 'hyfF', '*', 'hyfB', '*', 'hyfA', '*', 'hyfR']
+fixed_operon_line 0 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 7 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 18 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 23 hyfFDD hyfJIHGCBA hyfR focB f
+hyfFDD hyfJIHGCBA hyfR focB ['*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfJ', 'hyfI', 'hyfH', 'hyfG', 'hyfC', 'hyfB', 'hyfA', '*', 'hyfR', '*', 'focB']
+fixed_operon_line 0 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+fixed_operon_line 7 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+fixed_operon_line 13 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+fixed_operon_line 20 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+fixed_operon_line 25 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+fixed_operon_line 30 hyfIGG hyfCH hyfFBF hyfR hyfA hyfD h
+hyfIGG hyfCH hyfFBF hyfR hyfA hyfD ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfF', 'hyfB', 'hyfF', '*', 'hyfR', '*', 'hyfA', '*', 'hyfD']
+fixed_operon_line 0 hyfBDF hyfR hyfI hyfH hyfG h
+fixed_operon_line 7 hyfBDF hyfR hyfI hyfH hyfG h
+fixed_operon_line 12 hyfBDF hyfR hyfI hyfH hyfG h
+fixed_operon_line 17 hyfBDF hyfR hyfI hyfH hyfG h
+fixed_operon_line 22 hyfBDF hyfR hyfI hyfH hyfG h
+hyfBDF hyfR hyfI hyfH hyfG ['*', 'hyfB', 'hyfD', 'hyfF', '*', 'hyfR', '*', 'hyfI', '*', 'hyfH', '*', 'hyfG']
+fixed_operon_line 0 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+fixed_operon_line 6 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+fixed_operon_line 12 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+fixed_operon_line 19 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+fixed_operon_line 24 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+fixed_operon_line 29 hyfIG hyfCH hyfDDB hyfR hyfA hyfF h
+hyfIG hyfCH hyfDDB hyfR hyfA hyfF ['*', 'hyfI', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfD', 'hyfD', 'hyfB', '*', 'hyfR', '*', 'hyfA', '*', 'hyfF']
+fixed_operon_line 0 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+fixed_operon_line 7 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+fixed_operon_line 14 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+fixed_operon_line 19 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR f
+fixed_operon_line 24 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+fixed_operon_line 29 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+fixed_operon_line 34 hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR h
+hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfD', 'hyfD', 'hyfF', '*', 'hyfB', '*', 'focB', '*', 'hyfH', '*', 'hyfA', '*', 'hyfR']
+fixed_operon_line 0 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 7 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 13 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 18 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 23 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 28 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+fixed_operon_line 33 hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR h
+hyfFDD hyfHC hyfB hyfA hyfG hyfI hyfR ['*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfB', '*', 'hyfA', '*', 'hyfG', '*', 'hyfI', '*', 'hyfR']
+fixed_operon_line 0 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 7 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 13 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 20 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 25 hyfFBD hyfHC hyfGGI hyfR hyfA h
+hyfFBD hyfHC hyfGGI hyfR hyfA ['*', 'hyfF', 'hyfB', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfR', '*', 'hyfA']
+fixed_operon_line 0 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 7 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 13 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 20 hyfFBD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 25 hyfFBD hyfHC hyfGGI hyfR hyfA h
+hyfFBD hyfHC hyfGGI hyfR hyfA ['*', 'hyfF', 'hyfB', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfR', '*', 'hyfA']
+fixed_operon_line 0 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 7 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 18 hyfFDD hyfJIHGCBA hyfR focB h
+fixed_operon_line 23 hyfFDD hyfJIHGCBA hyfR focB f
+hyfFDD hyfJIHGCBA hyfR focB ['*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfJ', 'hyfI', 'hyfH', 'hyfG', 'hyfC', 'hyfB', 'hyfA', '*', 'hyfR', '*', 'focB']
+fixed_operon_line 0 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+fixed_operon_line 7 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+fixed_operon_line 13 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+fixed_operon_line 18 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+fixed_operon_line 23 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+fixed_operon_line 28 hyfIGG hyfDB hyfR hyfA hyfH hyfF h
+hyfIGG hyfDB hyfR hyfA hyfH hyfF ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfD', 'hyfB', '*', 'hyfR', '*', 'hyfA', '*', 'hyfH', '*', 'hyfF']
+fixed_operon_line 0 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+fixed_operon_line 7 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+fixed_operon_line 12 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+fixed_operon_line 17 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+fixed_operon_line 22 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+fixed_operon_line 27 hyfFDB hyfC hyfR hyfA hyfG hyfI h
+hyfFDB hyfC hyfR hyfA hyfG hyfI ['*', 'hyfF', 'hyfD', 'hyfB', '*', 'hyfC', '*', 'hyfR', '*', 'hyfA', '*', 'hyfG', '*', 'hyfI']
+fixed_operon_line 0 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+fixed_operon_line 7 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+fixed_operon_line 13 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+fixed_operon_line 19 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+fixed_operon_line 24 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR f
+fixed_operon_line 29 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+fixed_operon_line 34 hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR h
+hyfFDD hyfHC hyfGI hyfB focB hyfA hyfR ['*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfI', '*', 'hyfB', '*', 'focB', '*', 'hyfA', '*', 'hyfR']
+fixed_operon_line 0 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+fixed_operon_line 7 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+fixed_operon_line 14 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+fixed_operon_line 20 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+fixed_operon_line 25 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA f
+fixed_operon_line 30 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+fixed_operon_line 35 hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA h
+hyfFDF hyfGGI hyfBC hyfR focB hyfH hyfA ['*', 'hyfF', 'hyfD', 'hyfF', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfB', 'hyfC', '*', 'hyfR', '*', 'focB', '*', 'hyfH', '*', 'hyfA']
+fixed_operon_line 0 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 6 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 13 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 19 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 26 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+fixed_operon_line 31 hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA h
+hyfBD hyfFDD hyfHC hyfGGI hyfR hyfA ['*', 'hyfB', 'hyfD', '*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfR', '*', 'hyfA']
+fixed_operon_line 0 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+fixed_operon_line 7 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+fixed_operon_line 13 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+fixed_operon_line 20 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+fixed_operon_line 26 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+fixed_operon_line 31 hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA h
+hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfD', 'hyfD', 'hyfF', '*', 'hyfD', 'hyfB', '*', 'hyfR', '*', 'hyfA']
+fixed_operon_line 0 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+fixed_operon_line 7 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+fixed_operon_line 12 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+fixed_operon_line 17 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+fixed_operon_line 22 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+fixed_operon_line 27 hyfBDF hyfC hyfR hyfI hyfG hyfA h
+hyfBDF hyfC hyfR hyfI hyfG hyfA ['*', 'hyfB', 'hyfD', 'hyfF', '*', 'hyfC', '*', 'hyfR', '*', 'hyfI', '*', 'hyfG', '*', 'hyfA']
+fixed_operon_line 0 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+fixed_operon_line 6 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI  
+fixed_operon_line 13 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+fixed_operon_line 20 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+fixed_operon_line 26 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+fixed_operon_line 31 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+fixed_operon_line 36 hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI h
+hyfRR  hyfBD hyfFDD hyfHC hyfA hyfG hyfI ['*', 'hyfR', 'hyfR', '*', ' hyf', ' hyB', ' hyD', '*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfA', '*', 'hyfG', '*', 'hyfI']
+fixed_operon_line 0 hyfIG hyfCH hyfDFF hyfB h
+fixed_operon_line 6 hyfIG hyfCH hyfDFF hyfB h
+fixed_operon_line 12 hyfIG hyfCH hyfDFF hyfB h
+fixed_operon_line 19 hyfIG hyfCH hyfDFF hyfB h
+hyfIG hyfCH hyfDFF hyfB ['*', 'hyfI', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfD', 'hyfF', 'hyfF', '*', 'hyfB']
+fixed_operon_line 0 hyfFFD hyfHC hyfGI hyfB h
+fixed_operon_line 7 hyfFFD hyfHC hyfGI hyfB h
+fixed_operon_line 13 hyfFFD hyfHC hyfGI hyfB h
+fixed_operon_line 19 hyfFFD hyfHC hyfGI hyfB h
+hyfFFD hyfHC hyfGI hyfB ['*', 'hyfF', 'hyfF', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfI', '*', 'hyfB']
+fixed_operon_line 0 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 6 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 11 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 16 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 21 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 26 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+fixed_operon_line 31 hyfDB hyfI hyfC hyfR hyfA hyfG hyfF h
+hyfDB hyfI hyfC hyfR hyfA hyfG hyfF ['*', 'hyfD', 'hyfB', '*', 'hyfI', '*', 'hyfC', '*', 'hyfR', '*', 'hyfA', '*', 'hyfG', '*', 'hyfF']
+fixed_operon_line 0 hyfABCDEFGHIJR-focB h
+fixed_operon_line 15 hyfABCDEFGHIJR-focB f
+hyfABCDEFGHIJR-focB ['*', 'hyfA', 'hyfB', 'hyfC', 'hyfD', 'hyfE', 'hyfF', 'hyfG', 'hyfH', 'hyfI', 'hyfJ', 'hyfR', '*', 'focB']
+fixed_operon_line 0 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 7 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 13 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 18 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 23 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 28 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA f
+fixed_operon_line 33 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+fixed_operon_line 38 hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA h
+hyfFDF hyfDB hyfI hyfH hyfR focB hyfG hyfA ['*', 'hyfF', 'hyfD', 'hyfF', '*', 'hyfD', 'hyfB', '*', 'hyfI', '*', 'hyfH', '*', 'hyfR', '*', 'focB', '*', 'hyfG', '*', 'hyfA']
+fixed_operon_line 0 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+fixed_operon_line 6 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+fixed_operon_line 13 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+fixed_operon_line 19 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+fixed_operon_line 25 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+fixed_operon_line 30 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR f
+fixed_operon_line 35 hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR h
+hyfAA hyfFDD hyfHC hyfGI hyfB focB hyfR ['*', 'hyfA', 'hyfA', '*', 'hyfF', 'hyfD', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfI', '*', 'hyfB', '*', 'focB', '*', 'hyfR']
+fixed_operon_line 0 hyfRR hyfIG hyfCH hyfDBF h
+fixed_operon_line 6 hyfRR hyfIG hyfCH hyfDBF h
+fixed_operon_line 12 hyfRR hyfIG hyfCH hyfDBF h
+fixed_operon_line 18 hyfRR hyfIG hyfCH hyfDBF h
+hyfRR hyfIG hyfCH hyfDBF ['*', 'hyfR', 'hyfR', '*', 'hyfI', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfD', 'hyfB', 'hyfF']
+fixed_operon_line 0 hyfDBD hyfHC hyfGGI hyfR hyfF h
+fixed_operon_line 7 hyfDBD hyfHC hyfGGI hyfR hyfF h
+fixed_operon_line 13 hyfDBD hyfHC hyfGGI hyfR hyfF h
+fixed_operon_line 20 hyfDBD hyfHC hyfGGI hyfR hyfF h
+fixed_operon_line 25 hyfDBD hyfHC hyfGGI hyfR hyfF h
+hyfDBD hyfHC hyfGGI hyfR hyfF ['*', 'hyfD', 'hyfB', 'hyfD', '*', 'hyfH', 'hyfC', '*', 'hyfG', 'hyfG', 'hyfI', '*', 'hyfR', '*', 'hyfF']
+fixed_operon_line 0 hyfIGG hyfDBF hyfR hyfH h
+fixed_operon_line 7 hyfIGG hyfDBF hyfR hyfH h
+fixed_operon_line 14 hyfIGG hyfDBF hyfR hyfH h
+fixed_operon_line 19 hyfIGG hyfDBF hyfR hyfH h
+hyfIGG hyfDBF hyfR hyfH ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfD', 'hyfB', 'hyfF', '*', 'hyfR', '*', 'hyfH']
+fixed_operon_line 0 hyfDBF hyfIHGFECBA hyfR h
+fixed_operon_line 7 hyfDBF hyfIHGFECBA hyfR h
+fixed_operon_line 19 hyfDBF hyfIHGFECBA hyfR h
+hyfDBF hyfIHGFECBA hyfR ['*', 'hyfD', 'hyfB', 'hyfF', '*', 'hyfI', 'hyfH', 'hyfG', 'hyfF', 'hyfE', 'hyfC', 'hyfB', 'hyfA', '*', 'hyfR']
+fixed_operon_line 0 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 7 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 13 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 20 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 25 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 30 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+fixed_operon_line 35 hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD h
+hyfIGG hyfCH hyfBBB hyfR hyfA hyfF hyfD ['*', 'hyfI', 'hyfG', 'hyfG', '*', 'hyfC', 'hyfH', '*', 'hyfB', 'hyfB', 'hyfB', '*', 'hyfR', '*', 'hyfA', '*', 'hyfF', '*', 'hyfD']
+fixed_operon_line 0 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR h
+fixed_operon_line 8 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR h
+fixed_operon_line 15 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR h
+fixed_operon_line 23 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR h
+fixed_operon_line 28 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR f
+fixed_operon_line 33 hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR h
+hyfCDEF hyfHII hyfGCBA hyfJ focB hyfR ['*', 'hyfC', 'hyfD', 'hyfE', 'hyfF', '*', 'hyfH', 'hyfI', 'hyfI', '*', 'hyfG', 'hyfC', 'hyfB', 'hyfA', '*', 'hyfJ', '*', 'focB', '*', 'hyfR']
+./optimized_results_proteobacteria/nuoABCEFGHIJKLMN.txt
+fixed_operon_line 0 nuoNMLJIHG nuoFECCBA n
+fixed_operon_line 11 nuoNMLJIHG nuoFECCBA n
+nuoNMLJIHG nuoFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', '*', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCEFGHIJKLMN n
+nuoABCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCCEFGHI nuoKLMN n
+fixed_operon_line 13 nuoABCCEFGHI nuoKLMN n
+nuoABCCEFGHI nuoKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', '*', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoABCCEF nuoGHI nuoLMN nuoK n
+fixed_operon_line 10 nuoABCCEF nuoGHI nuoLMN nuoK n
+fixed_operon_line 17 nuoABCCEF nuoGHI nuoLMN nuoK n
+fixed_operon_line 24 nuoABCCEF nuoGHI nuoLMN nuoK n
+nuoABCCEF nuoGHI nuoLMN nuoK ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', '*', 'nuoG', 'nuoH', 'nuoI', '*', 'nuoL', 'nuoM', 'nuoN', '*', 'nuoK']
+fixed_operon_line 0 nuoABCEFGHIJKLMN n
+nuoABCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoABCCEFGHIJKLMN n
+nuoABCCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLKJIHGFECCBA n
+nuoNMLKJIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLKJIHG nuoCCB n
+fixed_operon_line 12 nuoNMLKJIHG nuoCCB n
+nuoNMLKJIHG nuoCCB ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', '*', 'nuoC', 'nuoC', 'nuoB']
+fixed_operon_line 0 nuoNMLK nuoIHGFECCBA n
+fixed_operon_line 8 nuoNMLK nuoIHGFECCBA n
+nuoNMLK nuoIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', '*', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLJIHG nuoCCBA n
+fixed_operon_line 11 nuoNMLJIHG nuoCCBA n
+nuoNMLJIHG nuoCCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', '*', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCCEF nuoGHI nuoLMN n
+fixed_operon_line 10 nuoABCCEF nuoGHI nuoLMN n
+fixed_operon_line 17 nuoABCCEF nuoGHI nuoLMN n
+nuoABCCEF nuoGHI nuoLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', '*', 'nuoG', 'nuoH', 'nuoI', '*', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLKJIHGFE nuoCBA n
+fixed_operon_line 14 nuoNMLKJIHGFE nuoCBA n
+nuoNMLKJIHGFE nuoCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', '*', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLJIHGFE nuoCCBA n
+fixed_operon_line 13 nuoNMLJIHGFE nuoCCBA n
+nuoNMLJIHGFE nuoCCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', '*', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCCEFGHIJKLMN n
+nuoABCCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoABCCEFGHI nuoLMN n
+fixed_operon_line 13 nuoABCCEFGHI nuoLMN n
+nuoABCCEFGHI nuoLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', '*', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLK nuoIHGFECCBA n
+fixed_operon_line 8 nuoNMLK nuoIHGFECCBA n
+nuoNMLK nuoIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', '*', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCEFGHIJKLMN n
+nuoABCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCCEFGHIJLMN n
+nuoABCCEFGHIJLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLKJIHGFECCBA n
+nuoNMLKJIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCEFGHIJKLMN n
+nuoABCEFGHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNMLK nuoIHGFECCBA n
+fixed_operon_line 8 nuoNMLK nuoIHGFECCBA n
+nuoNMLK nuoIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', '*', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoABCCEFGHIJLMN n
+nuoABCCEFGHIJLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', 'nuoJ', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoABCC nuoGG nuoHIJKLMN n
+fixed_operon_line 8 nuoABCC nuoGG nuoHIJKLMN n
+fixed_operon_line 14 nuoABCC nuoGG nuoHIJKLMN n
+nuoABCC nuoGG nuoHIJKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', '*', 'nuoG', 'nuoG', '*', 'nuoH', 'nuoI', 'nuoJ', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoABCCEFGHI nuoKLMN n
+fixed_operon_line 13 nuoABCCEFGHI nuoKLMN n
+nuoABCCEFGHI nuoKLMN ['*', 'nuoA', 'nuoB', 'nuoC', 'nuoC', 'nuoE', 'nuoF', 'nuoG', 'nuoH', 'nuoI', '*', 'nuoK', 'nuoL', 'nuoM', 'nuoN']
+fixed_operon_line 0 nuoNML nuoIHGFECCBA n
+fixed_operon_line 7 nuoNML nuoIHGFECCBA n
+nuoNML nuoIHGFECCBA ['*', 'nuoN', 'nuoM', 'nuoL', '*', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoC', 'nuoB', 'nuoA']
+fixed_operon_line 0 nuoNMLKJIHGFECBA n
+nuoNMLKJIHGFECBA ['*', 'nuoN', 'nuoM', 'nuoL', 'nuoK', 'nuoJ', 'nuoI', 'nuoH', 'nuoG', 'nuoF', 'nuoE', 'nuoC', 'nuoB', 'nuoA']
+./optimized_results_proteobacteria/srlAEBD-gutM-srlR-gutQ.txt
+fixed_operon_line 0 srlBEA srlRD  gutQ s
+fixed_operon_line 7 srlBEA srlRD  gutQ s
+fixed_operon_line 13 srlBEA srlRD  gutQ  
+srlBEA srlRD  gutQ ['*', 'srlB', 'srlE', 'srlA', '*', 'srlR', 'srlD', '*', ' gut', ' guQ']
+fixed_operon_line 0 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 8 srlAEBD-gutM-srlR-gutQ g
+fixed_operon_line 13 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 18 srlAEBD-gutM-srlR-gutQ g
+srlAEBD-gutM-srlR-gutQ ['*', 'srlA', 'srlE', 'srlB', 'srlD', '*', 'gutM', '*', 'srlR', '*', 'gutQ']
+fixed_operon_line 0 srlDD gutQ srlR s
+fixed_operon_line 6 srlDD gutQ srlR g
+fixed_operon_line 11 srlDD gutQ srlR s
+srlDD gutQ srlR ['*', 'srlD', 'srlD', '*', 'gutQ', '*', 'srlR']
+fixed_operon_line 0 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 8 srlAEBD-gutM-srlR-gutQ g
+fixed_operon_line 13 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 18 srlAEBD-gutM-srlR-gutQ g
+srlAEBD-gutM-srlR-gutQ ['*', 'srlA', 'srlE', 'srlB', 'srlD', '*', 'gutM', '*', 'srlR', '*', 'gutQ']
+fixed_operon_line 0 srlDR  gutQ s
+fixed_operon_line 6 srlDR  gutQ  
+srlDR  gutQ ['*', 'srlD', 'srlR', '*', ' gut', ' guQ']
+fixed_operon_line 0 srlDD  gutQ srlR s
+fixed_operon_line 6 srlDD  gutQ srlR  
+fixed_operon_line 12 srlDD  gutQ srlR s
+srlDD  gutQ srlR ['*', 'srlD', 'srlD', '*', ' gut', ' guQ', '*', 'srlR']
+fixed_operon_line 0 srlDD gutQ srlR s
+fixed_operon_line 6 srlDD gutQ srlR g
+fixed_operon_line 11 srlDD gutQ srlR s
+srlDD gutQ srlR ['*', 'srlD', 'srlD', '*', 'gutQ', '*', 'srlR']
+fixed_operon_line 0 srlDD gutQ srlR s
+fixed_operon_line 6 srlDD gutQ srlR g
+fixed_operon_line 11 srlDD gutQ srlR s
+srlDD gutQ srlR ['*', 'srlD', 'srlD', '*', 'gutQ', '*', 'srlR']
+fixed_operon_line 0 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 8 srlAEBD-gutM-srlR-gutQ g
+fixed_operon_line 13 srlAEBD-gutM-srlR-gutQ s
+fixed_operon_line 18 srlAEBD-gutM-srlR-gutQ g
+srlAEBD-gutM-srlR-gutQ ['*', 'srlA', 'srlE', 'srlB', 'srlD', '*', 'gutM', '*', 'srlR', '*', 'gutQ']
+fixed_operon_line 0 gutM-srlDBEA gutQ srlR g
+fixed_operon_line 5 gutM-srlDBEA gutQ srlR s
+fixed_operon_line 13 gutM-srlDBEA gutQ srlR g
+fixed_operon_line 18 gutM-srlDBEA gutQ srlR s
+gutM-srlDBEA gutQ srlR ['*', 'gutM', '*', 'srlD', 'srlB', 'srlE', 'srlA', '*', 'gutQ', '*', 'srlR']
+fixed_operon_line 0 srlRD gutQ s
+fixed_operon_line 6 srlRD gutQ g
+srlRD gutQ ['*', 'srlR', 'srlD', '*', 'gutQ']
+fixed_operon_line 0 srlEBD-gutM-srlR-gutQ s
+fixed_operon_line 7 srlEBD-gutM-srlR-gutQ g
+fixed_operon_line 12 srlEBD-gutM-srlR-gutQ s
+fixed_operon_line 17 srlEBD-gutM-srlR-gutQ g
+srlEBD-gutM-srlR-gutQ ['*', 'srlE', 'srlB', 'srlD', '*', 'gutM', '*', 'srlR', '*', 'gutQ']
+./optimized_results_proteobacteria/rplKAJL-rpoBC.txt
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoC-rplLJAK rpoB r
+fixed_operon_line 5 rpoC-rplLJAK rpoB r
+fixed_operon_line 13 rpoC-rplLJAK rpoB r
+rpoC-rplLJAK rpoB ['*', 'rpoC', '*', 'rplL', 'rplJ', 'rplA', 'rplK', '*', 'rpoB']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rplKA rplJL-rpoBC r
+fixed_operon_line 6 rplKA rplJL-rpoBC r
+fixed_operon_line 12 rplKA rplJL-rpoBC r
+rplKA rplJL-rpoBC ['*', 'rplK', 'rplA', '*', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJ rplAK r
+fixed_operon_line 6 rpoCB-rplLJ rplAK r
+fixed_operon_line 12 rpoCB-rplLJ rplAK r
+rpoCB-rplLJ rplAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', '*', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJ rplAK r
+fixed_operon_line 6 rpoCB-rplLJ rplAK r
+fixed_operon_line 12 rpoCB-rplLJ rplAK r
+rpoCB-rplLJ rplAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', '*', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJ rplAK r
+fixed_operon_line 6 rpoCB-rplLJ rplAK r
+fixed_operon_line 12 rpoCB-rplLJ rplAK r
+rpoCB-rplLJ rplAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', '*', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJ rplAK r
+fixed_operon_line 6 rpoCB-rplLJ rplAK r
+fixed_operon_line 12 rpoCB-rplLJ rplAK r
+rpoCB-rplLJ rplAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', '*', 'rplA', 'rplK']
+fixed_operon_line 0 rplKAJL-rpoBC r
+fixed_operon_line 8 rplKAJL-rpoBC r
+rplKAJL-rpoBC ['*', 'rplK', 'rplA', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC']
+fixed_operon_line 0 rplJL rpoBC rplAK r
+fixed_operon_line 6 rplJL rpoBC rplAK r
+fixed_operon_line 12 rplJL rpoBC rplAK r
+rplJL rpoBC rplAK ['*', 'rplJ', 'rplL', '*', 'rpoB', 'rpoC', '*', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rplKA rplL-rpoC rpoB r
+fixed_operon_line 6 rplKA rplL-rpoC rpoB r
+fixed_operon_line 11 rplKA rplL-rpoC rpoB r
+fixed_operon_line 16 rplKA rplL-rpoC rpoB r
+rplKA rplL-rpoC rpoB ['*', 'rplK', 'rplA', '*', 'rplL', '*', 'rpoC', '*', 'rpoB']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+fixed_operon_line 0 rpoCB-rplAK rplJL r
+fixed_operon_line 6 rpoCB-rplAK rplJL r
+fixed_operon_line 12 rpoCB-rplAK rplJL r
+rpoCB-rplAK rplJL ['*', 'rpoC', 'rpoB', '*', 'rplA', 'rplK', '*', 'rplJ', 'rplL']
+fixed_operon_line 0 rpoCB-rplLJAK r
+fixed_operon_line 6 rpoCB-rplLJAK r
+rpoCB-rplLJAK ['*', 'rpoC', 'rpoB', '*', 'rplL', 'rplJ', 'rplA', 'rplK']
+./optimized_results_proteobacteria/yiaKLMNO-lyxK-sgbHUE.txt
+fixed_operon_line 0 yiaOMN sgbE lyxK yiaK y
+fixed_operon_line 7 yiaOMN sgbE lyxK yiaK s
+fixed_operon_line 12 yiaOMN sgbE lyxK yiaK l
+fixed_operon_line 17 yiaOMN sgbE lyxK yiaK y
+yiaOMN sgbE lyxK yiaK ['*', 'yiaO', 'yiaM', 'yiaN', '*', 'sgbE', '*', 'lyxK', '*', 'yiaK']
+fixed_operon_line 0 yiaLK yiaMNO-lyxK-sgbHUE y
+fixed_operon_line 6 yiaLK yiaMNO-lyxK-sgbHUE y
+fixed_operon_line 13 yiaLK yiaMNO-lyxK-sgbHUE l
+fixed_operon_line 18 yiaLK yiaMNO-lyxK-sgbHUE s
+yiaLK yiaMNO-lyxK-sgbHUE ['*', 'yiaL', 'yiaK', '*', 'yiaM', 'yiaN', 'yiaO', '*', 'lyxK', '*', 'sgbH', 'sgbU', 'sgbE']
+fixed_operon_line 0 yiaNO lyxK y
+fixed_operon_line 6 yiaNO lyxK l
+yiaNO lyxK ['*', 'yiaN', 'yiaO', '*', 'lyxK']
+fixed_operon_line 0 yiaNMO lyxK yiaK y
+fixed_operon_line 7 yiaNMO lyxK yiaK l
+fixed_operon_line 12 yiaNMO lyxK yiaK y
+yiaNMO lyxK yiaK ['*', 'yiaN', 'yiaM', 'yiaO', '*', 'lyxK', '*', 'yiaK']
+fixed_operon_line 0 yiaNMO lyxK y
+fixed_operon_line 7 yiaNMO lyxK l
+yiaNMO lyxK ['*', 'yiaN', 'yiaM', 'yiaO', '*', 'lyxK']
+fixed_operon_line 0 yiaOMN yiaL y
+fixed_operon_line 7 yiaOMN yiaL y
+yiaOMN yiaL ['*', 'yiaO', 'yiaM', 'yiaN', '*', 'yiaL']
+fixed_operon_line 0 yiaNMO lyxK yiaL y
+fixed_operon_line 7 yiaNMO lyxK yiaL l
+fixed_operon_line 12 yiaNMO lyxK yiaL y
+yiaNMO lyxK yiaL ['*', 'yiaN', 'yiaM', 'yiaO', '*', 'lyxK', '*', 'yiaL']
+fixed_operon_line 0 yiaOMN y
+yiaOMN ['*', 'yiaO', 'yiaM', 'yiaN']
+fixed_operon_line 0 yiaNM sgbE-yiaO lyxK yiaK y
+fixed_operon_line 6 yiaNM sgbE-yiaO lyxK yiaK s
+fixed_operon_line 11 yiaNM sgbE-yiaO lyxK yiaK y
+fixed_operon_line 16 yiaNM sgbE-yiaO lyxK yiaK l
+fixed_operon_line 21 yiaNM sgbE-yiaO lyxK yiaK y
+yiaNM sgbE-yiaO lyxK yiaK ['*', 'yiaN', 'yiaM', '*', 'sgbE', '*', 'yiaO', '*', 'lyxK', '*', 'yiaK']
+fixed_operon_line 0 sgbEUH-lyxK yiaNM yiaLK s
+fixed_operon_line 7 sgbEUH-lyxK yiaNM yiaLK l
+fixed_operon_line 12 sgbEUH-lyxK yiaNM yiaLK y
+fixed_operon_line 18 sgbEUH-lyxK yiaNM yiaLK y
+sgbEUH-lyxK yiaNM yiaLK ['*', 'sgbE', 'sgbU', 'sgbH', '*', 'lyxK', '*', 'yiaN', 'yiaM', '*', 'yiaL', 'yiaK']
+fixed_operon_line 0 yiaON lyxKK sgbE yiaK yiaM y
+fixed_operon_line 6 yiaON lyxKK sgbE yiaK yiaM l
+fixed_operon_line 12 yiaON lyxKK sgbE yiaK yiaM s
+fixed_operon_line 17 yiaON lyxKK sgbE yiaK yiaM y
+fixed_operon_line 22 yiaON lyxKK sgbE yiaK yiaM y
+yiaON lyxKK sgbE yiaK yiaM ['*', 'yiaO', 'yiaN', '*', 'lyxK', 'lyxK', '*', 'sgbE', '*', 'yiaK', '*', 'yiaM']
+fixed_operon_line 0 yiaOMN lyxK y
+fixed_operon_line 7 yiaOMN lyxK l
+yiaOMN lyxK ['*', 'yiaO', 'yiaM', 'yiaN', '*', 'lyxK']
+fixed_operon_line 0 yiaONM sgbE lyxK sgbH yiaK sgbU y
+fixed_operon_line 7 yiaONM sgbE lyxK sgbH yiaK sgbU s
+fixed_operon_line 12 yiaONM sgbE lyxK sgbH yiaK sgbU l
+fixed_operon_line 17 yiaONM sgbE lyxK sgbH yiaK sgbU s
+fixed_operon_line 22 yiaONM sgbE lyxK sgbH yiaK sgbU y
+fixed_operon_line 27 yiaONM sgbE lyxK sgbH yiaK sgbU s
+yiaONM sgbE lyxK sgbH yiaK sgbU ['*', 'yiaO', 'yiaN', 'yiaM', '*', 'sgbE', '*', 'lyxK', '*', 'sgbH', '*', 'yiaK', '*', 'sgbU']
+fixed_operon_line 0 yiaO-sgbE yiaMNO lyxK yiaK y
+fixed_operon_line 5 yiaO-sgbE yiaMNO lyxK yiaK s
+fixed_operon_line 10 yiaO-sgbE yiaMNO lyxK yiaK y
+fixed_operon_line 17 yiaO-sgbE yiaMNO lyxK yiaK l
+fixed_operon_line 22 yiaO-sgbE yiaMNO lyxK yiaK y
+yiaO-sgbE yiaMNO lyxK yiaK ['*', 'yiaO', '*', 'sgbE', '*', 'yiaM', 'yiaN', 'yiaO', '*', 'lyxK', '*', 'yiaK']
+fixed_operon_line 0 yiaOMN yiaO-sgbE yiaK lyxK y
+fixed_operon_line 7 yiaOMN yiaO-sgbE yiaK lyxK y
+fixed_operon_line 12 yiaOMN yiaO-sgbE yiaK lyxK s
+fixed_operon_line 17 yiaOMN yiaO-sgbE yiaK lyxK y
+fixed_operon_line 22 yiaOMN yiaO-sgbE yiaK lyxK l
+yiaOMN yiaO-sgbE yiaK lyxK ['*', 'yiaO', 'yiaM', 'yiaN', '*', 'yiaO', '*', 'sgbE', '*', 'yiaK', '*', 'lyxK']
+fixed_operon_line 0 yiaKLMNO-lyxK-sgbHUE y
+fixed_operon_line 9 yiaKLMNO-lyxK-sgbHUE l
+fixed_operon_line 14 yiaKLMNO-lyxK-sgbHUE s
+yiaKLMNO-lyxK-sgbHUE ['*', 'yiaK', 'yiaL', 'yiaM', 'yiaN', 'yiaO', '*', 'lyxK', '*', 'sgbH', 'sgbU', 'sgbE']
+fixed_operon_line 0 sgbU-lyxK sgbE yiaL yiaO yiaN s
+fixed_operon_line 5 sgbU-lyxK sgbE yiaL yiaO yiaN l
+fixed_operon_line 10 sgbU-lyxK sgbE yiaL yiaO yiaN s
+fixed_operon_line 15 sgbU-lyxK sgbE yiaL yiaO yiaN y
+fixed_operon_line 20 sgbU-lyxK sgbE yiaL yiaO yiaN y
+fixed_operon_line 25 sgbU-lyxK sgbE yiaL yiaO yiaN y
+sgbU-lyxK sgbE yiaL yiaO yiaN ['*', 'sgbU', '*', 'lyxK', '*', 'sgbE', '*', 'yiaL', '*', 'yiaO', '*', 'yiaN']
+fixed_operon_line 0 sgbEUH-lyxK yiaONMLK s
+fixed_operon_line 7 sgbEUH-lyxK yiaONMLK l
+fixed_operon_line 12 sgbEUH-lyxK yiaONMLK y
+sgbEUH-lyxK yiaONMLK ['*', 'sgbE', 'sgbU', 'sgbH', '*', 'lyxK', '*', 'yiaO', 'yiaN', 'yiaM', 'yiaL', 'yiaK']
+fixed_operon_line 0 yiaON sgbU lyxK y
+fixed_operon_line 6 yiaON sgbU lyxK s
+fixed_operon_line 11 yiaON sgbU lyxK l
+yiaON sgbU lyxK ['*', 'yiaO', 'yiaN', '*', 'sgbU', '*', 'lyxK']
+fixed_operon_line 0 yiaMNO lyxK yiaK y
+fixed_operon_line 7 yiaMNO lyxK yiaK l
+fixed_operon_line 12 yiaMNO lyxK yiaK y
+yiaMNO lyxK yiaK ['*', 'yiaM', 'yiaN', 'yiaO', '*', 'lyxK', '*', 'yiaK']
+fixed_operon_line 0 yiaOMN yiaL y
+fixed_operon_line 7 yiaOMN yiaL y
+yiaOMN yiaL ['*', 'yiaO', 'yiaM', 'yiaN', '*', 'yiaL']
+fixed_operon_line 0 yiaNO lyxK y
+fixed_operon_line 6 yiaNO lyxK l
+yiaNO lyxK ['*', 'yiaN', 'yiaO', '*', 'lyxK']
+fixed_operon_line 0 sgbHEU-lyxK-yiaONMK yiaL s
+fixed_operon_line 7 sgbHEU-lyxK-yiaONMK yiaL l
+fixed_operon_line 12 sgbHEU-lyxK-yiaONMK yiaL y
+fixed_operon_line 20 sgbHEU-lyxK-yiaONMK yiaL y
+sgbHEU-lyxK-yiaONMK yiaL ['*', 'sgbH', 'sgbE', 'sgbU', '*', 'lyxK', '*', 'yiaO', 'yiaN', 'yiaM', 'yiaK', '*', 'yiaL']
+fixed_operon_line 0 yiaOOM sgbHUE lyxK yiaN yiaK yiaL y
+fixed_operon_line 7 yiaOOM sgbHUE lyxK yiaN yiaK yiaL s
+fixed_operon_line 14 yiaOOM sgbHUE lyxK yiaN yiaK yiaL l
+fixed_operon_line 19 yiaOOM sgbHUE lyxK yiaN yiaK yiaL y
+fixed_operon_line 24 yiaOOM sgbHUE lyxK yiaN yiaK yiaL y
+fixed_operon_line 29 yiaOOM sgbHUE lyxK yiaN yiaK yiaL y
+yiaOOM sgbHUE lyxK yiaN yiaK yiaL ['*', 'yiaO', 'yiaO', 'yiaM', '*', 'sgbH', 'sgbU', 'sgbE', '*', 'lyxK', '*', 'yiaN', '*', 'yiaK', '*', 'yiaL']
+./optimized_results_proteobacteria/atpIBEFHAGDC.txt
+fixed_operon_line 0 atpCDGA atpB a
+fixed_operon_line 8 atpCDGA atpB a
+atpCDGA atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', '*', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEBI a
+atpCDGAHFEBI ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB', 'atpI']
+fixed_operon_line 0 atpCDGAH atpB a
+fixed_operon_line 9 atpCDGAH atpB a
+atpCDGAH atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', '*', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpIBEFHAGDC a
+atpIBEFHAGDC ['*', 'atpI', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpAGDC atpB a
+fixed_operon_line 8 atpAGDC atpB a
+atpAGDC atpB ['*', 'atpA', 'atpG', 'atpD', 'atpC', '*', 'atpB']
+fixed_operon_line 0 atpAGDC atpB a
+fixed_operon_line 8 atpAGDC atpB a
+atpAGDC atpB ['*', 'atpA', 'atpG', 'atpD', 'atpC', '*', 'atpB']
+fixed_operon_line 0 atpIBEFHAGDC a
+atpIBEFHAGDC ['*', 'atpI', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGA atpB a
+fixed_operon_line 8 atpCDGA atpB a
+atpCDGA atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', '*', 'atpB']
+fixed_operon_line 0 atpCDGAHFEBI a
+atpCDGAHFEBI ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB', 'atpI']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEBI a
+atpCDGAHFEBI ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB', 'atpI']
+fixed_operon_line 0 atpCDGAH atpB a
+fixed_operon_line 9 atpCDGAH atpB a
+atpCDGAH atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', '*', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAHFEBI a
+atpCDGAHFEBI ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB', 'atpI']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGAHFEBI a
+atpCDGAHFEBI ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB', 'atpI']
+fixed_operon_line 0 atpBEFHAGDC a
+atpBEFHAGDC ['*', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpCDGAH atpB a
+fixed_operon_line 9 atpCDGAH atpB a
+atpCDGAH atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', '*', 'atpB']
+fixed_operon_line 0 atpCDGA atpB a
+fixed_operon_line 8 atpCDGA atpB a
+atpCDGA atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', '*', 'atpB']
+fixed_operon_line 0 atpAGDC atpB a
+fixed_operon_line 8 atpAGDC atpB a
+atpAGDC atpB ['*', 'atpA', 'atpG', 'atpD', 'atpC', '*', 'atpB']
+fixed_operon_line 0 atpCDGAH atpB a
+fixed_operon_line 9 atpCDGAH atpB a
+atpCDGAH atpB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', '*', 'atpB']
+fixed_operon_line 0 atpCDGAHFEB a
+atpCDGAHFEB ['*', 'atpC', 'atpD', 'atpG', 'atpA', 'atpH', 'atpF', 'atpE', 'atpB']
+fixed_operon_line 0 atpIBEFHAGDC a
+atpIBEFHAGDC ['*', 'atpI', 'atpB', 'atpE', 'atpF', 'atpH', 'atpA', 'atpG', 'atpD', 'atpC']
+./optimized_results_proteobacteria/trpLEDCBA.txt
+fixed_operon_line 0 trpDC trpCBA trpE t
+fixed_operon_line 6 trpDC trpCBA trpE t
+fixed_operon_line 13 trpDC trpCBA trpE t
+trpDC trpCBA trpE ['*', 'trpD', 'trpC', '*', 'trpC', 'trpB', 'trpA', '*', 'trpE']
+fixed_operon_line 0 trpAB trpDDC trpED t
+fixed_operon_line 6 trpAB trpDDC trpED t
+fixed_operon_line 13 trpAB trpDDC trpED t
+trpAB trpDDC trpED ['*', 'trpA', 'trpB', '*', 'trpD', 'trpD', 'trpC', '*', 'trpE', 'trpD']
+fixed_operon_line 0 trpEDCBA t
+trpEDCBA ['*', 'trpE', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpDC trpABC trpE t
+fixed_operon_line 6 trpDC trpABC trpE t
+fixed_operon_line 13 trpDC trpABC trpE t
+trpDC trpABC trpE ['*', 'trpD', 'trpC', '*', 'trpA', 'trpB', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpDD trpB trpC trpA trpE t
+fixed_operon_line 6 trpDD trpB trpC trpA trpE t
+fixed_operon_line 11 trpDD trpB trpC trpA trpE t
+fixed_operon_line 16 trpDD trpB trpC trpA trpE t
+fixed_operon_line 21 trpDD trpB trpC trpA trpE t
+trpDD trpB trpC trpA trpE ['*', 'trpD', 'trpD', '*', 'trpB', '*', 'trpC', '*', 'trpA', '*', 'trpE']
+fixed_operon_line 0 trpAB trpDDC trpE t
+fixed_operon_line 6 trpAB trpDDC trpE t
+fixed_operon_line 13 trpAB trpDDC trpE t
+trpAB trpDDC trpE ['*', 'trpA', 'trpB', '*', 'trpD', 'trpD', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpDD trpABC trpE t
+fixed_operon_line 6 trpDD trpABC trpE t
+fixed_operon_line 13 trpDD trpABC trpE t
+trpDD trpABC trpE ['*', 'trpD', 'trpD', '*', 'trpA', 'trpB', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpBC trpEDDC trpA t
+fixed_operon_line 6 trpBC trpEDDC trpA t
+fixed_operon_line 14 trpBC trpEDDC trpA t
+trpBC trpEDDC trpA ['*', 'trpB', 'trpC', '*', 'trpE', 'trpD', 'trpD', 'trpC', '*', 'trpA']
+fixed_operon_line 0 trpEDDCBA t
+trpEDDCBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpEDDCBA t
+trpEDDCBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpDE trpAB t
+fixed_operon_line 6 trpDE trpAB t
+trpDE trpAB ['*', 'trpD', 'trpE', '*', 'trpA', 'trpB']
+fixed_operon_line 0 trpAB trpEDDC t
+fixed_operon_line 6 trpAB trpEDDC t
+trpAB trpEDDC ['*', 'trpA', 'trpB', '*', 'trpE', 'trpD', 'trpD', 'trpC']
+fixed_operon_line 0 trpEDCBA t
+trpEDCBA ['*', 'trpE', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpABCDE t
+trpABCDE ['*', 'trpA', 'trpB', 'trpC', 'trpD', 'trpE']
+fixed_operon_line 0 trpCBA trpDC trpE t
+fixed_operon_line 7 trpCBA trpDC trpE t
+fixed_operon_line 13 trpCBA trpDC trpE t
+trpCBA trpDC trpE ['*', 'trpC', 'trpB', 'trpA', '*', 'trpD', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpEDDCBA t
+trpEDDCBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpDC trpAB trpE t
+fixed_operon_line 6 trpDC trpAB trpE t
+fixed_operon_line 12 trpDC trpAB trpE t
+trpDC trpAB trpE ['*', 'trpD', 'trpC', '*', 'trpA', 'trpB', '*', 'trpE']
+fixed_operon_line 0 trpEDDCBA t
+trpEDDCBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpCBA trpDE t
+fixed_operon_line 7 trpCBA trpDE t
+trpCBA trpDE ['*', 'trpC', 'trpB', 'trpA', '*', 'trpD', 'trpE']
+fixed_operon_line 0 trpCDDE trpBA t
+fixed_operon_line 8 trpCDDE trpBA t
+trpCDDE trpBA ['*', 'trpC', 'trpD', 'trpD', 'trpE', '*', 'trpB', 'trpA']
+fixed_operon_line 0 trpEDDC trpBA t
+fixed_operon_line 8 trpEDDC trpBA t
+trpEDDC trpBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', '*', 'trpB', 'trpA']
+fixed_operon_line 0 trpAB trpEDDC t
+fixed_operon_line 6 trpAB trpEDDC t
+trpAB trpEDDC ['*', 'trpA', 'trpB', '*', 'trpE', 'trpD', 'trpD', 'trpC']
+fixed_operon_line 0 trpCD trpA t
+fixed_operon_line 6 trpCD trpA t
+trpCD trpA ['*', 'trpC', 'trpD', '*', 'trpA']
+fixed_operon_line 0 trpEDDCBA t
+trpEDDCBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', 'trpB', 'trpA']
+fixed_operon_line 0 trpDC trpB trpA trpE t
+fixed_operon_line 6 trpDC trpB trpA trpE t
+fixed_operon_line 11 trpDC trpB trpA trpE t
+fixed_operon_line 16 trpDC trpB trpA trpE t
+trpDC trpB trpA trpE ['*', 'trpD', 'trpC', '*', 'trpB', '*', 'trpA', '*', 'trpE']
+fixed_operon_line 0 trpABCDE t
+trpABCDE ['*', 'trpA', 'trpB', 'trpC', 'trpD', 'trpE']
+fixed_operon_line 0 trpCDD trpCBA trpE t
+fixed_operon_line 7 trpCDD trpCBA trpE t
+fixed_operon_line 14 trpCDD trpCBA trpE t
+trpCDD trpCBA trpE ['*', 'trpC', 'trpD', 'trpD', '*', 'trpC', 'trpB', 'trpA', '*', 'trpE']
+fixed_operon_line 0 trpABCDDE t
+trpABCDDE ['*', 'trpA', 'trpB', 'trpC', 'trpD', 'trpD', 'trpE']
+fixed_operon_line 0 trpAB trpCD trpDE t
+fixed_operon_line 6 trpAB trpCD trpDE t
+fixed_operon_line 12 trpAB trpCD trpDE t
+trpAB trpCD trpDE ['*', 'trpA', 'trpB', '*', 'trpC', 'trpD', '*', 'trpD', 'trpE']
+fixed_operon_line 0 trpBA trpDDC trpE t
+fixed_operon_line 6 trpBA trpDDC trpE t
+fixed_operon_line 13 trpBA trpDDC trpE t
+trpBA trpDDC trpE ['*', 'trpB', 'trpA', '*', 'trpD', 'trpD', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpEDDC trpABC t
+fixed_operon_line 8 trpEDDC trpABC t
+trpEDDC trpABC ['*', 'trpE', 'trpD', 'trpD', 'trpC', '*', 'trpA', 'trpB', 'trpC']
+fixed_operon_line 0 trpCBA trpDC trpE t
+fixed_operon_line 7 trpCBA trpDC trpE t
+fixed_operon_line 13 trpCBA trpDC trpE t
+trpCBA trpDC trpE ['*', 'trpC', 'trpB', 'trpA', '*', 'trpD', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpDC trpABC trpE t
+fixed_operon_line 6 trpDC trpABC trpE t
+fixed_operon_line 13 trpDC trpABC trpE t
+trpDC trpABC trpE ['*', 'trpD', 'trpC', '*', 'trpA', 'trpB', 'trpC', '*', 'trpE']
+fixed_operon_line 0 trpEDDC trpBA t
+fixed_operon_line 8 trpEDDC trpBA t
+trpEDDC trpBA ['*', 'trpE', 'trpD', 'trpD', 'trpC', '*', 'trpB', 'trpA']
+fixed_operon_line 0 trpABCDE t
+trpABCDE ['*', 'trpA', 'trpB', 'trpC', 'trpD', 'trpE']
+./optimized_results_proteobacteria/fecABCDE.txt
+fixed_operon_line 0 fecED fecC fecA f
+fixed_operon_line 6 fecED fecC fecA f
+fixed_operon_line 11 fecED fecC fecA f
+fecED fecC fecA ['*', 'fecE', 'fecD', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecEE fecCD fecA f
+fixed_operon_line 6 fecEE fecCD fecA f
+fixed_operon_line 12 fecEE fecCD fecA f
+fecEE fecCD fecA ['*', 'fecE', 'fecE', '*', 'fecC', 'fecD', '*', 'fecA']
+fixed_operon_line 0 fecEC fecD fecA f
+fixed_operon_line 6 fecEC fecD fecA f
+fixed_operon_line 11 fecEC fecD fecA f
+fecEC fecD fecA ['*', 'fecE', 'fecC', '*', 'fecD', '*', 'fecA']
+fixed_operon_line 0 fecED fecABE fecEC f
+fixed_operon_line 6 fecED fecABE fecEC f
+fixed_operon_line 13 fecED fecABE fecEC f
+fecED fecABE fecEC ['*', 'fecE', 'fecD', '*', 'fecA', 'fecB', 'fecE', '*', 'fecE', 'fecC']
+fixed_operon_line 0 fecEDC fecB fecA f
+fixed_operon_line 7 fecEDC fecB fecA f
+fixed_operon_line 12 fecEDC fecB fecA f
+fecEDC fecB fecA ['*', 'fecE', 'fecD', 'fecC', '*', 'fecB', '*', 'fecA']
+fixed_operon_line 0 fecECA fecD fecB f
+fixed_operon_line 7 fecECA fecD fecB f
+fixed_operon_line 12 fecECA fecD fecB f
+fecECA fecD fecB ['*', 'fecE', 'fecC', 'fecA', '*', 'fecD', '*', 'fecB']
+fixed_operon_line 0 fecCBEAE fecED f
+fixed_operon_line 9 fecCBEAE fecED f
+fecCBEAE fecED ['*', 'fecC', 'fecB', 'fecE', 'fecA', 'fecE', '*', 'fecE', 'fecD']
+fixed_operon_line 0 fecED fecC fecA f
+fixed_operon_line 6 fecED fecC fecA f
+fixed_operon_line 11 fecED fecC fecA f
+fecED fecC fecA ['*', 'fecE', 'fecD', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecEE fecA f
+fixed_operon_line 6 fecEE fecA f
+fecEE fecA ['*', 'fecE', 'fecE', '*', 'fecA']
+fixed_operon_line 0 fecACEB fecD f
+fixed_operon_line 8 fecACEB fecD f
+fecACEB fecD ['*', 'fecA', 'fecC', 'fecE', 'fecB', '*', 'fecD']
+fixed_operon_line 0 fecEDC fecB fecA f
+fixed_operon_line 7 fecEDC fecB fecA f
+fixed_operon_line 12 fecEDC fecB fecA f
+fecEDC fecB fecA ['*', 'fecE', 'fecD', 'fecC', '*', 'fecB', '*', 'fecA']
+fixed_operon_line 0 fecAE fecEDC fecB f
+fixed_operon_line 6 fecAE fecEDC fecB f
+fixed_operon_line 13 fecAE fecEDC fecB f
+fecAE fecEDC fecB ['*', 'fecA', 'fecE', '*', 'fecE', 'fecD', 'fecC', '*', 'fecB']
+fixed_operon_line 0 fecDE fecC fecA f
+fixed_operon_line 6 fecDE fecC fecA f
+fixed_operon_line 11 fecDE fecC fecA f
+fecDE fecC fecA ['*', 'fecD', 'fecE', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecDE fecC fecA f
+fixed_operon_line 6 fecDE fecC fecA f
+fixed_operon_line 11 fecDE fecC fecA f
+fecDE fecC fecA ['*', 'fecD', 'fecE', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecED fecAA fecC f
+fixed_operon_line 6 fecED fecAA fecC f
+fixed_operon_line 12 fecED fecAA fecC f
+fecED fecAA fecC ['*', 'fecE', 'fecD', '*', 'fecA', 'fecA', '*', 'fecC']
+fixed_operon_line 0 fecEE fecAA f
+fixed_operon_line 6 fecEE fecAA f
+fecEE fecAA ['*', 'fecE', 'fecE', '*', 'fecA', 'fecA']
+fixed_operon_line 0 fecED fecC fecA f
+fixed_operon_line 6 fecED fecC fecA f
+fixed_operon_line 11 fecED fecC fecA f
+fecED fecC fecA ['*', 'fecE', 'fecD', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecDE fecC fecA f
+fixed_operon_line 6 fecDE fecC fecA f
+fixed_operon_line 11 fecDE fecC fecA f
+fecDE fecC fecA ['*', 'fecD', 'fecE', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecED fecC fecA f
+fixed_operon_line 6 fecED fecC fecA f
+fixed_operon_line 11 fecED fecC fecA f
+fecED fecC fecA ['*', 'fecE', 'fecD', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecDE fecC fecA f
+fixed_operon_line 6 fecDE fecC fecA f
+fixed_operon_line 11 fecDE fecC fecA f
+fecDE fecC fecA ['*', 'fecD', 'fecE', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecEA f
+fecEA ['*', 'fecE', 'fecA']
+fixed_operon_line 0 fecAA fecDE fecC f
+fixed_operon_line 6 fecAA fecDE fecC f
+fixed_operon_line 12 fecAA fecDE fecC f
+fecAA fecDE fecC ['*', 'fecA', 'fecA', '*', 'fecD', 'fecE', '*', 'fecC']
+fixed_operon_line 0 fecEE f
+fecEE ['*', 'fecE', 'fecE']
+fixed_operon_line 0 fecAA fecE f
+fixed_operon_line 6 fecAA fecE f
+fecAA fecE ['*', 'fecA', 'fecA', '*', 'fecE']
+fixed_operon_line 0 fecEDCBA f
+fecEDCBA ['*', 'fecE', 'fecD', 'fecC', 'fecB', 'fecA']
+fixed_operon_line 0 fecAA fecE f
+fixed_operon_line 6 fecAA fecE f
+fecAA fecE ['*', 'fecA', 'fecA', '*', 'fecE']
+fixed_operon_line 0 fecDEA fecECDB f
+fixed_operon_line 7 fecDEA fecECDB f
+fecDEA fecECDB ['*', 'fecD', 'fecE', 'fecA', '*', 'fecE', 'fecC', 'fecD', 'fecB']
+fixed_operon_line 0 fecEDCB fecA f
+fixed_operon_line 8 fecEDCB fecA f
+fecEDCB fecA ['*', 'fecE', 'fecD', 'fecC', 'fecB', '*', 'fecA']
+fixed_operon_line 0 fecEDCB fecAA f
+fixed_operon_line 8 fecEDCB fecAA f
+fecEDCB fecAA ['*', 'fecE', 'fecD', 'fecC', 'fecB', '*', 'fecA', 'fecA']
+fixed_operon_line 0 fecDE fecAE fecC f
+fixed_operon_line 6 fecDE fecAE fecC f
+fixed_operon_line 12 fecDE fecAE fecC f
+fecDE fecAE fecC ['*', 'fecD', 'fecE', '*', 'fecA', 'fecE', '*', 'fecC']
+fixed_operon_line 0 fecBDCE fecA f
+fixed_operon_line 8 fecBDCE fecA f
+fecBDCE fecA ['*', 'fecB', 'fecD', 'fecC', 'fecE', '*', 'fecA']
+fixed_operon_line 0 fecDE fecC fecA f
+fixed_operon_line 6 fecDE fecC fecA f
+fixed_operon_line 11 fecDE fecC fecA f
+fecDE fecC fecA ['*', 'fecD', 'fecE', '*', 'fecC', '*', 'fecA']
+fixed_operon_line 0 fecEC fecD fecA f
+fixed_operon_line 6 fecEC fecD fecA f
+fixed_operon_line 11 fecEC fecD fecA f
+fecEC fecD fecA ['*', 'fecE', 'fecC', '*', 'fecD', '*', 'fecA']
+fixed_operon_line 0 fecAE fecEDC fecEDB f
+fixed_operon_line 6 fecAE fecEDC fecEDB f
+fixed_operon_line 13 fecAE fecEDC fecEDB f
+fecAE fecEDC fecEDB ['*', 'fecA', 'fecE', '*', 'fecE', 'fecD', 'fecC', '*', 'fecE', 'fecD', 'fecB']
+./optimized_results_proteobacteria/ivbL-ilvBN-uhpABC.txt
+fixed_operon_line 0 uhpAB ilvB u
+fixed_operon_line 6 uhpAB ilvB i
+uhpAB ilvB ['*', 'uhpA', 'uhpB', '*', 'ilvB']
+fixed_operon_line 0 uhpCB A ilvNB u
+fixed_operon_line 6 uhpCB A ilvNB A
+uhpCB A ilvNB ['*', 'uhpC', 'uhpB', '*', 'A il', 'A iv', 'A iN', 'A iB']
+fixed_operon_line 0 ilvBN uhpCCBA i
+fixed_operon_line 6 ilvBN uhpCCBA u
+ilvBN uhpCCBA ['*', 'ilvB', 'ilvN', '*', 'uhpC', 'uhpC', 'uhpB', 'uhpA']
+fixed_operon_line 0 uhpBA ilvNB uhpC u
+fixed_operon_line 6 uhpBA ilvNB uhpC i
+fixed_operon_line 12 uhpBA ilvNB uhpC u
+uhpBA ilvNB uhpC ['*', 'uhpB', 'uhpA', '*', 'ilvN', 'ilvB', '*', 'uhpC']
+fixed_operon_line 0 ilvBN uhpC uhpA i
+fixed_operon_line 6 ilvBN uhpC uhpA u
+fixed_operon_line 11 ilvBN uhpC uhpA u
+ilvBN uhpC uhpA ['*', 'ilvB', 'ilvN', '*', 'uhpC', '*', 'uhpA']
+fixed_operon_line 0 ilvBN uhpAB i
+fixed_operon_line 6 ilvBN uhpAB u
+ilvBN uhpAB ['*', 'ilvB', 'ilvN', '*', 'uhpA', 'uhpB']
+fixed_operon_line 0 ilvNB uhpBA i
+fixed_operon_line 6 ilvNB uhpBA u
+ilvNB uhpBA ['*', 'ilvN', 'ilvB', '*', 'uhpB', 'uhpA']
+fixed_operon_line 0 ilvNB uhpC uhpA i
+fixed_operon_line 6 ilvNB uhpC uhpA u
+fixed_operon_line 11 ilvNB uhpC uhpA u
+ilvNB uhpC uhpA ['*', 'ilvN', 'ilvB', '*', 'uhpC', '*', 'uhpA']
+fixed_operon_line 0 ilvBN uhpABCC i
+fixed_operon_line 6 ilvBN uhpABCC u
+ilvBN uhpABCC ['*', 'ilvB', 'ilvN', '*', 'uhpA', 'uhpB', 'uhpC', 'uhpC']
+fixed_operon_line 0 uhpBA ilvNB uhpC u
+fixed_operon_line 6 uhpBA ilvNB uhpC i
+fixed_operon_line 12 uhpBA ilvNB uhpC u
+uhpBA ilvNB uhpC ['*', 'uhpB', 'uhpA', '*', 'ilvN', 'ilvB', '*', 'uhpC']
+fixed_operon_line 0 ilvNB uhpA i
+fixed_operon_line 6 ilvNB uhpA u
+ilvNB uhpA ['*', 'ilvN', 'ilvB', '*', 'uhpA']
+fixed_operon_line 0 ilvBN uhpAB uhpC i
+fixed_operon_line 6 ilvBN uhpAB uhpC u
+fixed_operon_line 12 ilvBN uhpAB uhpC u
+ilvBN uhpAB uhpC ['*', 'ilvB', 'ilvN', '*', 'uhpA', 'uhpB', '*', 'uhpC']
+fixed_operon_line 0 uhpBA uhpC ilvB u
+fixed_operon_line 6 uhpBA uhpC ilvB u
+fixed_operon_line 11 uhpBA uhpC ilvB i
+uhpBA uhpC ilvB ['*', 'uhpB', 'uhpA', '*', 'uhpC', '*', 'ilvB']
+fixed_operon_line 0 uhpAB ilvNB u
+fixed_operon_line 6 uhpAB ilvNB i
+uhpAB ilvNB ['*', 'uhpA', 'uhpB', '*', 'ilvN', 'ilvB']
+fixed_operon_line 0 uhpBA  ilvBB uhpC ilvN u
+fixed_operon_line 6 uhpBA  ilvBB uhpC ilvN  
+fixed_operon_line 13 uhpBA  ilvBB uhpC ilvN u
+fixed_operon_line 18 uhpBA  ilvBB uhpC ilvN i
+uhpBA  ilvBB uhpC ilvN ['*', 'uhpB', 'uhpA', '*', ' ilv', ' ilB', ' ilB', '*', 'uhpC', '*', 'ilvN']
+fixed_operon_line 0 ilvNB uhpC uhpB uhpA i
+fixed_operon_line 6 ilvNB uhpC uhpB uhpA u
+fixed_operon_line 11 ilvNB uhpC uhpB uhpA u
+fixed_operon_line 16 ilvNB uhpC uhpB uhpA u
+ilvNB uhpC uhpB uhpA ['*', 'ilvN', 'ilvB', '*', 'uhpC', '*', 'uhpB', '*', 'uhpA']
+fixed_operon_line 0 ilvBN uhpA i
+fixed_operon_line 6 ilvBN uhpA u
+ilvBN uhpA ['*', 'ilvB', 'ilvN', '*', 'uhpA']
+fixed_operon_line 0 uhpAA ilvB u
+fixed_operon_line 6 uhpAA ilvB i
+uhpAA ilvB ['*', 'uhpA', 'uhpA', '*', 'ilvB']
+fixed_operon_line 0 ilvNB uhpC uhpB uhpA i
+fixed_operon_line 6 ilvNB uhpC uhpB uhpA u
+fixed_operon_line 11 ilvNB uhpC uhpB uhpA u
+fixed_operon_line 16 ilvNB uhpC uhpB uhpA u
+ilvNB uhpC uhpB uhpA ['*', 'ilvN', 'ilvB', '*', 'uhpC', '*', 'uhpB', '*', 'uhpA']
+fixed_operon_line 0 ilvNB i
+ilvNB ['*', 'ilvN', 'ilvB']
+fixed_operon_line 0 uhpBA uhpC ilvB u
+fixed_operon_line 6 uhpBA uhpC ilvB u
+fixed_operon_line 11 uhpBA uhpC ilvB i
+uhpBA uhpC ilvB ['*', 'uhpB', 'uhpA', '*', 'uhpC', '*', 'ilvB']
+fixed_operon_line 0 uhpCCBA-ilvNB-ivbL u
+fixed_operon_line 8 uhpCCBA-ilvNB-ivbL i
+fixed_operon_line 14 uhpCCBA-ilvNB-ivbL i
+uhpCCBA-ilvNB-ivbL ['*', 'uhpC', 'uhpC', 'uhpB', 'uhpA', '*', 'ilvN', 'ilvB', '*', 'ivbL']
+fixed_operon_line 0 ilvNB uhpB uhpA i
+fixed_operon_line 6 ilvNB uhpB uhpA u
+fixed_operon_line 11 ilvNB uhpB uhpA u
+ilvNB uhpB uhpA ['*', 'ilvN', 'ilvB', '*', 'uhpB', '*', 'uhpA']
+fixed_operon_line 0 ilvBN uhpC uhpB uhpA i
+fixed_operon_line 6 ilvBN uhpC uhpB uhpA u
+fixed_operon_line 11 ilvBN uhpC uhpB uhpA u
+fixed_operon_line 16 ilvBN uhpC uhpB uhpA u
+ilvBN uhpC uhpB uhpA ['*', 'ilvB', 'ilvN', '*', 'uhpC', '*', 'uhpB', '*', 'uhpA']
+fixed_operon_line 0 ilvNB uhpCBAC i
+fixed_operon_line 6 ilvNB uhpCBAC u
+ilvNB uhpCBAC ['*', 'ilvN', 'ilvB', '*', 'uhpC', 'uhpB', 'uhpA', 'uhpC']
+fixed_operon_line 0 uhpBA ilvBN uhpC u
+fixed_operon_line 6 uhpBA ilvBN uhpC i
+fixed_operon_line 12 uhpBA ilvBN uhpC u
+uhpBA ilvBN uhpC ['*', 'uhpB', 'uhpA', '*', 'ilvB', 'ilvN', '*', 'uhpC']
+fixed_operon_line 0 uhpAA ilvBN uhpC u
+fixed_operon_line 6 uhpAA ilvBN uhpC i
+fixed_operon_line 12 uhpAA ilvBN uhpC u
+uhpAA ilvBN uhpC ['*', 'uhpA', 'uhpA', '*', 'ilvB', 'ilvN', '*', 'uhpC']
+fixed_operon_line 0 ilvNB uhpC uhpA i
+fixed_operon_line 6 ilvNB uhpC uhpA u
+fixed_operon_line 11 ilvNB uhpC uhpA u
+ilvNB uhpC uhpA ['*', 'ilvN', 'ilvB', '*', 'uhpC', '*', 'uhpA']
+fixed_operon_line 0 ilvNB uhpA i
+fixed_operon_line 6 ilvNB uhpA u
+ilvNB uhpA ['*', 'ilvN', 'ilvB', '*', 'uhpA']
+fixed_operon_line 0 uhpBA uhpC ilvB u
+fixed_operon_line 6 uhpBA uhpC ilvB u
+fixed_operon_line 11 uhpBA uhpC ilvB i
+uhpBA uhpC ilvB ['*', 'uhpB', 'uhpA', '*', 'uhpC', '*', 'ilvB']
+fixed_operon_line 0 ilvNB uhpC uhpA i
+fixed_operon_line 6 ilvNB uhpC uhpA u
+fixed_operon_line 11 ilvNB uhpC uhpA u
+ilvNB uhpC uhpA ['*', 'ilvN', 'ilvB', '*', 'uhpC', '*', 'uhpA']
+fixed_operon_line 0 uhpCCBA-ilvNB-ivbL u
+fixed_operon_line 8 uhpCCBA-ilvNB-ivbL i
+fixed_operon_line 14 uhpCCBA-ilvNB-ivbL i
+uhpCCBA-ilvNB-ivbL ['*', 'uhpC', 'uhpC', 'uhpB', 'uhpA', '*', 'ilvN', 'ilvB', '*', 'ivbL']
+./optimized_results_proteobacteria/ydhYVWXUT.txt
+fixed_operon_line 0 ydhUX ydhY y
+fixed_operon_line 6 ydhUX ydhY y
+ydhUX ydhY ['*', 'ydhU', 'ydhX', '*', 'ydhY']
+fixed_operon_line 0 ydhUX ydhY y
+fixed_operon_line 6 ydhUX ydhY y
+ydhUX ydhY ['*', 'ydhU', 'ydhX', '*', 'ydhY']
+fixed_operon_line 0 ydhTUXWVY y
+ydhTUXWVY ['*', 'ydhT', 'ydhU', 'ydhX', 'ydhW', 'ydhV', 'ydhY']
+fixed_operon_line 0 ydhXX ydhY y
+fixed_operon_line 6 ydhXX ydhY y
+ydhXX ydhY ['*', 'ydhX', 'ydhX', '*', 'ydhY']
+fixed_operon_line 0 ydhYV  ydhX y
+fixed_operon_line 6 ydhYV  ydhX  
+ydhYV  ydhX ['*', 'ydhY', 'ydhV', '*', ' ydh', ' ydX']
+fixed_operon_line 0 ydhTUXW ydhY y
+fixed_operon_line 8 ydhTUXW ydhY y
+ydhTUXW ydhY ['*', 'ydhT', 'ydhU', 'ydhX', 'ydhW', '*', 'ydhY']
+./optimized_results_proteobacteria/glcDEFGBA.txt
+fixed_operon_line 0 glcDF glcE glcB g
+fixed_operon_line 6 glcDF glcE glcB g
+fixed_operon_line 11 glcDF glcE glcB g
+glcDF glcE glcB ['*', 'glcD', 'glcF', '*', 'glcE', '*', 'glcB']
+fixed_operon_line 0 glcGFED glcA glcB g
+fixed_operon_line 8 glcGFED glcA glcB g
+fixed_operon_line 13 glcGFED glcA glcB g
+glcGFED glcA glcB ['*', 'glcG', 'glcF', 'glcE', 'glcD', '*', 'glcA', '*', 'glcB']
+fixed_operon_line 0 glcDEFG glcA glcB g
+fixed_operon_line 8 glcDEFG glcA glcB g
+fixed_operon_line 13 glcDEFG glcA glcB g
+glcDEFG glcA glcB ['*', 'glcD', 'glcE', 'glcF', 'glcG', '*', 'glcA', '*', 'glcB']
+fixed_operon_line 0 glcAD glcF g
+fixed_operon_line 6 glcAD glcF g
+glcAD glcF ['*', 'glcA', 'glcD', '*', 'glcF']
+fixed_operon_line 0 glcAF  glcD glcE g
+fixed_operon_line 6 glcAF  glcD glcE  
+fixed_operon_line 12 glcAF  glcD glcE g
+glcAF  glcD glcE ['*', 'glcA', 'glcF', '*', ' glc', ' glD', '*', 'glcE']
+fixed_operon_line 0 glcFA glcD glcE g
+fixed_operon_line 6 glcFA glcD glcE g
+fixed_operon_line 11 glcFA glcD glcE g
+glcFA glcD glcE ['*', 'glcF', 'glcA', '*', 'glcD', '*', 'glcE']
+fixed_operon_line 0 glcDEF glcG glcA g
+fixed_operon_line 7 glcDEF glcG glcA g
+fixed_operon_line 12 glcDEF glcG glcA g
+glcDEF glcG glcA ['*', 'glcD', 'glcE', 'glcF', '*', 'glcG', '*', 'glcA']
+fixed_operon_line 0 glcDEF glcB g
+fixed_operon_line 7 glcDEF glcB g
+glcDEF glcB ['*', 'glcD', 'glcE', 'glcF', '*', 'glcB']
+fixed_operon_line 0 glcFDA glcB g
+fixed_operon_line 7 glcFDA glcB g
+glcFDA glcB ['*', 'glcF', 'glcD', 'glcA', '*', 'glcB']
+fixed_operon_line 0 glcFD glcE glcG glcA glcB g
+fixed_operon_line 6 glcFD glcE glcG glcA glcB g
+fixed_operon_line 11 glcFD glcE glcG glcA glcB g
+fixed_operon_line 16 glcFD glcE glcG glcA glcB g
+fixed_operon_line 21 glcFD glcE glcG glcA glcB g
+glcFD glcE glcG glcA glcB ['*', 'glcF', 'glcD', '*', 'glcE', '*', 'glcG', '*', 'glcA', '*', 'glcB']
+fixed_operon_line 0 glcDDEF glcG glcA glcB g
+fixed_operon_line 8 glcDDEF glcG glcA glcB g
+fixed_operon_line 13 glcDDEF glcG glcA glcB g
+fixed_operon_line 18 glcDDEF glcG glcA glcB g
+glcDDEF glcG glcA glcB ['*', 'glcD', 'glcD', 'glcE', 'glcF', '*', 'glcG', '*', 'glcA', '*', 'glcB']
+fixed_operon_line 0 glcFEDD glcG glcB g
+fixed_operon_line 8 glcFEDD glcG glcB g
+fixed_operon_line 13 glcFEDD glcG glcB g
+glcFEDD glcG glcB ['*', 'glcF', 'glcE', 'glcD', 'glcD', '*', 'glcG', '*', 'glcB']
+fixed_operon_line 0 glcDDEF glcG glcA glcB g
+fixed_operon_line 8 glcDDEF glcG glcA glcB g
+fixed_operon_line 13 glcDDEF glcG glcA glcB g
+fixed_operon_line 18 glcDDEF glcG glcA glcB g
+glcDDEF glcG glcA glcB ['*', 'glcD', 'glcD', 'glcE', 'glcF', '*', 'glcG', '*', 'glcA', '*', 'glcB']
+fixed_operon_line 0 glcABGFED g
+glcABGFED ['*', 'glcA', 'glcB', 'glcG', 'glcF', 'glcE', 'glcD']
+fixed_operon_line 0 glcFED g
+glcFED ['*', 'glcF', 'glcE', 'glcD']
+fixed_operon_line 0 glcAFF glcD g
+fixed_operon_line 7 glcAFF glcD g
+glcAFF glcD ['*', 'glcA', 'glcF', 'glcF', '*', 'glcD']
+fixed_operon_line 0 glcDE glcGB g
+fixed_operon_line 6 glcDE glcGB g
+glcDE glcGB ['*', 'glcD', 'glcE', '*', 'glcG', 'glcB']
+fixed_operon_line 0 glcDEF glcB g
+fixed_operon_line 7 glcDEF glcB g
+glcDEF glcB ['*', 'glcD', 'glcE', 'glcF', '*', 'glcB']
+fixed_operon_line 0 glcFF glcABG glcD g
+fixed_operon_line 6 glcFF glcABG glcD g
+fixed_operon_line 13 glcFF glcABG glcD g
+glcFF glcABG glcD ['*', 'glcF', 'glcF', '*', 'glcA', 'glcB', 'glcG', '*', 'glcD']
+./optimized_results_proteobacteria/rbsDACBKR.txt
+fixed_operon_line 0 rbsBA C rbsKR r
+fixed_operon_line 6 rbsBA C rbsKR C
+rbsBA C rbsKR ['*', 'rbsB', 'rbsA', '*', 'C rb', 'C rs', 'C rK', 'C rR']
+fixed_operon_line 0 rbsBACRK r
+rbsBACRK ['*', 'rbsB', 'rbsA', 'rbsC', 'rbsR', 'rbsK']
+fixed_operon_line 0 rbsACB rbsK rbsR r
+fixed_operon_line 7 rbsACB rbsK rbsR r
+fixed_operon_line 12 rbsACB rbsK rbsR r
+rbsACB rbsK rbsR ['*', 'rbsA', 'rbsC', 'rbsB', '*', 'rbsK', '*', 'rbsR']
+fixed_operon_line 0 rbsBACRKD r
+rbsBACRKD ['*', 'rbsB', 'rbsA', 'rbsC', 'rbsR', 'rbsK', 'rbsD']
+fixed_operon_line 0 rbsRBCADK r
+rbsRBCADK ['*', 'rbsR', 'rbsB', 'rbsC', 'rbsA', 'rbsD', 'rbsK']
+fixed_operon_line 0 rbsKRCAB r
+rbsKRCAB ['*', 'rbsK', 'rbsR', 'rbsC', 'rbsA', 'rbsB']
+fixed_operon_line 0 rbsCA rbsR rbsB r
+fixed_operon_line 6 rbsCA rbsR rbsB r
+fixed_operon_line 11 rbsCA rbsR rbsB r
+rbsCA rbsR rbsB ['*', 'rbsC', 'rbsA', '*', 'rbsR', '*', 'rbsB']
+fixed_operon_line 0 rbsAA rbsR rbsB r
+fixed_operon_line 6 rbsAA rbsR rbsB r
+fixed_operon_line 11 rbsAA rbsR rbsB r
+rbsAA rbsR rbsB ['*', 'rbsA', 'rbsA', '*', 'rbsR', '*', 'rbsB']
+fixed_operon_line 0 rbsAA rbsK r
+fixed_operon_line 6 rbsAA rbsK r
+rbsAA rbsK ['*', 'rbsA', 'rbsA', '*', 'rbsK']
+fixed_operon_line 0 rbsAA rbsC rbsK r
+fixed_operon_line 6 rbsAA rbsC rbsK r
+fixed_operon_line 11 rbsAA rbsC rbsK r
+rbsAA rbsC rbsK ['*', 'rbsA', 'rbsA', '*', 'rbsC', '*', 'rbsK']
+fixed_operon_line 0 rbsRKBCAD r
+rbsRKBCAD ['*', 'rbsR', 'rbsK', 'rbsB', 'rbsC', 'rbsA', 'rbsD']
+fixed_operon_line 0 rbsDACBKR r
+rbsDACBKR ['*', 'rbsD', 'rbsA', 'rbsC', 'rbsB', 'rbsK', 'rbsR']
+fixed_operon_line 0 rbsBAC rbsK rbsR r
+fixed_operon_line 7 rbsBAC rbsK rbsR r
+fixed_operon_line 12 rbsBAC rbsK rbsR r
+rbsBAC rbsK rbsR ['*', 'rbsB', 'rbsA', 'rbsC', '*', 'rbsK', '*', 'rbsR']
+fixed_operon_line 0 rbsAA rbsR rbsB r
+fixed_operon_line 6 rbsAA rbsR rbsB r
+fixed_operon_line 11 rbsAA rbsR rbsB r
+rbsAA rbsR rbsB ['*', 'rbsA', 'rbsA', '*', 'rbsR', '*', 'rbsB']
+fixed_operon_line 0 rbsRA rbsC r
+fixed_operon_line 6 rbsRA rbsC r
+rbsRA rbsC ['*', 'rbsR', 'rbsA', '*', 'rbsC']
+fixed_operon_line 0 rbsAA rbsK rbsB rbsR r
+fixed_operon_line 6 rbsAA rbsK rbsB rbsR r
+fixed_operon_line 11 rbsAA rbsK rbsB rbsR r
+fixed_operon_line 16 rbsAA rbsK rbsB rbsR r
+rbsAA rbsK rbsB rbsR ['*', 'rbsA', 'rbsA', '*', 'rbsK', '*', 'rbsB', '*', 'rbsR']
+fixed_operon_line 0 rbsAA rbsK rbsB rbsR r
+fixed_operon_line 6 rbsAA rbsK rbsB rbsR r
+fixed_operon_line 11 rbsAA rbsK rbsB rbsR r
+fixed_operon_line 16 rbsAA rbsK rbsB rbsR r
+rbsAA rbsK rbsB rbsR ['*', 'rbsA', 'rbsA', '*', 'rbsK', '*', 'rbsB', '*', 'rbsR']
+fixed_operon_line 0 rbsACB rbsKK rbsRA r
+fixed_operon_line 7 rbsACB rbsKK rbsRA r
+fixed_operon_line 13 rbsACB rbsKK rbsRA r
+rbsACB rbsKK rbsRA ['*', 'rbsA', 'rbsC', 'rbsB', '*', 'rbsK', 'rbsK', '*', 'rbsR', 'rbsA']
+fixed_operon_line 0 rbsDACBKR r
+rbsDACBKR ['*', 'rbsD', 'rbsA', 'rbsC', 'rbsB', 'rbsK', 'rbsR']
+fixed_operon_line 0 rbsAR rbsACB rbsK r
+fixed_operon_line 6 rbsAR rbsACB rbsK r
+fixed_operon_line 13 rbsAR rbsACB rbsK r
+rbsAR rbsACB rbsK ['*', 'rbsA', 'rbsR', '*', 'rbsA', 'rbsC', 'rbsB', '*', 'rbsK']
+fixed_operon_line 0 rbsAR rbsBCA rbsK r
+fixed_operon_line 6 rbsAR rbsBCA rbsK r
+fixed_operon_line 13 rbsAR rbsBCA rbsK r
+rbsAR rbsBCA rbsK ['*', 'rbsA', 'rbsR', '*', 'rbsB', 'rbsC', 'rbsA', '*', 'rbsK']
+fixed_operon_line 0 rbsAA r
+rbsAA ['*', 'rbsA', 'rbsA']
+fixed_operon_line 0 rbsDACBKR r
+rbsDACBKR ['*', 'rbsD', 'rbsA', 'rbsC', 'rbsB', 'rbsK', 'rbsR']
+fixed_operon_line 0 rbsDK rbsRC AB r
+fixed_operon_line 6 rbsDK rbsRC AB r
+fixed_operon_line 12 rbsDK rbsRC AB A

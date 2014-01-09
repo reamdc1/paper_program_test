@@ -1,0 +1,2 @@
+NC_000913	Escherichia_coli	*dicB-ydfDE-insD-intQ
+NC_004741	Shigella_flexneri	*insDD**ydfD*intQ

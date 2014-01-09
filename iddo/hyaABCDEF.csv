@@ -1,0 +1,10 @@
+NC_Number,Common,Distance,Splitting,Migration,Duplicates,Deletions,Splits,Longest_Group,Total_Fusions,Group_Fusions,Inversions
+NC_003197,Salmonella enterica,1.35,0.00,1.00,0,0,0,6,0,0
+NC_000913,Escherichia coli,0.00,0.00,1.00,0,0,0,6,0,0
+NC_004917,Helicobacter hepaticus,74.29,0.00,0.67,0,2,0,4,0,0
+NC_002163,Campylobacter jejuni,75.28,0.00,0.67,0,2,0,4,0,0
+NC_003198,Salmonella enterica,1.35,0.17,0.83,0,0,1,5,0,0
+NC_005090,Wolinella succinogenes,72.26,0.00,0.67,0,2,0,4,0,0
+NC_004741,Shigella flexneri,0.00,0.00,1.00,0,0,0,6,0,0
+NC_004347,Shewanella oneidensis,21.85,0.00,0.67,0,2,0,4,0,0
+NC_004463,Bradyrhizobium japonicum,53.02,0.17,0.67,1,1,1,4,0,0

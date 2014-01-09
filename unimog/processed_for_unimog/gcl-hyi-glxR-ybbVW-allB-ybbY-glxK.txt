@@ -1,0 +1,92 @@
+>Mesorhizobium_loti_MAFF303099|NC_002678
+glxR |
+ybbW |
+allB |
+gcl |
+glxK |
+hyi |
+ybbV |
+ybbY |
+>Pseudomonas_aeruginosa_PAO1|NC_002516
+-glxR |
+-ybbW |
+allB |
+glxK |
+gcl |
+hyi |
+ybbV |
+ybbY |
+>Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|NC_003197
+glxR |
+ybbW allB ybbY glxK |
+gcl |
+hyi |
+ybbV |
+>Pseudomonas_putida_KT2440|NC_002947
+glxR |
+ybbW |
+-allB |
+glxK |
+gcl |
+hyi |
+ybbV |
+ybbY |
+>Ralstonia_solanacearum_GMI1000|NC_003295
+glxR |
+ybbW |
+allB |
+gcl |
+glxK |
+hyi |
+ybbV |
+ybbY |
+>Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|NC_003198
+glxR |
+allB ybbY glxK |
+gcl |
+hyi |
+ybbV |
+ybbW |
+>Bradyrhizobium_japonicum_USDA_110|NC_004463
+glxR |
+-allB |
+gcl |
+glxK |
+hyi |
+ybbV |
+ybbW |
+ybbY |
+>Bordetella_parapertussis_12822|NC_002928
+-glxR |
+allB |
+|
+gcl |
+glxK |
+hyi |
+ybbV |
+ybbW |
+ybbY |
+>Bordetella_bronchiseptica_RB50|NC_002927
+-glxR |
+-allB |
+glxK |
+|
+gcl |
+hyi |
+ybbV |
+ybbW |
+ybbY |
+>Escherichia_coli_str._K-12_substr._MG1655|NC_000913
+glxR ybbW allB ybbY glxK |
+gcl |
+hyi |
+ybbV |
+>Shigella_flexneri_2a_str._2457T|NC_004741
+|
+-glxK -glxR |
+allB |
+gcl |
+hyi |
+ybbV |
+ybbW |
+ybbY |

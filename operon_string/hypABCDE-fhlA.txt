@@ -1,0 +1,11 @@
+NC_003197	Salmonella_enterica	*hypABCDE-fhlA
+NC_004917	Helicobacter_hepaticus	*hypCB*hypE*hypD*fhlA*hypA
+NC_002163	Campylobacter_jejuni	*hypBDEA*fhlA
+NC_003198	Salmonella_enterica	*hypABCDE-fhlA
+NC_004347	Shewanella_oneidensis	*hypAEDCB*fhlA
+NC_004463	Bradyrhizobium_japonicum	*hypCDE*hypBA*fhlA
+NC_002927	Bordetella_bronchiseptica	*fhlAA**hypB
+NC_000913	Escherichia_coli	*hypABCDE-fhlA
+NC_004578	Pseudomonas_syringae	*fhlAA*hypB
+NC_005090	Wolinella_succinogenes	*hypBD*hypE*fhlA
+NC_004741	Shigella_flexneri	*hypABCDE-fhlA

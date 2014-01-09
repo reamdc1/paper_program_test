@@ -1,0 +1,36 @@
+NC_002678	Mesorhizobium_loti	atpCDGA atpB
+NC_002516	Pseudomonas_aeruginosa	atpCDGAHFEB
+NC_003197	Salmonella_enterica	atpCDGAHFEBI
+NC_004310	Brucella_suis	atpCDGAH atpB
+NC_003112	Neisseria_meningitidis	atpCDGAHFEB
+NC_002947	Pseudomonas_putida	atpCDGAHFEB
+NC_005085	Chromobacterium_violaceum	atpBEFHAGDC
+NC_003295	Ralstonia_solanacearum	atpCDGAHFEB
+NC_012668	Vibrio_cholerae	atpCDGAHFEB
+NC_004459	Vibrio_vulnificus	atpIBEFHAGDC
+NC_004917	Helicobacter_hepaticus	atpAGDC atpB
+NC_002163	Campylobacter_jejuni	atpAGDC atpB
+NC_003198	Salmonella_enterica	atpIBEFHAGDC
+NC_003047	Sinorhizobium_meliloti	atpCDGA atpB
+NC_004603	Vibrio_parahaemolyticus	atpCDGAHFEBI
+NC_002929	Bordetella_pertussis	atpBEFHAGDC
+NC_003919	Xanthomonas_axonopodis	atpCDGAHFEB
+NC_004347	Shewanella_oneidensis	atpCDGAHFEBI
+NC_004463	Bradyrhizobium_japonicum	atpCDGAH atpB
+NC_002928	Bordetella_parapertussis	atpCDGAHFEB
+NC_002488	Xylella_fastidiosa	atpCDGAHFEB
+NC_002927	Bordetella_bronchiseptica	atpCDGAHFEB
+NC_011833	Buchnera_aphidicola	atpBEFHAGDC
+NC_005061	Candidatus_Blochmannia	atpBEFHAGDC
+NC_007086	Xanthomonas_campestris	atpCDGAHFEB
+NC_000913	Escherichia_coli	atpCDGAHFEBI
+NC_004757	Nitrosomonas_europaea	atpBEFHAGDC
+NC_003143	Yersinia_pestis	atpCDGAHFEBI
+NC_002663	Pasteurella_multocida	atpBEFHAGDC
+NC_004578	Pseudomonas_syringae	atpCDGAHFEB
+NC_002696	Caulobacter_crescentus	atpCDGAH atpB
+NC_003062	Agrobacterium_tumefaciens	atpCDGA atpB
+NC_005090	Wolinella_succinogenes	atpAGDC atpB
+NC_012441	Brucella_melitensis	atpCDGAH atpB
+NC_000907	Haemophilus_influenzae	atpCDGAHFEB
+NC_004741	Shigella_flexneri	atpIBEFHAGDC

@@ -1,0 +1,4 @@
+NC_003197	Salmonella_enterica	*gatZABCD*gatY
+NC_003198	Salmonella_enterica	*gatABCD*gatY
+NC_000913	Escherichia_coli	*gatDCBAZY
+NC_004741	Shigella_flexneri	*gatCBAZY*gatD
